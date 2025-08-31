@@ -348,3 +348,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [31Aug2025 17:33:55.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [When in Rome]
 [31Aug2025 17:34:33.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Monster Hunter]
 [31Aug2025 17:34:34.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [...And My Axe!]
+[31Aug2025 17:36:50.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Acquire Hardware]
+[31Aug2025 17:36:57.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Isn't It Iron Pick]
+[31Aug2025 17:38:43.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Suit Up]
+[31Aug2025 17:39:11.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Spectator Mode]
+[31Aug2025 17:39:36.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
+[31Aug2025 17:39:43.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Gamerule sendCommandFeedback is now set to: false]
+[31Aug2025 17:42:00.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Spectator Mode]
+[31Aug2025 17:43:00.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
+[31Aug2025 17:43:32.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Spectator Mode]
+[31Aug2025 17:43:57.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
+[31Aug2025 17:45:26.879] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BenjaXx015 is 88613add-e9af-4d19-bc51-d2a1c4b649bb
+[31Aug2025 17:45:27.180] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [majruszsenchantments:main,majruszlibrary:main] rejected their client side version number
+[31Aug2025 17:45:27.180] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[31Aug2025 17:45:27.233] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@722861b8[id=88613add-e9af-4d19-bc51-d2a1c4b649bb,name=BenjaXx015,properties={textures=[com.mojang.authlib.properties.Property@10af316]},legacy=false] (/127.51.182.237:57559) lost connection: Connection closed - mismatched mod channel list
