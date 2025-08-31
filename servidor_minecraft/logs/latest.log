@@ -343,3 +343,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [31Aug2025 17:07:17.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> asd
 [31Aug2025 17:07:18.950] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/938, l='ServerLevel[world]', x=943.99, y=90.69, z=23.64]
 [31Aug2025 17:07:32.051] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/1117, l='ServerLevel[world]', x=1132.30, y=70.00, z=-32.01]
+[31Aug2025 17:29:39.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Spectator Mode]
+[31Aug2025 17:31:39.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
+[31Aug2025 17:33:55.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [When in Rome]
+[31Aug2025 17:34:33.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Monster Hunter]
+[31Aug2025 17:34:34.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [...And My Axe!]
