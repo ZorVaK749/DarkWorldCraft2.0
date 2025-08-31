@@ -536,3 +536,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [31Aug2025 20:27:24.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> 1906 50 122
 [31Aug2025 20:27:56.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 has made the advancement [Book of Monsters]
 [31Aug2025 20:37:30.803] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/52006, l='ServerLevel[world]', x=-695.07, y=74.21, z=-1004.66] died, message: 'Nitwit was slain by Ghost'
+[31Aug2025 20:38:24.296] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player benyi_139 is 3247c3f6-ffd6-4f1b-9b1c-14941960bda6
+[31Aug2025 20:38:53.709] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1dee039d[id=3247c3f6-ffd6-4f1b-9b1c-14941960bda6,name=benyi_139,properties={textures=[com.mojang.authlib.properties.Property@7cdc783f]},legacy=false] (/127.159.33.224:46383): Took too long to log in
+[31Aug2025 20:38:53.710] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1dee039d[id=3247c3f6-ffd6-4f1b-9b1c-14941960bda6,name=benyi_139,properties={textures=[com.mojang.authlib.properties.Property@7cdc783f]},legacy=false] (/127.159.33.224:46383) lost connection: Took too long to log in
+[31Aug2025 20:38:53.758] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Aug2025 20:41:43.541] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vrayiRAX is 2ef24a3b-228d-42c3-a56f-31f9396fa89e
+[31Aug2025 20:41:58.259] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@25b64043
+[31Aug2025 20:41:58.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vrayiRAX[/127.200.192.237:60393] logged in with entity id 58566 at (21.30000001192093, -50.0, 415.34868225003913)
+[31Aug2025 20:41:58.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX joined the game
+[31Aug2025 20:41:58.289] [Server thread/INFO] [Jade/]: Syncing config to vrayiRAX (2ef24a3b-228d-42c3-a56f-31f9396fa89e)
+[31Aug2025 20:42:15.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [A Bigger Blade]
+[31Aug2025 20:42:18.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [A Cut Above the Rest]
+[31Aug2025 20:42:28.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX lost connection: Timed out
+[31Aug2025 20:42:28.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX left the game
+[31Aug2025 20:42:55.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> asd
+[31Aug2025 20:43:21.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenjaXx015 lost connection: Disconnected
+[31Aug2025 20:43:21.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 left the game
+[31Aug2025 20:44:28.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ was slain by Zombie
+[31Aug2025 20:44:44.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has completed the challenge [Cannibal]
+[31Aug2025 20:45:03.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ lost connection: Disconnected
+[31Aug2025 20:45:03.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ left the game
+[31Aug2025 20:45:16.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Aug2025 20:45:16.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Aug2025 20:45:16.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Aug2025 20:45:16.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Aug2025 20:45:18.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Aug2025 20:45:18.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Aug2025 20:45:18.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[31Aug2025 20:45:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Aug2025 20:45:18.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[31Aug2025 20:45:18.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Aug2025 20:45:18.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Aug2025 20:45:18.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[31Aug2025 20:45:18.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Aug2025 20:45:18.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[31Aug2025 20:45:18.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
