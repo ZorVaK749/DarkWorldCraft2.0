@@ -362,3 +362,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [31Aug2025 17:45:27.180] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [majruszsenchantments:main,majruszlibrary:main] rejected their client side version number
 [31Aug2025 17:45:27.180] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [31Aug2025 17:45:27.233] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@722861b8[id=88613add-e9af-4d19-bc51-d2a1c4b649bb,name=BenjaXx015,properties={textures=[com.mojang.authlib.properties.Property@10af316]},legacy=false] (/127.51.182.237:57559) lost connection: Connection closed - mismatched mod channel list
+[31Aug2025 17:54:51.927] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BenjaXx015 is 88613add-e9af-4d19-bc51-d2a1c4b649bb
+[31Aug2025 17:54:55.578] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3df71d4b
+[31Aug2025 17:54:55.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BenjaXx015[/127.51.182.237:34429] logged in with entity id 8260 at (1.5, 67.0, 4.5)
+[31Aug2025 17:54:55.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 joined the game
+[31Aug2025 17:54:55.655] [Server thread/INFO] [Jade/]: Syncing config to BenjaXx015 (88613add-e9af-4d19-bc51-d2a1c4b649bb)
+[31Aug2025 17:54:55.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 has made the advancement [Ice and Fire]
+[31Aug2025 17:55:59.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> 1119 79 150
