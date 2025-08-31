@@ -510,3 +510,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [31Aug2025 19:54:40.490] [Server thread/INFO] [Jade/]: Syncing config to vrayiRAX (2ef24a3b-228d-42c3-a56f-31f9396fa89e)
 [31Aug2025 19:55:10.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX lost connection: Timed out
 [31Aug2025 19:55:10.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX left the game
+[31Aug2025 19:57:35.540] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vrayiRAX is 2ef24a3b-228d-42c3-a56f-31f9396fa89e
+[31Aug2025 19:57:38.562] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c74a73c
+[31Aug2025 19:57:38.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vrayiRAX[/127.200.192.237:52489] logged in with entity id 33665 at (21.30000001192093, -50.0, 415.34868225003913)
+[31Aug2025 19:57:38.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX joined the game
+[31Aug2025 19:57:38.592] [Server thread/INFO] [Jade/]: Syncing config to vrayiRAX (2ef24a3b-228d-42c3-a56f-31f9396fa89e)
+[31Aug2025 19:58:08.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX lost connection: Timed out
+[31Aug2025 19:58:08.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX left the game
+[31Aug2025 20:05:05.044] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vrayiRAX is 2ef24a3b-228d-42c3-a56f-31f9396fa89e
+[31Aug2025 20:05:15.708] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ae1070
+[31Aug2025 20:05:15.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vrayiRAX[/127.200.192.237:46897] logged in with entity id 37736 at (21.30000001192093, -50.0, 415.34868225003913)
+[31Aug2025 20:05:15.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX joined the game
+[31Aug2025 20:05:15.738] [Server thread/INFO] [Jade/]: Syncing config to vrayiRAX (2ef24a3b-228d-42c3-a56f-31f9396fa89e)
+[31Aug2025 20:05:45.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX lost connection: Timed out
+[31Aug2025 20:05:45.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX left the game
+[31Aug2025 20:06:13.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 was doomed to fall
+[31Aug2025 20:06:19.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> Xd
+[31Aug2025 20:15:36.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 drowned
+[31Aug2025 20:17:47.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Created new objective [Muertitos]]
+[31Aug2025 20:17:57.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set display slot sidebar to show objective Muertitos]
+[31Aug2025 20:18:40.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set [Muertitos] for BenjaXx015 to 0]
+[31Aug2025 20:18:48.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set [Muertitos] for 2 entities to 0]
+[31Aug2025 20:24:39.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 has made the advancement [Ice Bucket Challenge]
+[31Aug2025 20:27:03.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> 1090650122
+[31Aug2025 20:27:24.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> 1906 50 122
+[31Aug2025 20:27:56.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 has made the advancement [Book of Monsters]
+[31Aug2025 20:37:30.803] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/52006, l='ServerLevel[world]', x=-695.07, y=74.21, z=-1004.66] died, message: 'Nitwit was slain by Ghost'
