@@ -470,3 +470,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [31Aug2025 19:46:31.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX lost connection: Timed out
 [31Aug2025 19:46:31.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX left the game
 [31Aug2025 19:46:41.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 has made the advancement [Diamonds!]
+[31Aug2025 19:47:21.261] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vrayiRAX is 2ef24a3b-228d-42c3-a56f-31f9396fa89e
+[31Aug2025 19:47:23.561] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1066ab04
+[31Aug2025 19:47:23.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vrayiRAX[/127.200.192.237:56471] logged in with entity id 25878 at (226.8512667025088, 77.875, 564.9577724029048)
+[31Aug2025 19:47:23.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX joined the game
+[31Aug2025 19:47:23.592] [Server thread/INFO] [Jade/]: Syncing config to vrayiRAX (2ef24a3b-228d-42c3-a56f-31f9396fa89e)
+[31Aug2025 19:47:28.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported vrayiRAX to 21.300000, -50.000000, 415.348682]
+[31Aug2025 19:47:53.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX lost connection: Timed out
+[31Aug2025 19:47:53.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX left the game
+[31Aug2025 19:48:54.226] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vrayiRAX is 2ef24a3b-228d-42c3-a56f-31f9396fa89e
+[31Aug2025 19:49:01.617] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73f27c09
+[31Aug2025 19:49:01.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vrayiRAX[/127.200.192.237:59323] logged in with entity id 27450 at (21.30000001192093, -50.0, 415.34868225003913)
+[31Aug2025 19:49:01.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX joined the game
+[31Aug2025 19:49:01.649] [Server thread/INFO] [Jade/]: Syncing config to vrayiRAX (2ef24a3b-228d-42c3-a56f-31f9396fa89e)
+[31Aug2025 19:49:27.216] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [watut:main,comforts:main,carryon:carryonpackets,sophisticatedbackpacks:channel,citadel:main_channel,walljump:network,storagedrawers:main_channel,iceandfire:main_channel,aquaculturedelight:aquaculturedelight,curios:main,cataclysm_delight:cataclysm_delight,majruszsenchantments:main,cataclysm:main_channel,majruszlibrary:main,cataclysm_weaponery:cataclysm_weaponery,lionfishapi:main_channel,forge:tier_sorting,undergardendelight:undergardendelight,spartanshields:network,trashslot:network,mowziesmobs:net,supplementaries:network,sophisticatedcore:channel,mahoutsukai:main_channel,spartanweaponry:network,geckolib3:main,waystones:network,moonlight:channel] rejected vanilla connections
+[31Aug2025 19:49:27.216] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[31Aug2025 19:49:31.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX lost connection: Timed out
+[31Aug2025 19:49:31.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX left the game
+[31Aug2025 19:50:54.084] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vrayiRAX is 2ef24a3b-228d-42c3-a56f-31f9396fa89e
+[31Aug2025 19:51:10.559] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f00e13f
+[31Aug2025 19:51:10.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vrayiRAX[/127.200.192.237:45847] logged in with entity id 28881 at (21.30000001192093, -50.0, 415.34868225003913)
+[31Aug2025 19:51:10.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX joined the game
+[31Aug2025 19:51:10.590] [Server thread/INFO] [Jade/]: Syncing config to vrayiRAX (2ef24a3b-228d-42c3-a56f-31f9396fa89e)
+[31Aug2025 19:51:27.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Second Age]
+[31Aug2025 19:51:57.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX lost connection: Disconnected
+[31Aug2025 19:51:57.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX left the game
+[31Aug2025 19:51:57.076] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Aug2025 19:52:36.240] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vrayiRAX is 2ef24a3b-228d-42c3-a56f-31f9396fa89e
+[31Aug2025 19:52:46.362] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39a8bd80
+[31Aug2025 19:52:46.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vrayiRAX[/127.200.192.237:43843] logged in with entity id 30296 at (21.30000001192093, -50.0, 415.34868225003913)
+[31Aug2025 19:52:46.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX joined the game
+[31Aug2025 19:52:46.394] [Server thread/INFO] [Jade/]: Syncing config to vrayiRAX (2ef24a3b-228d-42c3-a56f-31f9396fa89e)
+[31Aug2025 19:53:16.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX lost connection: Timed out
+[31Aug2025 19:53:16.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX left the game
+[31Aug2025 19:54:30.798] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vrayiRAX is 2ef24a3b-228d-42c3-a56f-31f9396fa89e
+[31Aug2025 19:54:40.459] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@84da92
+[31Aug2025 19:54:40.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vrayiRAX[/127.200.192.237:42811] logged in with entity id 31856 at (21.30000001192093, -50.0, 415.34868225003913)
+[31Aug2025 19:54:40.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX joined the game
+[31Aug2025 19:54:40.490] [Server thread/INFO] [Jade/]: Syncing config to vrayiRAX (2ef24a3b-228d-42c3-a56f-31f9396fa89e)
+[31Aug2025 19:55:10.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX lost connection: Timed out
+[31Aug2025 19:55:10.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX left the game
