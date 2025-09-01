@@ -4047,3 +4047,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [01Sep2025 05:09:00.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 left the game
 [01Sep2025 05:09:59.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Sep2025 05:09:59.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Sep2025 05:14:59.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Sep2025 05:14:59.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Sep2025 05:19:59.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Sep2025 05:19:59.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
