@@ -438,9 +438,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "spartanweaponry:recipes/spartanweaponry.modded/silver_pike": {
     "criteria": {
-      "has_gravel": "2025-08-31 19:50:08 +0000"
+      "has_silver_ingot": "2025-08-31 19:33:45 +0000"
     },
     "done": true
   },
@@ -450,9 +450,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.modded/silver_pike": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
-      "has_silver_ingot": "2025-08-31 19:33:45 +0000"
+      "has_gravel": "2025-08-31 19:50:08 +0000"
     },
     "done": true
   },
@@ -916,6 +916,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/silver_tomahawk": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-31 19:33:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-08-31 20:26:45 +0000"
@@ -925,12 +931,6 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-08-31 20:28:22 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.modded/silver_tomahawk": {
-    "criteria": {
-      "has_silver_ingot": "2025-08-31 19:33:45 +0000"
     },
     "done": true
   },
@@ -1012,15 +1012,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2025-08-31 20:12:48 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_saber": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-31 20:12:48 +0000"
     },
     "done": true
   },
@@ -1336,15 +1336,15 @@
     },
     "done": true
   },
-  "spartanfire:recipes/spartanfire/dragon_bone_quarterstaff": {
-    "criteria": {
-      "has_dragon_bone": "2025-08-31 20:09:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-31 19:50:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_dragon_bone": "2025-08-31 20:09:04 +0000"
     },
     "done": true
   },
@@ -1420,15 +1420,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-08-31 19:45:07 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_spear": {
     "criteria": {
       "has_copper_ingot": "2025-08-31 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-31 19:45:07 +0000"
     },
     "done": true
   },
@@ -1576,15 +1576,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-08-31 19:48:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-31 19:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-31 19:48:31 +0000"
     },
     "done": true
   },
@@ -2095,15 +2095,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-08-31 20:26:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-08-31 20:14:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-31 20:26:45 +0000"
     },
     "done": true
   },
@@ -2269,15 +2269,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/copper_arrow": {
-    "criteria": {
-      "has_feather": "2025-08-31 20:29:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-08-31 20:29:50 +0000"
     },
     "done": true
   },
@@ -2329,15 +2329,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/large_quiver_upgrade_kit": {
-    "criteria": {
-      "has_diamond": "2025-08-31 19:46:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-31 19:46:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/large_quiver_upgrade_kit": {
+    "criteria": {
+      "has_diamond": "2025-08-31 19:46:41 +0000"
     },
     "done": true
   },
@@ -2583,9 +2583,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
-      "has_gravel": "2025-08-31 19:50:08 +0000"
+      "has_diorite": "2025-08-31 19:45:02 +0000"
     },
     "done": true
   },
@@ -2595,9 +2595,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
-      "has_diorite": "2025-08-31 19:45:02 +0000"
+      "has_gravel": "2025-08-31 19:50:08 +0000"
     },
     "done": true
   },
@@ -2637,15 +2637,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-08-31 20:26:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-31 20:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-31 20:26:45 +0000"
     },
     "done": true
   },
@@ -2721,15 +2721,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-08-31 19:46:41 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.modded/silver_halberd": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-31 19:46:41 +0000"
     },
     "done": true
   },
@@ -3471,15 +3471,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-08-31 20:29:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-31 20:14:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-31 20:29:50 +0000"
     },
     "done": true
   },
@@ -3507,15 +3507,15 @@
     },
     "done": true
   },
-  "spartanweaponry:saber": {
-    "criteria": {
-      "has_saber": "2025-08-31 19:36:39 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_dagger": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "has_saber": "2025-08-31 19:36:39 +0000"
     },
     "done": true
   },
