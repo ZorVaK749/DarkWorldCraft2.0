@@ -342,3 +342,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [01Sep2025 21:44:07.172] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4e04a111
 [01Sep2025 21:44:07.493] [Server thread/INFO] [Jade/]: Syncing config to _ZorVaK_ (64cad256-f61a-4915-8560-ed93d78c0bdf)
 [01Sep2025 21:44:12.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5640ms or 112 ticks behind
+[01Sep2025 21:46:38.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ lost connection: Disconnected
+[01Sep2025 21:46:38.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ left the game
+[01Sep2025 21:46:43.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Sep2025 21:46:43.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Sep2025 21:46:43.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Sep2025 21:46:43.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Sep2025 21:46:44.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Sep2025 21:46:44.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[01Sep2025 21:46:44.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[01Sep2025 21:46:44.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Sep2025 21:46:44.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Sep2025 21:46:44.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Sep2025 21:46:44.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[01Sep2025 21:46:44.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[01Sep2025 21:46:44.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Sep2025 21:46:44.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Sep2025 21:46:44.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
