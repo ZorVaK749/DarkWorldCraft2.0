@@ -355,3 +355,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [01Sep2025 16:14:50.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX lost connection: Timed out
 [01Sep2025 16:14:50.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX left the game
 [01Sep2025 16:14:50.417] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Sep2025 16:25:38.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ lost connection: Disconnected
+[01Sep2025 16:25:38.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ left the game
