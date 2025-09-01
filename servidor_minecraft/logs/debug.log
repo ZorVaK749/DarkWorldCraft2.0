@@ -6866,3 +6866,18 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [01Sep2025 02:45:27.461] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [01Sep2025 02:45:29.103] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [01Sep2025 02:45:37.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
+[01Sep2025 02:45:54.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[01Sep2025 02:46:15.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5416ms or 108 ticks behind
+[01Sep2025 02:46:42.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[01Sep2025 02:47:00.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[01Sep2025 02:47:18.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
+[01Sep2025 02:47:45.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Spectator Mode]
+[01Sep2025 02:48:18.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
+[01Sep2025 02:48:37.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01Sep2025 02:48:45.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Sep2025 02:48:45.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Sep2025 02:48:45.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ lost connection: Server closed
+[01Sep2025 02:48:45.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ left the game
+[01Sep2025 02:48:45.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenjaXx015 lost connection: Server closed
+[01Sep2025 02:48:45.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 left the game
+[01Sep2025 02:48:45.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
