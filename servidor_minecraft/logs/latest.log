@@ -1,96 +1,96 @@
-[01Sep2025 03:46:27.534] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.5.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-[01Sep2025 03:46:27.538] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[01Sep2025 03:46:28.936] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/DarkWorldCraft2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2364!/ Service=ModLauncher Env=SERVER
-[01Sep2025 03:46:29.243] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/DarkWorldCraft2.0/servidor_minecraft/mods} returned 2 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[01Sep2025 03:46:29.349] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DarkWorldCraft2.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.5.0/fmlcore-1.19.2-43.5.0.jar is missing mods.toml file
-[01Sep2025 03:46:29.350] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DarkWorldCraft2.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.5.0/javafmllanguage-1.19.2-43.5.0.jar is missing mods.toml file
-[01Sep2025 03:46:29.354] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DarkWorldCraft2.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.5.0/lowcodelanguage-1.19.2-43.5.0.jar is missing mods.toml file
-[01Sep2025 03:46:29.355] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DarkWorldCraft2.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.5.0/mclanguage-1.19.2-43.5.0.jar is missing mods.toml file
-[01Sep2025 03:46:29.590] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[01Sep2025 03:46:29.592] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[01Sep2025 03:46:31.619] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[01Sep2025 03:46:31.713] [main/ERROR] [mixin/]: Mixin config justhammers.mixins.json does not specify "minVersion" property
-[01Sep2025 03:46:31.765] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[01Sep2025 03:46:31.969] [main/WARN] [mixin/]: Reference map 'justhammers-forge-forge-refmap.json' for justhammers.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Sep2025 03:46:31.985] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Sep2025 03:46:33.196] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[01Sep2025 03:46:38.010] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[01Sep2025 03:46:39.731] [main/WARN] [mixin/]: Error loading class: vazkii/quark/content/tools/item/PathfindersQuillItem (java.lang.ClassNotFoundException: vazkii.quark.content.tools.item.PathfindersQuillItem)
-[01Sep2025 03:46:40.179] [modloading-worker-0/WARN] [net.spellcraftgaming.rpghud.main.ModRPGHud/]: RPG-Hud is a client-side-only mod and should not be installed server-side, please remove it from your server
-[01Sep2025 03:46:41.264] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[01Sep2025 03:46:41.358] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.5.0, for MC 1.19.2 with MCP 20220805.130853
-[01Sep2025 03:46:41.366] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.5.0 Initialized
-[01Sep2025 03:46:41.484] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[01Sep2025 03:46:41.485] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[01Sep2025 03:46:42.011] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[01Sep2025 03:46:42.552] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[01Sep2025 03:46:42.568] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 9
-[01Sep2025 03:46:42.569] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 9 has been initalized!
-[01Sep2025 03:46:42.819] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[01Sep2025 03:46:42.889] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[01Sep2025 03:46:42.992] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
-[01Sep2025 03:46:42.993] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[01Sep2025 03:46:44.736] [main/INFO] [moonlight/]: Initialized block sets in 8ms
-[01Sep2025 03:46:44.861] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/structure_processor / minecraft:capped]' to registry
-[01Sep2025 03:46:44.861] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'com.min01.archaeology.init.ArchaeologyStructureProcessorType$$Lambda$10076/0x0000773505378240@139cb382' to registry
-[01Sep2025 03:46:45.525] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
-[01Sep2025 03:46:45.968] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[01Sep2025 03:46:46.063] [modloading-worker-0/INFO] [com.lootintegrations.LootintegrationsMod/]: lootintegrations mod initialized
-[01Sep2025 03:46:46.087] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[01Sep2025 03:46:46.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
-[01Sep2025 03:46:46.199] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[01Sep2025 03:46:46.241] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[01Sep2025 03:46:46.245] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[01Sep2025 03:46:46.248] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
-[01Sep2025 03:46:46.248] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[01Sep2025 03:46:46.249] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
-[01Sep2025 03:46:46.249] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[01Sep2025 03:46:46.249] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[01Sep2025 03:46:46.249] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
-[01Sep2025 03:46:46.249] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
-[01Sep2025 03:46:46.249] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
-[01Sep2025 03:46:46.250] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
-[01Sep2025 03:46:46.307] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[01Sep2025 03:46:46.351] [main/INFO] [supplementaries/]: Finished mod setup in: [0, 0, 2, 0, 0, 0, 0, 0, 1] ms
-[01Sep2025 03:46:46.411] [main/INFO] [moonlight/]: Initialized color sets in 45ms
-[01Sep2025 03:46:46.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.20.1 Target: null
-[01Sep2025 03:46:46.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.2
-[01Sep2025 03:46:46.445] [main/INFO] [moonlight/]: Initialized color sets in 32ms
-[01Sep2025 03:46:46.562] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.ForgeJadeWaystonesPlugin
-[01Sep2025 03:46:46.580] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[01Sep2025 03:46:46.601] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[01Sep2025 03:46:46.609] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[01Sep2025 03:46:46.611] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.github.exopandora.shouldersurfing.integration.ShoulderSurfingJadePlugin
-[01Sep2025 03:46:46.612] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[01Sep2025 03:46:46.614] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
-[01Sep2025 03:46:46.975] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 9.0.0+14 Target: 9.0.0+14
-[01Sep2025 03:46:46.975] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
-[01Sep2025 03:46:47.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.48 Target: null
-[01Sep2025 03:46:47.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[01Sep2025 03:46:47.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 43.5.0 Target: null
-[01Sep2025 03:46:47.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/forge/update.json
-[01Sep2025 03:46:47.420] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.19.2-2.4.20 Target: null
-[01Sep2025 03:46:47.420] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
-[01Sep2025 03:46:47.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.4.7 Target: null
-[01Sep2025 03:46:47.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[01Sep2025 03:46:47.823] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: UP_TO_DATE Current: 1.19.2-2.3.7 Target: null
-[01Sep2025 03:46:47.824] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[01Sep2025 03:46:47.886] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.4 Target: null
-[01Sep2025 03:46:47.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[01Sep2025 03:46:48.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.19.2-1.0.24 Target: null
-[01Sep2025 03:46:48.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Enchantments/update.json
-[01Sep2025 03:46:48.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Found status: AHEAD Current: 1.10.7-backport.1 Target: null
-[01Sep2025 03:46:48.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
-[01Sep2025 03:46:48.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.5-backport.1 Target: null
-[01Sep2025 03:46:48.617] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01Sep2025 03:46:49.661] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/DarkWorldCraft2.0/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23248!/assets/.mcassetsroot' uses unexpected schema
-[01Sep2025 03:46:49.661] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/DarkWorldCraft2.0/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23248!/data/.mcassetsroot' uses unexpected schema
-[01Sep2025 03:46:49.949] [main/INFO] [supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 157 ms
-[01Sep2025 03:46:51.863] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[01Sep2025 03:46:52.106] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:pink_petals (from [1.19.2-forge]-Epic-Knights-9.17.jar)] as it is missing following references: minecraft:pink_petals (from [1.19.2-forge]-Epic-Knights-9.17.jar)
-[01Sep2025 03:46:52.126] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [magistuarmory:gilding_template (from [1.19.2-forge]-Epic-Knights-9.17.jar)] as it is missing following references: magistuarmory:gilding_template (from [1.19.2-forge]-Epic-Knights-9.17.jar)
-[01Sep2025 03:46:52.692] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[01Sep2025 03:46:52.757] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:gilding_template_copy
+[01Sep2025 05:04:17.477] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.5.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[01Sep2025 05:04:17.481] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[01Sep2025 05:04:18.780] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/DarkWorldCraft2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2364!/ Service=ModLauncher Env=SERVER
+[01Sep2025 05:04:19.130] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/DarkWorldCraft2.0/servidor_minecraft/mods} returned 2 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[01Sep2025 05:04:19.220] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DarkWorldCraft2.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.5.0/fmlcore-1.19.2-43.5.0.jar is missing mods.toml file
+[01Sep2025 05:04:19.225] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DarkWorldCraft2.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.5.0/javafmllanguage-1.19.2-43.5.0.jar is missing mods.toml file
+[01Sep2025 05:04:19.227] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DarkWorldCraft2.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.5.0/lowcodelanguage-1.19.2-43.5.0.jar is missing mods.toml file
+[01Sep2025 05:04:19.228] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DarkWorldCraft2.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.5.0/mclanguage-1.19.2-43.5.0.jar is missing mods.toml file
+[01Sep2025 05:04:19.443] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[01Sep2025 05:04:19.445] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[01Sep2025 05:04:21.297] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01Sep2025 05:04:21.396] [main/ERROR] [mixin/]: Mixin config justhammers.mixins.json does not specify "minVersion" property
+[01Sep2025 05:04:21.449] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[01Sep2025 05:04:21.649] [main/WARN] [mixin/]: Reference map 'justhammers-forge-forge-refmap.json' for justhammers.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Sep2025 05:04:21.658] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Sep2025 05:04:22.888] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[01Sep2025 05:04:27.609] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[01Sep2025 05:04:29.631] [main/WARN] [mixin/]: Error loading class: vazkii/quark/content/tools/item/PathfindersQuillItem (java.lang.ClassNotFoundException: vazkii.quark.content.tools.item.PathfindersQuillItem)
+[01Sep2025 05:04:30.093] [modloading-worker-0/WARN] [net.spellcraftgaming.rpghud.main.ModRPGHud/]: RPG-Hud is a client-side-only mod and should not be installed server-side, please remove it from your server
+[01Sep2025 05:04:30.950] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[01Sep2025 05:04:31.044] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.5.0, for MC 1.19.2 with MCP 20220805.130853
+[01Sep2025 05:04:31.044] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.5.0 Initialized
+[01Sep2025 05:04:31.168] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[01Sep2025 05:04:31.168] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[01Sep2025 05:04:31.987] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[01Sep2025 05:04:32.471] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[01Sep2025 05:04:32.472] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 9
+[01Sep2025 05:04:32.477] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 9 has been initalized!
+[01Sep2025 05:04:32.568] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[01Sep2025 05:04:32.579] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[01Sep2025 05:04:32.668] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[01Sep2025 05:04:32.669] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[01Sep2025 05:04:34.401] [main/INFO] [moonlight/]: Initialized block sets in 8ms
+[01Sep2025 05:04:34.525] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/structure_processor / minecraft:capped]' to registry
+[01Sep2025 05:04:34.525] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'com.min01.archaeology.init.ArchaeologyStructureProcessorType$$Lambda$10076/0x0000726bed375b40@2d8892f5' to registry
+[01Sep2025 05:04:35.178] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[01Sep2025 05:04:35.948] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[01Sep2025 05:04:36.026] [modloading-worker-0/INFO] [com.lootintegrations.LootintegrationsMod/]: lootintegrations mod initialized
+[01Sep2025 05:04:36.061] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[01Sep2025 05:04:36.163] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[01Sep2025 05:04:36.170] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[01Sep2025 05:04:36.194] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[01Sep2025 05:04:36.202] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[01Sep2025 05:04:36.203] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[01Sep2025 05:04:36.205] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[01Sep2025 05:04:36.206] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[01Sep2025 05:04:36.208] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[01Sep2025 05:04:36.209] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[01Sep2025 05:04:36.211] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[01Sep2025 05:04:36.212] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[01Sep2025 05:04:36.213] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[01Sep2025 05:04:36.213] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[01Sep2025 05:04:36.299] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[01Sep2025 05:04:36.379] [main/INFO] [supplementaries/]: Finished mod setup in: [0, 0, 1, 0, 0, 0, 0, 0, 1] ms
+[01Sep2025 05:04:36.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.20.1 Target: null
+[01Sep2025 05:04:36.417] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.2
+[01Sep2025 05:04:36.444] [main/INFO] [moonlight/]: Initialized color sets in 46ms
+[01Sep2025 05:04:36.473] [main/INFO] [moonlight/]: Initialized color sets in 27ms
+[01Sep2025 05:04:36.569] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.ForgeJadeWaystonesPlugin
+[01Sep2025 05:04:36.582] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[01Sep2025 05:04:36.596] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[01Sep2025 05:04:36.602] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[01Sep2025 05:04:36.604] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.github.exopandora.shouldersurfing.integration.ShoulderSurfingJadePlugin
+[01Sep2025 05:04:36.605] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[01Sep2025 05:04:36.607] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[01Sep2025 05:04:36.972] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 9.0.0+14 Target: 9.0.0+14
+[01Sep2025 05:04:36.972] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[01Sep2025 05:04:36.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.48 Target: null
+[01Sep2025 05:04:36.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Sep2025 05:04:37.241] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 43.5.0 Target: null
+[01Sep2025 05:04:37.241] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/forge/update.json
+[01Sep2025 05:04:37.267] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.19.2-2.4.20 Target: null
+[01Sep2025 05:04:37.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[01Sep2025 05:04:37.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.4.7 Target: null
+[01Sep2025 05:04:37.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[01Sep2025 05:04:37.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: UP_TO_DATE Current: 1.19.2-2.3.7 Target: null
+[01Sep2025 05:04:37.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[01Sep2025 05:04:37.754] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[01Sep2025 05:04:37.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[01Sep2025 05:04:38.298] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Sep2025 05:04:38.489] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.19.2-1.0.24 Target: null
+[01Sep2025 05:04:38.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Enchantments/update.json
+[01Sep2025 05:04:38.605] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Found status: AHEAD Current: 1.10.7-backport.1 Target: null
+[01Sep2025 05:04:38.605] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[01Sep2025 05:04:38.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.5-backport.1 Target: null
+[01Sep2025 05:04:39.314] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/DarkWorldCraft2.0/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23248!/assets/.mcassetsroot' uses unexpected schema
+[01Sep2025 05:04:39.315] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/DarkWorldCraft2.0/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23248!/data/.mcassetsroot' uses unexpected schema
+[01Sep2025 05:04:39.527] [main/INFO] [supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 96 ms
+[01Sep2025 05:04:41.351] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[01Sep2025 05:04:41.582] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:pink_petals (from [1.19.2-forge]-Epic-Knights-9.17.jar)] as it is missing following references: minecraft:pink_petals (from [1.19.2-forge]-Epic-Knights-9.17.jar)
+[01Sep2025 05:04:41.589] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [magistuarmory:gilding_template (from [1.19.2-forge]-Epic-Knights-9.17.jar)] as it is missing following references: magistuarmory:gilding_template (from [1.19.2-forge]-Epic-Knights-9.17.jar)
+[01Sep2025 05:04:42.167] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[01Sep2025 05:04:42.205] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:gilding_template_copy
 com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_template'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -126,8 +126,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Sep2025 03:46:52.803] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[01Sep2025 03:46:52.822] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:darkening_template
+[01Sep2025 05:04:42.230] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[01Sep2025 05:04:42.245] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:darkening_template
 com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:darkening_template'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:154) ~[forge-1.19.2-43.5.0-universal.jar%23253!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:180) ~[forge-1.19.2-43.5.0-universal.jar%23253!/:?]
@@ -158,8 +158,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:darkening_templ
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Sep2025 03:46:52.881] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[01Sep2025 03:46:52.882] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:darkening_template_copy
+[01Sep2025 05:04:42.291] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[01Sep2025 05:04:42.292] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:darkening_template_copy
 com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:darkening_template'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -195,7 +195,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:darkening_templ
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Sep2025 03:46:52.943] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_delight:ignitium_knife_recipe
+[01Sep2025 05:04:42.338] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_delight:ignitium_knife_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'cataclysm_delight:ignitium_knife'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:154) ~[forge-1.19.2-43.5.0-universal.jar%23253!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:180) ~[forge-1.19.2-43.5.0-universal.jar%23253!/:?]
@@ -226,7 +226,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'cataclysm_delight:ignitium_kn
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Sep2025 03:46:52.965] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:gilding_template
+[01Sep2025 05:04:42.354] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:gilding_template
 com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_template'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:154) ~[forge-1.19.2-43.5.0-universal.jar%23253!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:180) ~[forge-1.19.2-43.5.0-universal.jar%23253!/:?]
@@ -257,291 +257,88 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Sep2025 03:46:52.976] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 14 recipes
-[01Sep2025 03:46:53.230] [main/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[01Sep2025 03:46:53.244] [main/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[01Sep2025 03:46:53.323] [main/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[01Sep2025 03:46:53.565] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[01Sep2025 03:46:53.578] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement minecraft:adventure/craft_decorated_pot_using_only_sherds: Invalid criterion trigger: minecraft:recipe_crafted
-[01Sep2025 03:46:53.585] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[01Sep2025 03:46:53.658] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2917 advancements
-[01Sep2025 03:46:53.664] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
-[01Sep2025 03:46:53.664] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_dark_oak use this folder name:lootintegrations
-[01Sep2025 03:46:53.665] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_crimson use this folder name:lootintegrations
-[01Sep2025 03:46:53.665] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_oak use this folder name:lootintegrations
-[01Sep2025 03:46:53.665] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_spruce use this folder name:lootintegrations
-[01Sep2025 03:46:53.665] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/evilcraft/hanging_sign_undead use this folder name:lootintegrations
-[01Sep2025 03:46:53.665] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/cataclysm/hanging_sign_chorus use this folder name:lootintegrations
-[01Sep2025 03:46:53.665] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/undergarden/hanging_sign_smogstem use this folder name:lootintegrations
-[01Sep2025 03:46:53.666] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/iceandfire/hanging_sign_dreadwood use this folder name:lootintegrations
-[01Sep2025 03:46:53.666] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_acacia use this folder name:lootintegrations
-[01Sep2025 03:46:53.666] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_birch use this folder name:lootintegrations
-[01Sep2025 03:46:53.667] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/undergarden/hanging_sign_grongle use this folder name:lootintegrations
-[01Sep2025 03:46:53.667] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_jungle use this folder name:lootintegrations
-[01Sep2025 03:46:53.667] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_warped use this folder name:lootintegrations
-[01Sep2025 03:46:53.668] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/undergarden/hanging_sign_wigglewood use this folder name:lootintegrations
-[01Sep2025 03:46:53.668] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_mangrove use this folder name:lootintegrations
-[01Sep2025 03:46:53.686] [main/INFO] [supplementaries/]: Loaded  8 flute songs
-[01Sep2025 03:46:54.515] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.441044ms
-[01Sep2025 03:46:54.522] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
-[01Sep2025 03:46:54.581] [main/INFO] [supplementaries/]: Finished additional setup in 53 ms
-[01Sep2025 03:46:54.659] [main/INFO] [majruszlibrary/]: [majruszsenchantments.json] Reloading configuration file took 3 milliseconds
-[01Sep2025 03:46:54.660] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
-[01Sep2025 03:46:54.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[01Sep2025 03:46:54.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[01Sep2025 03:46:54.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[01Sep2025 03:46:54.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[01Sep2025 03:46:54.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[01Sep2025 03:46:54.816] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[01Sep2025 03:46:55.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[01Sep2025 03:46:55.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[01Sep2025 03:47:05.681] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.685] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.687] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.688] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.692] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.693] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.694] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.698] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.698] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.699] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.700] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.701] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.702] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.706] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.707] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.708] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.715] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.716] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.717] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.720] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:05.941] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Sep2025 03:47:06.438] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
-[01Sep2025 03:47:06.939] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
-[01Sep2025 03:47:07.368] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11430 ms
-[01Sep2025 03:47:07.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.464s)! For help, type "help"
-[01Sep2025 03:47:07.420] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[01Sep2025 03:47:07.449] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
-[01Sep2025 03:47:07.489] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[01Sep2025 03:47:07.489] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[01Sep2025 03:47:07.490] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
-[01Sep2025 03:47:07.560] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
-[01Sep2025 03:47:07.561] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
-[01Sep2025 03:47:07.562] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
-[01Sep2025 03:47:07.563] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
-[01Sep2025 03:47:07.857] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 665974 bytes (in 67 string chunks with the size of 10000)
-[01Sep2025 03:47:25.377] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BenjaXx015 is 88613add-e9af-4d19-bc51-d2a1c4b649bb
-[01Sep2025 03:47:25.600] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vrayiRAX is 2ef24a3b-228d-42c3-a56f-31f9396fa89e
-[01Sep2025 03:47:27.434] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ArukuSenpai is f1d9f0bf-f390-4de8-98f2-79f16bdcc80c
-[01Sep2025 03:47:27.711] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[01Sep2025 03:47:27.783] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4fa443b2
-[01Sep2025 03:47:27.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vrayiRAX[/127.200.192.237:33881] logged in with entity id 177 at (1137.5189495564464, 77.0, 147.3625570715645)
-[01Sep2025 03:47:27.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX joined the game
-[01Sep2025 03:47:28.090] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@33d1189c
-[01Sep2025 03:47:28.459] [Server thread/INFO] [Jade/]: Syncing config to vrayiRAX (2ef24a3b-228d-42c3-a56f-31f9396fa89e)
-[01Sep2025 03:47:31.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4030ms or 80 ticks behind
-[01Sep2025 03:47:31.879] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@263f834b
-[01Sep2025 03:47:31.896] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BenjaXx015[/127.133.157.104:37829] logged in with entity id 670 at (-655.1114516921497, 63.0, -1002.8943733150949)
-[01Sep2025 03:47:31.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 joined the game
-[01Sep2025 03:47:31.970] [Server thread/INFO] [Jade/]: Syncing config to BenjaXx015 (88613add-e9af-4d19-bc51-d2a1c4b649bb)
-[01Sep2025 03:47:35.140] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4fa7432b
-[01Sep2025 03:47:35.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArukuSenpai[/127.72.123.30:59335] logged in with entity id 1357 at (-1277.6192530483886, 108.79673560066871, -74.5681064316809)
-[01Sep2025 03:47:35.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai joined the game
-[01Sep2025 03:47:35.237] [Server thread/INFO] [Jade/]: Syncing config to ArukuSenpai (f1d9f0bf-f390-4de8-98f2-79f16bdcc80c)
-[01Sep2025 03:47:54.623] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCockatrice['Cockatrice'/2586, l='ServerLevel[world]', x=-1137.94, y=79.00, z=-252.08]
-[01Sep2025 03:48:00.514] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHippogryph['Hippogryph'/2673, l='ServerLevel[world]', x=-1441.91, y=219.21, z=-105.79]
-[01Sep2025 03:48:36.914] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _ZorVaK_ is 64cad256-f61a-4915-8560-ed93d78c0bdf
-[01Sep2025 03:48:38.896] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1dd2af92
-[01Sep2025 03:48:38.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _ZorVaK_[/127.40.116.41:34735] logged in with entity id 3230 at (1400.9733193055467, 76.25220334025373, 767.0561798180038)
-[01Sep2025 03:48:38.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ joined the game
-[01Sep2025 03:48:38.990] [Server thread/INFO] [Jade/]: Syncing config to _ZorVaK_ (64cad256-f61a-4915-8560-ed93d78c0bdf)
-[01Sep2025 03:48:43.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4194ms or 83 ticks behind
-[01Sep2025 03:49:01.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[01Sep2025 03:49:19.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3312ms or 66 ticks behind
-[01Sep2025 03:49:35.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [A True Source of Evil]
-[01Sep2025 03:50:13.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 7.702010178554474,-0.12459273686735628,7.972775801793944
-[01Sep2025 03:50:17.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -6.461513193198243,1.10225909870735,-9.882797316420465
-[01Sep2025 03:50:18.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ was impaled on a stalagmite whilst fighting Spider
-[01Sep2025 03:51:33.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai was energized by Lightning Dragon
-[01Sep2025 04:03:32.074] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20138, l='ServerLevel[world]', x=-1522.36, y=73.76, z=708.81] died, message: 'Villager was slain by Lightning Dragon'
-[01Sep2025 04:03:41.546] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21376, l='ServerLevel[world]', x=-1547.77, y=79.00, z=726.76] died, message: 'Villager was slain by Lightning Dragon'
-[01Sep2025 04:03:51.303] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21005, l='ServerLevel[world]', x=-1551.23, y=79.00, z=715.48] died, message: 'Villager suffocated in a wall whilst fighting Lightning Dragon'
-[01Sep2025 04:04:22.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai fell from a high place
-[01Sep2025 04:04:53.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! 6.214483694644741,1.6403506167315811,-10.855514215144353
-[01Sep2025 04:04:53.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! 5.713428010656571,1.4879927723919621,-9.954554276828617
-[01Sep2025 04:04:53.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! 5.208060947487638,1.342037635514174,-9.050787178511882
-[01Sep2025 04:04:55.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -1.1024926948139182,3.2032205422126054,-29.29326226106059
-[01Sep2025 04:04:55.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -1.4009321452501808,3.1093659592515053,-28.198767928068605
-[01Sep2025 04:04:55.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -1.6410248868298822,3.015599994511703,-27.082001928200725
-[01Sep2025 04:04:55.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -1.85242529972993,2.922203653772499,-25.962330650052763
-[01Sep2025 04:04:55.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -2.0156865577805547,2.8269907133100816,-24.831692606520846
-[01Sep2025 04:04:55.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -2.126038496670617,2.729444739742206,-23.69056232255582
-[01Sep2025 04:04:55.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -2.187068245797036,2.6295807094510906,-22.542843420209465
-[01Sep2025 04:04:55.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -2.1962613057698945,2.5259000794540043,-21.390770706667695
-[01Sep2025 04:04:55.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -2.1525774759059004,2.4186291029717637,-20.236803788104226
-[01Sep2025 04:04:55.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -2.047008550885039,2.3078015972543398,-19.083305651824617
-[01Sep2025 04:04:55.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -1.8613080031473146,2.192587977600013,-17.931031036871218
-[01Sep2025 04:04:55.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -2.8022718316185546,2.492904546763654,-20.058776433148182
-[01Sep2025 04:04:55.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -2.49284321863729,2.3707904584700117,-18.926974168167476
-[01Sep2025 04:04:55.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -2.1609564532534478,2.2456653502932227,-17.808995818628546
-[01Sep2025 04:04:55.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -1.7779302271776487,2.1176428670005407,-16.705263488454875
-[01Sep2025 04:04:55.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -1.3066442637802993,1.986302758518434,-15.620851657002618
-[01Sep2025 04:04:55.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -0.8238447371154507,1.8538437458252446,-14.550132567277842
-[01Sep2025 04:04:55.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -0.25659218843270537,1.719930857018582,-13.505479508450776
-[01Sep2025 04:04:55.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! 0.35859366537715687,1.585892533512876,-12.483092650250228
-[01Sep2025 04:04:55.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! 1.0158400461336896,1.4525922648414564,-11.483288693127975
-[01Sep2025 04:04:55.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! 1.7124329053031033,1.3206801773411598,-10.506628982384996
-[01Sep2025 04:04:55.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -21.58225049612861,1.5942860259354603,-8.142003085876922
-[01Sep2025 04:04:55.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -21.58225049612861,1.5942860259354603,-8.142003085876922
-[01Sep2025 04:04:55.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -21.58225049612861,1.5942860259354603,-8.142003085876922
-[01Sep2025 04:04:55.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -21.58225049612861,1.5942860259354603,-8.142003085876922
-[01Sep2025 04:04:55.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -21.58225049612861,1.5942860259354603,-8.142003085876922
-[01Sep2025 04:04:55.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -21.58225049612861,1.5942860259354603,-8.142003085876922
-[01Sep2025 04:04:55.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -21.58225049612861,1.5942860259354603,-8.142003085876922
-[01Sep2025 04:04:55.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -21.58225049612861,1.5942860259354603,-8.142003085876922
-[01Sep2025 04:04:55.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -21.58225049612861,1.5942860259354603,-8.142003085876922
-[01Sep2025 04:04:55.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -21.58225049612861,1.5942860259354603,-8.142003085876922
-[01Sep2025 04:04:55.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -21.58225049612861,1.5942860259354603,-8.142003085876922
-[01Sep2025 04:04:55.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -20.419117897176875,1.175247819089165,-4.872670732985853
-[01Sep2025 04:04:55.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -20.419117897176875,1.175247819089165,-4.872670732985853
-[01Sep2025 04:04:55.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -20.419117897176875,1.175247819089165,-4.872670732985853
-[01Sep2025 04:04:55.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -20.419117897176875,1.175247819089165,-4.872670732985853
-[01Sep2025 04:04:55.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -20.419117897176875,1.175247819089165,-4.872670732985853
-[01Sep2025 04:04:55.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -20.419117897176875,1.175247819089165,-4.872670732985853
-[01Sep2025 04:04:55.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -20.419117897176875,1.175247819089165,-4.872670732985853
-[01Sep2025 04:04:55.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -20.419117897176875,1.175247819089165,-4.872670732985853
-[01Sep2025 04:04:55.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -20.419117897176875,1.175247819089165,-4.872670732985853
-[01Sep2025 04:04:55.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -20.419117897176875,1.175247819089165,-4.872670732985853
-[01Sep2025 04:04:55.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -19.36179572026117,1.0329947061398883,-4.270958108115792
-[01Sep2025 04:04:55.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -18.225645781860067,0.8898851470160878,-3.737124799175149
-[01Sep2025 04:04:55.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -17.95633995004141,0.8807960075626227,-4.038038858217874
-[01Sep2025 04:04:55.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -16.783404069396738,0.7383703884875672,-3.5622845634716214
-[01Sep2025 04:04:55.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -17.53963319650302,0.957438800911163,-4.567605638169084
-[01Sep2025 04:04:55.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -16.376447581161074,0.8356997895656804,-4.102377514423097
-[01Sep2025 04:05:18.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [This Must be a Sign!]
-[01Sep2025 04:11:32.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -9.03341725410246,-2.5099255824083855,-5.024988163278778
-[01Sep2025 04:11:32.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -10.576802286735528,-2.8511019029234745,-5.8232209676951925
-[01Sep2025 04:11:32.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -12.12863471996593,-3.1705995315386843,-6.613375845446257
-[01Sep2025 04:11:32.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 12.425894141896833,2.481761575320519,6.310420135362136
-[01Sep2025 04:11:32.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 12.425894141896833,2.481761575320519,6.310420135362136
-[01Sep2025 04:11:32.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 12.425894141896833,2.481761575320519,6.310420135362136
-[01Sep2025 04:11:32.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 10.857580153804292,2.214475743357994,5.5388964943733185
-[01Sep2025 04:11:32.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 12.356864559104451,2.6050383499709255,6.390991839066771
-[01Sep2025 04:11:32.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 12.324413502923562,2.6582241176425043,6.430754435006463
-[01Sep2025 04:11:32.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 13.867780476669623,2.976485657439696,7.224172210819091
-[01Sep2025 04:11:32.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 9.348244602797422,1.7545261552223508,4.672246535317498
-[01Sep2025 04:11:32.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 9.348244602797422,1.7545261552223508,4.672246535317498
-[01Sep2025 04:11:32.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 9.348244602797422,1.7545261552223508,4.672246535317498
-[01Sep2025 04:11:32.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 9.348244602797422,1.7545261552223508,4.672246535317498
-[01Sep2025 04:13:30.974] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/37972, l='ServerLevel[world]', x=-1499.25, y=69.00, z=750.54] died, message: 'Shepherd was energized by Lightning Dragon'
-[01Sep2025 04:13:37.237] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/37622, l='ServerLevel[world]', x=-1501.70, y=69.00, z=749.46] died, message: 'Shepherd was energized by Lightning Dragon'
-[01Sep2025 04:13:37.440] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/37973, l='ServerLevel[world]', x=-1509.17, y=69.25, z=749.70] died, message: 'Mason was energized by Lightning Dragon'
-[01Sep2025 04:13:38.219] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38357, l='ServerLevel[world]', x=-1531.19, y=72.44, z=749.61] died, message: 'Villager was struck with lightning by Lightning Dragon'
-[01Sep2025 04:13:38.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37899, l='ServerLevel[world]', x=-1516.99, y=71.00, z=743.15] died, message: 'Villager was energized by Lightning Dragon'
-[01Sep2025 04:14:13.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -2.9755008827794427,1.1921863503168595,-10.367645069782839
-[01Sep2025 04:14:13.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -3.1097606414673464,1.4207414187050347,-12.485802392247479
-[01Sep2025 04:14:13.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -3.1450494509483633,1.6479052268377075,-14.603628140705155
-[01Sep2025 04:14:13.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -3.0897864798514547,1.8733190062201146,-16.716593732888782
-[01Sep2025 04:14:13.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -2.9223822697897504,2.098116414990301,-18.832187446094395
-[01Sep2025 04:14:13.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -2.6258934104032505,2.3249416785607906,-20.95067077396402
-[01Sep2025 04:14:13.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 1.615913193821143,1.2101242339265497,-11.280288348465888
-[01Sep2025 04:14:13.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 2.4662866640517223,1.2485720987546216,-11.553867194051122
-[01Sep2025 04:14:13.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 3.2832746928283996,1.2907143014718088,-11.789092586269817
-[01Sep2025 04:14:33.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 7.571436180558976,0.21953326192024747,-7.688716125227529
-[01Sep2025 04:14:33.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 8.900120046166876,0.2658076811551098,-8.904445992624801
-[01Sep2025 04:14:33.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -10.878428541608628,-0.35713049412146347,9.920537620549226
-[01Sep2025 04:14:33.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -10.878428541608628,-0.35713049412146347,9.920537620549226
-[01Sep2025 04:14:33.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -9.823878141997739,-0.3253969826956933,9.079048785190821
-[01Sep2025 04:14:33.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -9.420919027216996,-0.3281125873239432,8.319809331136412
-[01Sep2025 04:14:33.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -9.226315060019715,-0.3305520799244164,8.199540824018072
-[01Sep2025 04:14:33.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -9.045432532248924,-0.3324588737289389,8.076544558359387
-[01Sep2025 04:14:43.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 10.379134394495622,0.6901781428332328,-5.502359116147204
-[01Sep2025 04:14:43.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -10.961603128195065,-0.8591674750388449,5.479001098476942
-[01Sep2025 04:14:43.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -9.286729214670004,-0.7128380767473885,4.592814114882572
-[01Sep2025 04:14:54.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -6.600283700248383,-1.575836186040405,9.221702657061314
-[01Sep2025 04:14:54.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 7.580578836102632,1.8244797684222505,-10.776279913993108
-[01Sep2025 04:14:54.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 6.486382627704415,1.5716828719944402,-9.205207876357235
-[01Sep2025 04:14:54.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 6.4606566605220905,1.549925320343391,-9.128775729381914
-[01Sep2025 04:14:54.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 6.439119849674626,1.5323421569638072,-9.06683519370722
-[01Sep2025 04:14:55.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 6.417930173680816,1.5185725209353365,-9.006693342277458
-[01Sep2025 04:14:55.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 6.397245557223869,1.5083842027718362,-8.949057185802076
-[01Sep2025 04:15:01.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai was doomed to fall by Lightning Dragon
-[01Sep2025 04:17:28.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ lost connection: Timed out
-[01Sep2025 04:17:28.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ left the game
-[01Sep2025 04:17:28.595] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[01Sep2025 04:17:36.229] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Sep2025 04:17:38.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Sep2025 04:17:52.325] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _ZorVaK_ is 64cad256-f61a-4915-8560-ed93d78c0bdf
-[01Sep2025 04:17:54.247] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1048175c
-[01Sep2025 04:17:54.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _ZorVaK_[/127.40.116.41:50323] logged in with entity id 47104 at (1108.4698218787714, 76.9375, 164.61102454601254)
-[01Sep2025 04:17:54.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ joined the game
-[01Sep2025 04:17:54.353] [Server thread/INFO] [Jade/]: Syncing config to _ZorVaK_ (64cad256-f61a-4915-8560-ed93d78c0bdf)
-[01Sep2025 04:17:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> asd
-[01Sep2025 04:19:33.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai was blown up by Death Worm
-[01Sep2025 04:23:10.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Spectator Mode]
-[01Sep2025 04:23:24.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
-[01Sep2025 04:24:10.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai was slain by Death Worm
-[01Sep2025 04:25:44.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -8.689670612136297,2.1625904742911928,6.772618432392051
-[01Sep2025 04:25:44.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -8.532198646324332,2.2567593756224937,7.126243465910306
-[01Sep2025 04:25:58.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai was struck with lightning by Lightning Dragon
-[01Sep2025 04:26:03.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArukuSenpai was kicked for floating too long!
-[01Sep2025 04:26:03.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArukuSenpai lost connection: Flying is not enabled on this server
-[01Sep2025 04:26:03.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai left the game
-[01Sep2025 04:26:13.784] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ArukuSenpai is f1d9f0bf-f390-4de8-98f2-79f16bdcc80c
-[01Sep2025 04:26:15.587] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18e2ccac
-[01Sep2025 04:26:15.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArukuSenpai[/127.72.123.30:52413] logged in with entity id 57930 at (-724.6921145513736, 139.54862039656138, 289.5721410281342)
-[01Sep2025 04:26:15.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai joined the game
-[01Sep2025 04:26:15.618] [Server thread/INFO] [Jade/]: Syncing config to ArukuSenpai (f1d9f0bf-f390-4de8-98f2-79f16bdcc80c)
-[01Sep2025 04:26:18.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2618ms or 52 ticks behind
-[01Sep2025 04:26:24.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArukuSenpai was kicked for floating too long!
-[01Sep2025 04:26:24.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArukuSenpai lost connection: Flying is not enabled on this server
-[01Sep2025 04:26:24.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai left the game
-[01Sep2025 04:26:29.975] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ArukuSenpai is f1d9f0bf-f390-4de8-98f2-79f16bdcc80c
-[01Sep2025 04:26:32.039] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b1160fd
-[01Sep2025 04:26:32.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArukuSenpai[/127.72.123.30:59163] logged in with entity id 58815 at (-724.6921145513736, 127.5470245751686, 289.5721410281342)
-[01Sep2025 04:26:32.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai joined the game
-[01Sep2025 04:26:32.068] [Server thread/INFO] [Jade/]: Syncing config to ArukuSenpai (f1d9f0bf-f390-4de8-98f2-79f16bdcc80c)
-[01Sep2025 04:26:34.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ moved too quickly! 9.9416946463341,0.0,-2.5229797141340953
-[01Sep2025 04:26:35.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[01Sep2025 04:26:39.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArukuSenpai moved too quickly! 0.0,-10.806526110008988,0.0
-[01Sep2025 04:26:41.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArukuSenpai was kicked for floating too long!
-[01Sep2025 04:26:41.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArukuSenpai lost connection: Flying is not enabled on this server
-[01Sep2025 04:26:41.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai left the game
-[01Sep2025 04:26:46.334] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ArukuSenpai is f1d9f0bf-f390-4de8-98f2-79f16bdcc80c
-[01Sep2025 04:26:48.189] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@afe7e80
-[01Sep2025 04:26:48.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArukuSenpai[/127.72.123.30:54401] logged in with entity id 59704 at (-724.6921145513736, 117.87995733059272, 289.5721410281342)
-[01Sep2025 04:26:48.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai joined the game
-[01Sep2025 04:26:48.219] [Server thread/INFO] [Jade/]: Syncing config to ArukuSenpai (f1d9f0bf-f390-4de8-98f2-79f16bdcc80c)
-[01Sep2025 04:27:01.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5326ms or 106 ticks behind
-[01Sep2025 04:27:01.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArukuSenpai lost connection: Disconnected
-[01Sep2025 04:27:01.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai left the game
-[01Sep2025 04:28:37.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved wrongly! 0.7385972646063692
-[01Sep2025 04:34:36.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 has made the advancement [Enchanter]
-[01Sep2025 04:42:29.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 has made the advancement [What Happens in Las Vegas...]
-[01Sep2025 04:42:54.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 fell from a high place
-[01Sep2025 04:43:59.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 has made the advancement [Rotten to the Core]
-[01Sep2025 04:53:41.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 has made the advancement [Hot Stuff]
-[01Sep2025 04:53:44.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> asd
-[01Sep2025 04:54:17.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Gave 79 [Sand] to _ZorVaK_]
-[01Sep2025 04:55:27.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 was slain by vrayiRAX
-[01Sep2025 04:58:10.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [One Ticket Please]
-[01Sep2025 05:00:30.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Enter the Undergarden]
-[01Sep2025 05:00:30.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12799ms or 255 ticks behind
-[01Sep2025 05:00:30.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ moved too quickly! -853.0000488162041,1.0,-126.0
-[01Sep2025 05:00:39.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 was slain by vrayiRAX
-[01Sep2025 05:00:49.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[01Sep2025 05:00:49.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[01Sep2025 05:00:49.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ lost connection: Server closed
-[01Sep2025 05:00:49.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ left the game
-[01Sep2025 05:00:49.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[01Sep2025 05:00:55.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01Sep2025 05:00:55.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
-[01Sep2025 05:00:55.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01Sep2025 05:00:55.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
-[01Sep2025 05:00:55.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01Sep2025 05:00:55.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01Sep2025 05:00:55.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
-[01Sep2025 05:00:55.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01Sep2025 05:00:55.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
-[01Sep2025 05:00:55.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01Sep2025 05:00:55.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Sep2025 05:04:42.362] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 14 recipes
+[01Sep2025 05:04:42.599] [main/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[01Sep2025 05:04:42.612] [main/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[01Sep2025 05:04:42.694] [main/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[01Sep2025 05:04:42.898] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[01Sep2025 05:04:42.912] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement minecraft:adventure/craft_decorated_pot_using_only_sherds: Invalid criterion trigger: minecraft:recipe_crafted
+[01Sep2025 05:04:42.917] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[01Sep2025 05:04:42.991] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2917 advancements
+[01Sep2025 05:04:43.000] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
+[01Sep2025 05:04:43.002] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_dark_oak use this folder name:lootintegrations
+[01Sep2025 05:04:43.002] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_crimson use this folder name:lootintegrations
+[01Sep2025 05:04:43.003] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_oak use this folder name:lootintegrations
+[01Sep2025 05:04:43.003] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_spruce use this folder name:lootintegrations
+[01Sep2025 05:04:43.003] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/evilcraft/hanging_sign_undead use this folder name:lootintegrations
+[01Sep2025 05:04:43.004] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/cataclysm/hanging_sign_chorus use this folder name:lootintegrations
+[01Sep2025 05:04:43.004] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/undergarden/hanging_sign_smogstem use this folder name:lootintegrations
+[01Sep2025 05:04:43.004] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/iceandfire/hanging_sign_dreadwood use this folder name:lootintegrations
+[01Sep2025 05:04:43.005] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_acacia use this folder name:lootintegrations
+[01Sep2025 05:04:43.005] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_birch use this folder name:lootintegrations
+[01Sep2025 05:04:43.006] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/undergarden/hanging_sign_grongle use this folder name:lootintegrations
+[01Sep2025 05:04:43.007] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_jungle use this folder name:lootintegrations
+[01Sep2025 05:04:43.007] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_warped use this folder name:lootintegrations
+[01Sep2025 05:04:43.007] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/undergarden/hanging_sign_wigglewood use this folder name:lootintegrations
+[01Sep2025 05:04:43.007] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_mangrove use this folder name:lootintegrations
+[01Sep2025 05:04:43.030] [main/INFO] [supplementaries/]: Loaded  8 flute songs
+[01Sep2025 05:04:43.866] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.302395ms
+[01Sep2025 05:04:43.873] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[01Sep2025 05:04:43.929] [main/INFO] [supplementaries/]: Finished additional setup in 49 ms
+[01Sep2025 05:04:44.027] [main/INFO] [majruszlibrary/]: [majruszsenchantments.json] Reloading configuration file took 4 milliseconds
+[01Sep2025 05:04:44.028] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
+[01Sep2025 05:04:44.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[01Sep2025 05:04:44.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Sep2025 05:04:44.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Sep2025 05:04:44.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Sep2025 05:04:44.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Sep2025 05:04:44.221] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01Sep2025 05:04:44.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Sep2025 05:04:45.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Sep2025 05:04:46.976] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Sep2025 05:04:55.022] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.025] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.032] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.032] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.033] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.042] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.043] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.044] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.044] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.045] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.046] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.046] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.051] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.052] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.053] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.054] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.055] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.056] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.059] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.063] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 05:04:55.368] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[01Sep2025 05:04:55.866] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
+[01Sep2025 05:04:55.878] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Sep2025 05:04:56.367] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[01Sep2025 05:04:56.782] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11418 ms
+[01Sep2025 05:04:56.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.481s)! For help, type "help"
+[01Sep2025 05:04:56.860] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Sep2025 05:04:56.882] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[01Sep2025 05:04:56.922] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[01Sep2025 05:04:56.923] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[01Sep2025 05:04:56.924] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[01Sep2025 05:04:56.996] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[01Sep2025 05:04:57.002] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[01Sep2025 05:04:57.002] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[01Sep2025 05:04:57.002] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[01Sep2025 05:04:57.390] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 665974 bytes (in 67 string chunks with the size of 10000)
+[01Sep2025 05:05:02.633] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BenjaXx015 is 88613add-e9af-4d19-bc51-d2a1c4b649bb
+[01Sep2025 05:05:05.697] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[01Sep2025 05:05:05.779] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@702e88ba
+[01Sep2025 05:05:05.808] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BenjaXx015[/127.133.157.104:40317] logged in with entity id 102 at (-710.1901208317727, 68.0, -1015.3000000119209)
+[01Sep2025 05:05:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 joined the game
+[01Sep2025 05:05:05.987] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44ee8815
+[01Sep2025 05:05:06.346] [Server thread/INFO] [Jade/]: Syncing config to BenjaXx015 (88613add-e9af-4d19-bc51-d2a1c4b649bb)
+[01Sep2025 05:05:08.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[01Sep2025 05:09:00.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenjaXx015 lost connection: Disconnected
+[01Sep2025 05:09:00.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 left the game
