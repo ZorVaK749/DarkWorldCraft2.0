@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-09-01 03:31:08 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_battle_hammer": {
     "criteria": {
       "has_myrmex_stinger": "2025-08-31 18:09:20 +0000"
@@ -101,15 +107,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-09-01 01:56:01 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-09-01 01:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-01 01:56:01 +0000"
     },
     "done": true
   },
@@ -2021,6 +2027,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-09-01 03:05:09 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/wigglewood_boat": {
     "criteria": {
       "in_water": "2025-08-31 16:09:59 +0000"
@@ -3085,6 +3097,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-09-01 03:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-08-31 16:30:56 +0000"
@@ -3588,8 +3606,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-09-01 02:58:28 +0000",
+      "minecraft:bamboo_jungle": "2025-09-01 03:38:50 +0000",
       "minecraft:badlands": "2025-08-31 16:01:39 +0000",
       "minecraft:savanna_plateau": "2025-09-01 02:22:20 +0000",
+      "minecraft:dark_forest": "2025-09-01 03:16:42 +0000",
       "minecraft:mangrove_swamp": "2025-08-31 18:06:00 +0000",
       "minecraft:sparse_jungle": "2025-08-31 18:06:41 +0000",
       "minecraft:river": "2025-08-31 16:02:13 +0000",
@@ -3599,6 +3620,7 @@
       "minecraft:desert": "2025-08-31 16:00:15 +0000",
       "minecraft:jungle": "2025-08-31 16:04:09 +0000",
       "minecraft:ocean": "2025-09-01 02:34:21 +0000",
+      "minecraft:meadow": "2025-09-01 02:54:32 +0000",
       "minecraft:savanna": "2025-08-31 16:02:46 +0000",
       "minecraft:plains": "2025-08-31 16:02:23 +0000"
     },
@@ -3930,9 +3952,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-09-01 03:34:56 +0000",
       "cooked_beef": "2025-08-31 16:29:53 +0000",
       "potato": "2025-09-01 02:28:43 +0000",
-      "bread": "2025-08-31 16:38:04 +0000"
+      "bread": "2025-08-31 16:38:04 +0000",
+      "cooked_chicken": "2025-09-01 03:12:10 +0000"
     },
     "done": false
   },
