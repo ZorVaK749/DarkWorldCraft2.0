@@ -3439,6 +3439,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-09-01 15:38:06 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/warped_trim": {
     "criteria": {
       "has_planks": "2025-08-31 16:02:54 +0000"
@@ -4046,6 +4052,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-09-01 15:38:06 +0000",
       "minecraft:wooded_badlands": "2025-09-01 02:58:28 +0000",
       "minecraft:bamboo_jungle": "2025-09-01 03:38:50 +0000",
       "minecraft:badlands": "2025-08-31 16:01:39 +0000",
