@@ -1071,6 +1071,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-09-01 02:37:00 +0000",
       "minecraft:bamboo_jungle": "2025-09-01 02:14:23 +0000",
       "minecraft:wooded_badlands": "2025-09-01 02:06:51 +0000",
       "minecraft:badlands": "2025-09-01 01:53:20 +0000",

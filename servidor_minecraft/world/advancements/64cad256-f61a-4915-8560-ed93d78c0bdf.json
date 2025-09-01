@@ -683,6 +683,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-09-01 02:39:10 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/redstone_hook": {
     "criteria": {
       "has_items": "2025-08-31 16:02:54 +0000"
@@ -2213,6 +2219,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-09-01 02:39:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-31 16:03:14 +0000"
@@ -2983,6 +2995,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-09-01 02:39:10 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
     "criteria": {
       "has_template": "2025-08-31 16:02:54 +0000"
@@ -3580,6 +3598,7 @@
       "minecraft:forest": "2025-08-31 16:02:30 +0000",
       "minecraft:desert": "2025-08-31 16:00:15 +0000",
       "minecraft:jungle": "2025-08-31 16:04:09 +0000",
+      "minecraft:ocean": "2025-09-01 02:34:21 +0000",
       "minecraft:savanna": "2025-08-31 16:02:46 +0000",
       "minecraft:plains": "2025-08-31 16:02:23 +0000"
     },

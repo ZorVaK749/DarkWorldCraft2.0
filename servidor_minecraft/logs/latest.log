@@ -552,3 +552,194 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [01Sep2025 02:34:49.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -29.198690348988976,4.362024658867512,9.189915446805117
 [01Sep2025 02:34:57.907] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [01Sep2025 02:35:01.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set [ TOP Manquitos] for BenjaXx015 to 1]
+[01Sep2025 02:35:09.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Removed every effect from _ZorVaK_]
+[01Sep2025 02:35:27.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[01Sep2025 02:35:29.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Spectator Mode]
+[01Sep2025 02:35:30.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
+[01Sep2025 02:36:24.148] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1072, y=-39, z=210}
+[01Sep2025 02:36:38.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -10.540067913090247,0.7172007727572804,-1.8651070883829561
+[01Sep2025 02:36:38.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -11.864612070371997,0.7879880219589666,-2.133794922991001
+[01Sep2025 02:36:38.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -13.190213306289316,0.8543109654252135,-2.4105459916340806
+[01Sep2025 02:36:38.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -14.51670772348308,0.9155979125201554,-2.6957387723518877
+[01Sep2025 02:36:38.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -15.84396495783264,0.9737439526170988,-2.989639667414849
+[01Sep2025 02:36:38.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -17.171856112598398,1.0288093282595128,-3.2924950902297496
+[01Sep2025 02:36:38.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -18.500220940206205,1.0807544915254255,-3.6046666598695083
+[01Sep2025 02:36:38.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -19.828770905865582,1.1319521098250505,-3.927014758275618
+[01Sep2025 02:36:38.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -21.15725724868065,1.1827097415001333,-4.260166702649258
+[01Sep2025 02:36:38.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -22.48542815088304,1.2331562292913816,-4.604703513221921
+[01Sep2025 02:36:38.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -23.812968573027185,1.2855406329292975,-4.96143445817188
+[01Sep2025 02:36:38.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -25.139626427162952,1.3397555543305941,-5.330912658012494
+[01Sep2025 02:36:38.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -26.4652671012944,1.3959146644298244,-5.713138711651936
+[01Sep2025 02:36:38.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -27.789881115140552,1.4553413712473287,-6.107684710143985
+[01Sep2025 02:36:38.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -29.113478370305984,1.5180582379626628,-6.514097442739512
+[01Sep2025 02:36:38.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -30.435720981242483,1.5835335471794565,-6.933058821972736
+[01Sep2025 02:36:38.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -31.754993080543567,1.6520025926409403,-7.369062885954008
+[01Sep2025 02:36:38.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -33.06864025306744,1.7237363852850365,-7.828719410652866
+[01Sep2025 02:36:38.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -34.37403206260504,1.7985213407560252,-8.31724233931709
+[01Sep2025 02:36:38.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -35.669163589988415,1.8774930420797773,-8.837477187683362
+[01Sep2025 02:36:38.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -36.952781762522974,1.959543394514668,-9.39019166072103
+[01Sep2025 02:36:38.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -38.224140828999865,2.043336114516535,-9.974931337716043
+[01Sep2025 02:36:38.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -39.482976435265286,2.1289075168160423,-10.590290360556992
+[01Sep2025 02:36:38.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -40.72914784626224,2.214650559729364,-11.234834508731183
+[01Sep2025 02:36:38.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -41.96258274711178,2.300533709307217,-11.907186189104777
+[01Sep2025 02:36:38.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -43.183264524329864,2.385674302750459,-12.606032486355616
+[01Sep2025 02:36:38.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -44.391225939688184,2.4694714261062813,-13.330122623985517
+[01Sep2025 02:36:38.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -45.58654214057299,2.5522045993896256,-14.078267337537
+[01Sep2025 02:36:38.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -46.769252721694144,2.6336194244017577,-14.849447271604276
+[01Sep2025 02:36:38.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -47.93919377254811,2.714183660621387,-15.643033508267308
+[01Sep2025 02:36:38.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -49.09636221335059,2.7941240904136464,-16.45824472817185
+[01Sep2025 02:36:38.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -50.2406297647196,2.8737097626614627,-17.29453373840215
+[01Sep2025 02:36:38.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -51.37170384263782,2.954016131879797,-18.15160549296661
+[01Sep2025 02:36:38.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -52.48916882731755,3.035753789006094,-19.029273886742885
+[01Sep2025 02:36:38.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -53.59210683603726,3.1198514272820717,-19.927816181150774
+[01Sep2025 02:36:38.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -54.67887854399484,3.2077515928979494,-20.848168918841566
+[01Sep2025 02:36:38.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[01Sep2025 02:36:38.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -45.22586625940921,2.568256739992364,-19.939416054118283
+[01Sep2025 02:36:39.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -44.98032156298989,2.57342618192709,-20.60424589729928
+[01Sep2025 02:36:39.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -44.72767613201927,2.581461914217158,-21.238317420958083
+[01Sep2025 02:39:12.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[01Sep2025 02:39:13.400] [Server thread/ERROR] [net.minecraft.Util/]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:936) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:224) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:188) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6364_(FlowingFluid.java:249) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76014_(FlowingFluid.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76010_(FlowingFluid.java:124) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6292_(FlowingFluid.java:415) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.material.FluidState.m_76163_(FluidState.java:76) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_62812_(LevelChunk.java:490) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214959_(ChunkMap.java:724) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-5.0.28.jar%2381!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214929_(ChunkMap.java:723) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:535) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:543) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:130) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_6522_(Level.java:179) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_6325_(Level.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:84) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:956) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:224) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:188) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.block.DoorBlock.m_153165_(DoorBlock.java:215) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.ai.behavior.InteractWithDoor.m_6735_(InteractWithDoor.java:89) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.ai.behavior.Behavior.m_22554_(Behavior.java:49) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21957_(Brain.java:516) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:475) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:208) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:733) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2546) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:517) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:127) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2291) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:318) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:247) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:659) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:457) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:323) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:303) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:866) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Sep2025 02:39:13.417] [Server thread/ERROR] [net.minecraft.Util/]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:936) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:224) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:188) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_46597_(Level.java:304) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraftforge.fluids.FluidInteractionRegistry$InteractionInformation.lambda$new$3(FluidInteractionRegistry.java:148) ~[forge-1.19.2-43.5.0-universal.jar%23253!/:?]
+	at net.minecraftforge.fluids.FluidInteractionRegistry.canInteract(FluidInteractionRegistry.java:70) ~[forge-1.19.2-43.5.0-universal.jar%23253!/:?]
+	at net.minecraft.world.level.block.LiquidBlock.m_6861_(LiquidBlock.java:125) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60690_(BlockBehaviour.java:659) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.redstone.CollectingNeighborUpdater$MultiNeighborUpdate.m_213563_(CollectingNeighborUpdater.java:132) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.redstone.CollectingNeighborUpdater.m_230645_(CollectingNeighborUpdater.java:78) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.redstone.CollectingNeighborUpdater.m_230660_(CollectingNeighborUpdater.java:65) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.redstone.CollectingNeighborUpdater.m_214152_(CollectingNeighborUpdater.java:47) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerLevel.m_46672_(ServerLevel.java:967) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerLevel.m_6289_(ServerLevel.java:1432) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:224) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:188) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6364_(FlowingFluid.java:249) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76014_(FlowingFluid.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76010_(FlowingFluid.java:124) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6292_(FlowingFluid.java:415) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.material.FluidState.m_76163_(FluidState.java:76) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_62812_(LevelChunk.java:490) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214959_(ChunkMap.java:724) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-5.0.28.jar%2381!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214929_(ChunkMap.java:723) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:535) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:543) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:130) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_6522_(Level.java:179) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_6325_(Level.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:84) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:956) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:224) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:188) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.block.DoorBlock.m_153165_(DoorBlock.java:215) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.ai.behavior.InteractWithDoor.m_6735_(InteractWithDoor.java:89) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.ai.behavior.Behavior.m_22554_(Behavior.java:49) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21957_(Brain.java:516) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:475) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:208) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:733) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2546) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:517) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:127) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2291) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:318) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:247) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:659) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:457) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:323) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:303) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:866) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23248!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Sep2025 02:39:20.236] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/89369, l='ServerLevel[world]', x=-1318.19, y=67.62, z=384.17]
+[01Sep2025 02:39:20.237] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/89370, l='ServerLevel[world]', x=-1315.62, y=68.13, z=384.08]
+[01Sep2025 02:39:26.835] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=994, y=7, z=2096}
+[01Sep2025 02:39:29.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[01Sep2025 02:40:09.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai was struck with lightning by Lightning Dragon
+[01Sep2025 02:40:09.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX has made the advancement [Suit Up]
+[01Sep2025 02:40:17.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[01Sep2025 02:41:59.948] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1643, y=67, z=1883} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[01Sep2025 02:41:59.949] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=1643, y=67, z=1883}
+[01Sep2025 02:41:59.949] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1643, y=66, z=1882} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[01Sep2025 02:41:59.949] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=1643, y=66, z=1882}
+[01Sep2025 02:41:59.949] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1643, y=67, z=1882} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[01Sep2025 02:41:59.950] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=1643, y=67, z=1882}
+[01Sep2025 02:45:19.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01Sep2025 02:45:27.461] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Sep2025 02:45:29.103] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Sep2025 02:45:37.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
