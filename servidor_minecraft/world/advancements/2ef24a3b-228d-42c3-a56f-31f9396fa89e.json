@@ -612,6 +612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-01 16:04:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_longbow": {
     "criteria": {
       "has_wood": "2025-08-31 18:49:23 +0000"
@@ -672,6 +678,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/misc/blast_catalyst": {
+    "criteria": {
+      "has_undergarden:catalyst": "2025-09-01 16:00:35 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-08-31 18:11:47 +0000"
@@ -699,6 +711,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/silver_parrying_dagger": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 18:52:18 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/catalyst": {
+    "criteria": {
+      "has_catalyst": "2025-09-01 16:00:35 +0000"
     },
     "done": true
   },
@@ -816,6 +834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-01 16:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-31 19:35:41 +0000",
@@ -876,6 +900,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-09-01 01:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-09-01 16:05:02 +0000"
     },
     "done": true
   },
@@ -1293,6 +1323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-01 16:04:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_scythe": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 18:52:18 +0000"
@@ -1416,6 +1452,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-09-01 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-01 16:04:45 +0000"
     },
     "done": true
   },
@@ -1657,6 +1699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-01 16:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-01 02:16:51 +0000"
@@ -1880,6 +1928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-01 16:04:45 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/stone_tower_shield": {
     "criteria": {
       "has_cobblestone": "2025-08-31 18:55:20 +0000"
@@ -2066,6 +2120,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/misc/smelt_catalyst": {
+    "criteria": {
+      "has_undergarden:catalyst": "2025-09-01 16:00:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_heavy_crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 19:01:42 +0000"
@@ -2099,6 +2159,12 @@
   "justhammers:recipes/justhammers.justhammers_tab/iron_hammer": {
     "criteria": {
       "has_material": "2025-08-31 19:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-09-01 16:05:02 +0000"
     },
     "done": true
   },
@@ -3000,6 +3066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-09-01 16:05:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-08-31 19:02:34 +0000"
@@ -3376,6 +3448,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_rapier": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 18:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-01 16:04:45 +0000"
     },
     "done": true
   },
