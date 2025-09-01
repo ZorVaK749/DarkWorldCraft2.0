@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-09-01 02:20:07 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2025-08-31 18:01:33 +0000",
@@ -627,6 +633,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-31 19:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-09-01 02:19:10 +0000"
     },
     "done": true
   },
@@ -2519,6 +2531,7 @@
     "criteria": {
       "cooked_mutton": "2025-08-31 19:08:25 +0000",
       "cooked_beef": "2025-08-31 18:42:30 +0000",
+      "bread": "2025-09-01 02:23:18 +0000",
       "melon_slice": "2025-08-31 20:32:56 +0000"
     },
     "done": false
@@ -3486,6 +3499,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-08-31 18:03:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-09-01 02:20:07 +0000"
     },
     "done": true
   },
