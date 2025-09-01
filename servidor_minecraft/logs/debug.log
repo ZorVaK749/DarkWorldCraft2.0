@@ -6551,3 +6551,99 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [01Sep2025 02:22:26.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [Sweet Dreams]
 [01Sep2025 02:24:06.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Sep2025 02:24:06.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Sep2025 02:24:40.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Sep2025 02:24:40.615] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[01Sep2025 02:24:41.336] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Sep2025 02:24:41.336] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[01Sep2025 02:24:41.337] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Sep2025 02:24:41.337] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[01Sep2025 02:24:41.339] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Sep2025 02:24:41.339] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[01Sep2025 02:24:41.991] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Sep2025 02:24:41.991] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[01Sep2025 02:24:41.991] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Sep2025 02:24:41.991] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[01Sep2025 02:24:42.679] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Sep2025 02:24:42.680] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[01Sep2025 02:25:09.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Sep2025 02:25:09.958] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[01Sep2025 02:25:09.961] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Sep2025 02:25:09.961] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[01Sep2025 02:25:09.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Masquerade]
+[01Sep2025 02:25:11.800] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Sep2025 02:25:11.800] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[01Sep2025 02:28:13.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX was slain by Ice Dragon
+[01Sep2025 02:29:05.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Sep2025 02:29:05.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Sep2025 02:29:54.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported vrayiRAX to -198.500000, 53.000000, 2707.500000]
+[01Sep2025 02:29:54.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArukuSenpai moved too quickly! 3.8706243581677313,-0.757002463247801,9.286542996972969
+[01Sep2025 02:30:03.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX was turned to ice by Ice Dragon
+[01Sep2025 02:30:37.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported vrayiRAX to _ZorVaK_]
+[01Sep2025 02:31:56.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Applied effect Health Boost to _ZorVaK_]
+[01Sep2025 02:32:17.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to -198.500000, 53.000000, 2707.500000]
+[01Sep2025 02:32:17.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Creative Mode]
+[01Sep2025 02:33:32.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Spectator Mode]
+[01Sep2025 02:33:56.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ moved too quickly! -0.03251440899887825,-6.037557367386583,8.364544591292997
+[01Sep2025 02:33:56.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ArukuSenpai) moved too quickly! -10.292933333714245,0.0,-1.4597852330540206
+[01Sep2025 02:33:56.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ArukuSenpai) moved too quickly! -10.690957642892613,0.0,-1.4943277730139926
+[01Sep2025 02:33:56.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ArukuSenpai) moved too quickly! -11.089169359353377,0.0,-1.5263171955748476
+[01Sep2025 02:33:56.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ArukuSenpai) moved too quickly! -11.487553396873636,0.0,-1.5558286070906888
+[01Sep2025 02:33:56.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ArukuSenpai) moved too quickly! -11.886095049090102,0.0,-1.5829525960029969
+[01Sep2025 02:33:56.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ArukuSenpai) moved too quickly! -12.284780342668796,0.0,-1.6077821875125267
+[01Sep2025 02:33:56.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ArukuSenpai) moved too quickly! -12.683596034782397,0.0,-1.630420273040869
+[01Sep2025 02:33:56.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ArukuSenpai) moved too quickly! -13.082529774753027,0.0,-1.6509671217743858
+[01Sep2025 02:33:56.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ArukuSenpai) moved too quickly! -13.481570070716543,0.0,-1.6695283142427684
+[01Sep2025 02:33:56.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ArukuSenpai) moved too quickly! -13.880706315499935,0.0,-1.6862065423615888
+[01Sep2025 02:33:56.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ArukuSenpai) moved too quickly! -14.279928768932564,0.0,-1.7011057338076512
+[01Sep2025 02:34:01.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Sep2025 02:34:01.089] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[01Sep2025 02:34:01.743] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Sep2025 02:34:01.743] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[01Sep2025 02:34:03.254] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Sep2025 02:34:03.254] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[01Sep2025 02:34:05.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Sep2025 02:34:05.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Sep2025 02:34:06.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaXx015 was slain by Ghost
+[01Sep2025 02:34:14.850] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Sep2025 02:34:14.850] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[01Sep2025 02:34:15.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported vrayiRAX to _ZorVaK_]
+[01Sep2025 02:34:17.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Creative Mode]
+[01Sep2025 02:34:48.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to 1100.500000, 80.000000, 100.500000]
+[01Sep2025 02:34:48.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -10.647966940255742,1.304413979230688,2.50214142786308
+[01Sep2025 02:34:48.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -11.72804960636961,1.4518657880569066,2.7636442845264355
+[01Sep2025 02:34:48.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -12.810780785941517,1.6008900868341556,3.027471252025407
+[01Sep2025 02:34:48.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -13.896156441835956,1.750734974901519,3.293575299947406
+[01Sep2025 02:34:48.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -14.984149818167964,1.9007108202240488,3.5618944279908646
+[01Sep2025 02:34:48.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -16.07467903688371,2.0502413168595695,3.8324635138073972
+[01Sep2025 02:34:48.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -17.167632624284863,2.198865642726304,4.105427867225444
+[01Sep2025 02:34:48.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -18.262979727185837,2.3461909829849503,4.380849933170339
+[01Sep2025 02:34:48.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -19.36064122199258,2.4918211222080515,4.658767951626032
+[01Sep2025 02:34:48.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -20.46059107299385,2.636011680696569,4.939231111477511
+[01Sep2025 02:34:48.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -21.562835297145796,2.778623347158529,5.222183895643866
+[01Sep2025 02:34:48.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -22.667355570763277,2.9197922994025447,5.5076670494349855
+[01Sep2025 02:34:48.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -23.77413121309462,3.060340809490654,5.795729557368304
+[01Sep2025 02:34:48.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -24.88311214793299,3.200958645549946,6.086412152493722
+[01Sep2025 02:34:48.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -25.99427528265676,3.3421872850914696,6.379761037744174
+[01Sep2025 02:34:48.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -27.107600137308737,3.4851262724784817,6.675821475990688
+[01Sep2025 02:34:48.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -28.22306630077486,3.6305191684902383,6.974637960329801
+[01Sep2025 02:34:48.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -29.34053953282921,3.77895270686507,7.276674279677991
+[01Sep2025 02:34:48.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArukuSenpai moved too quickly! -8.56102296047527,-1.7421414341400236,5.147319734172427
+[01Sep2025 02:34:48.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -30.45955677031725,3.9315473058842514,7.583581695950215
+[01Sep2025 02:34:48.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -31.579618220639134,4.088381729191923,7.897071952769238
+[01Sep2025 02:34:48.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -32.70005772979334,4.250456168926831,8.219333330120662
+[01Sep2025 02:34:48.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -33.82003997325785,4.4178199741446065,8.553059693644173
+[01Sep2025 02:34:48.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -34.93853573031447,4.589978843793006,8.901199863045349
+[01Sep2025 02:34:48.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -36.05462845064636,4.767422016773736,9.266092297504201
+[01Sep2025 02:34:48.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -37.16697579976625,4.9486774246884835,9.651079833330641
+[01Sep2025 02:34:48.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -38.27438284564596,5.133994384576113,10.05849717550609
+[01Sep2025 02:34:48.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -39.37542335925673,5.3224290940647165,10.490761269099949
+[01Sep2025 02:34:48.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -40.46953295897748,5.512104910298348,10.947788101672813
+[01Sep2025 02:34:48.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -30.948313953051468,4.403757397431377,8.923191232420777
+[01Sep2025 02:34:48.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -29.966242713927045,4.3109966078923065,8.818068401501932
+[01Sep2025 02:34:48.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -30.015385631313507,4.358242783397699,8.99931377155417
+[01Sep2025 02:34:48.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -30.05919182403443,4.397764254228932,9.14712936865908
+[01Sep2025 02:34:48.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -30.104588630912758,4.438311775019756,9.316927615886925
+[01Sep2025 02:34:48.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -30.149435492082887,4.476113326432426,9.484371632333023
+[01Sep2025 02:34:49.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -29.198690348988976,4.362024658867512,9.189915446805117
+[01Sep2025 02:34:57.907] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Sep2025 02:35:01.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set [ TOP Manquitos] for BenjaXx015 to 1]

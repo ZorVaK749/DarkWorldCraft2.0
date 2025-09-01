@@ -1076,6 +1076,7 @@
       "minecraft:badlands": "2025-09-01 01:53:20 +0000",
       "minecraft:beach": "2025-09-01 01:56:36 +0000",
       "minecraft:sparse_jungle": "2025-09-01 02:05:36 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-01 02:26:57 +0000",
       "minecraft:river": "2025-09-01 01:59:17 +0000",
       "minecraft:stony_shore": "2025-09-01 01:56:48 +0000",
       "minecraft:forest": "2025-09-01 01:53:51 +0000",
@@ -1306,6 +1307,12 @@
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2025-09-01 01:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-09-01 02:28:04 +0000"
     },
     "done": true
   },
@@ -1594,7 +1601,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-09-01 02:08:45 +0000",
-      "golden_apple": "2025-09-01 02:20:30 +0000"
+      "golden_apple": "2025-09-01 02:20:30 +0000",
+      "golden_carrot": "2025-09-01 02:28:21 +0000"
     },
     "done": false
   },
@@ -2204,6 +2212,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-09-01 02:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-09-01 01:59:55 +0000"
@@ -2303,6 +2317,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-09-01 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-09-01 02:28:04 +0000"
     },
     "done": true
   },
