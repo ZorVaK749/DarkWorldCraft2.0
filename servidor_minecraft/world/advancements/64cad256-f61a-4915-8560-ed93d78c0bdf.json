@@ -761,6 +761,12 @@
     },
     "done": true
   },
+  "undergarden:undergarden/mine_ore": {
+    "criteria": {
+      "has_regalium_crystal": "2025-09-01 15:36:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-31 17:19:48 +0000"
@@ -2387,6 +2393,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/regalium_block": {
+    "criteria": {
+      "has_regalium_crystal": "2025-09-01 15:36:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_club": {
     "criteria": {
       "has_wood_log": "2025-08-31 16:03:09 +0000"
@@ -3944,6 +3956,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-09-01 04:18:14 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/stoneborn_trade": {
+    "criteria": {
+      "trade_with_stoneborn": "2025-09-01 15:36:11 +0000"
     },
     "done": true
   },
