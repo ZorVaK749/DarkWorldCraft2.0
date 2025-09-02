@@ -1344,3 +1344,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [02Sep2025 17:09:15.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> 542 48
 [02Sep2025 17:10:35.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ tried to swim in lava
 [02Sep2025 17:14:22.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Creative Mode]
+[02Sep2025 17:27:00.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ lost connection: Disconnected
+[02Sep2025 17:27:00.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ left the game
+[02Sep2025 17:27:05.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Sep2025 17:27:05.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Sep2025 17:27:05.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Sep2025 17:27:05.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Sep2025 17:27:06.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Sep2025 17:27:06.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Sep2025 17:27:06.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[02Sep2025 17:27:06.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Sep2025 17:27:06.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[02Sep2025 17:27:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Sep2025 17:27:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Sep2025 17:27:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[02Sep2025 17:27:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Sep2025 17:27:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[02Sep2025 17:27:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
