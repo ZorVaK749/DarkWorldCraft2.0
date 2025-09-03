@@ -26,3 +26,15 @@
 [03Sep2025 00:45:24.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> PELEAMOS CON EL DRAGON?
 [03Sep2025 00:45:27.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> entrare a vc
 [03Sep2025 00:45:35.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <vrayiRAX> ya
+[03Sep2025 00:50:27.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1195, y=68, z=-9} BlockPos{x=1195, y=66, z=-8}
+[03Sep2025 00:50:27.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1195, y=68, z=-9} BlockPos{x=1195, y=66, z=-8}
+[03Sep2025 00:50:27.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1195, y=68, z=-9} BlockPos{x=1195, y=66, z=-8}
+[03Sep2025 00:50:28.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1193, y=67, z=-7} BlockPos{x=1194, y=66, z=-4}
+[03Sep2025 00:50:30.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1198, y=69, z=-8} BlockPos{x=1200, y=67, z=-9}
+[03Sep2025 00:57:45.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Spectator Mode]
+[03Sep2025 00:58:02.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
+[03Sep2025 00:58:48.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX has made the advancement [Rotten to the Core]
+[03Sep2025 00:59:26.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ was slain by Zombie
+[03Sep2025 01:05:42.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Spectator Mode]
+[03Sep2025 01:06:03.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
+[03Sep2025 01:06:25.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX has made the advancement [Hunt and Gather]
