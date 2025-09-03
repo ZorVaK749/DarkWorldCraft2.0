@@ -349,3 +349,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [03Sep2025 17:38:31.816] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1915, y=72, z=955}
 [03Sep2025 17:38:54.456] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1616, y=17, z=1310}
 [03Sep2025 17:38:54.488] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1618, y=17, z=1312}
+[03Sep2025 17:42:51.814] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _ZorVaK_ is 64cad256-f61a-4915-8560-ed93d78c0bdf
+[03Sep2025 17:42:55.556] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@305ca8bb
+[03Sep2025 17:42:55.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _ZorVaK_[/127.40.116.41:37969] logged in with entity id 10224 at (1494.2899918598762, 90.0, -74.30000001192093)
+[03Sep2025 17:42:55.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ joined the game
+[03Sep2025 17:42:55.632] [Server thread/INFO] [Jade/]: Syncing config to _ZorVaK_ (64cad256-f61a-4915-8560-ed93d78c0bdf)
+[03Sep2025 17:43:31.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to vrayiRAX]
+[03Sep2025 17:44:05.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ moved too quickly! -853.0000488162041,1.0,-126.0
+[03Sep2025 17:44:07.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Best Friends Forever]
+[03Sep2025 17:44:27.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX has made the advancement [Enter the Undergarden]
+[03Sep2025 17:44:28.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX moved too quickly! -853.0000488162041,1.0,-126.0
+[03Sep2025 17:44:43.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX moved too quickly! 853.0000122189522,-1.0,126.0
+[03Sep2025 17:52:00.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [An Ear-Shattering Roar]
