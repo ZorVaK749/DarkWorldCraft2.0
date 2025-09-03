@@ -2064,6 +2064,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "zombie_head": "2025-09-03 02:17:20 +0000",
       "wither_skeleton_skull": "2025-09-02 23:47:28 +0000",
       "skeleton_skull": "2025-08-31 19:39:19 +0000"
     },
@@ -2204,6 +2205,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-09-01 04:17:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-09-03 02:15:41 +0000"
     },
     "done": true
   },

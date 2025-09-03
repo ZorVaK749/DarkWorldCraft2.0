@@ -2706,6 +2706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-09-03 02:11:20 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/justhammers.justhammers_tab/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-09-02 00:06:53 +0000"
