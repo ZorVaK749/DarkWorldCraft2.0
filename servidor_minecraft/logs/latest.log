@@ -85,3 +85,28 @@
 [03Sep2025 01:53:15.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Dragonslayer]
 [03Sep2025 01:55:32.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Mother of Dragons]
 [03Sep2025 02:15:41.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Reaping What You Sow]
+[03Sep2025 02:22:48.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ fell from a high place
+[03Sep2025 02:23:09.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ lost connection: Timed out
+[03Sep2025 02:23:09.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ left the game
+[03Sep2025 02:23:17.704] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _ZorVaK_ is 64cad256-f61a-4915-8560-ed93d78c0bdf
+[03Sep2025 02:23:25.848] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7f92c52d
+[03Sep2025 02:23:25.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _ZorVaK_[/127.40.116.41:49937] logged in with entity id 56632 at (1083.8519031550777, 49.76636799395752, 187.38585513086187)
+[03Sep2025 02:23:25.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ joined the game
+[03Sep2025 02:23:25.907] [Server thread/INFO] [Jade/]: Syncing config to _ZorVaK_ (64cad256-f61a-4915-8560-ed93d78c0bdf)
+[03Sep2025 02:23:30.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] vivan los femboys
+[03Sep2025 02:23:55.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ lost connection: Timed out
+[03Sep2025 02:23:55.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ left the game
+[03Sep2025 02:24:02.822] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _ZorVaK_ is 64cad256-f61a-4915-8560-ed93d78c0bdf
+[03Sep2025 02:24:05.304] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@702ef59f
+[03Sep2025 02:24:05.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _ZorVaK_[/127.40.116.41:52279] logged in with entity id 57431 at (1083.8519031550777, 49.76636799395752, 187.38585513086187)
+[03Sep2025 02:24:05.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ joined the game
+[03Sep2025 02:24:05.374] [Server thread/INFO] [Jade/]: Syncing config to _ZorVaK_ (64cad256-f61a-4915-8560-ed93d78c0bdf)
+[03Sep2025 02:27:08.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ lost connection: Disconnected
+[03Sep2025 02:27:08.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ left the game
+[03Sep2025 02:29:03.521] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _ZorVaK_ is 64cad256-f61a-4915-8560-ed93d78c0bdf
+[03Sep2025 02:29:06.448] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4311bf34
+[03Sep2025 02:29:06.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _ZorVaK_[/127.40.116.41:58541] logged in with entity id 60137 at (1374.8610097562755, 3.0, 260.39579619268505)
+[03Sep2025 02:29:06.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ joined the game
+[03Sep2025 02:29:06.489] [Server thread/INFO] [Jade/]: Syncing config to _ZorVaK_ (64cad256-f61a-4915-8560-ed93d78c0bdf)
+[03Sep2025 02:29:36.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ lost connection: Timed out
+[03Sep2025 02:29:36.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ left the game
