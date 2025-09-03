@@ -361,3 +361,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [03Sep2025 17:44:28.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX moved too quickly! -853.0000488162041,1.0,-126.0
 [03Sep2025 17:44:43.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX moved too quickly! 853.0000122189522,-1.0,126.0
 [03Sep2025 17:52:00.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [An Ear-Shattering Roar]
+[03Sep2025 18:20:14.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Creative Mode]
+[03Sep2025 18:22:24.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
+[03Sep2025 18:22:55.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Eternal Closure]

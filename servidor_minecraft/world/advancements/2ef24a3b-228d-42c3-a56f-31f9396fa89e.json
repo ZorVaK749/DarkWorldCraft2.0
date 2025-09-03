@@ -1049,6 +1049,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-09-03 18:19:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_heavy_crossbow": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 18:52:18 +0000"
@@ -1308,6 +1314,12 @@
   "spartanshields:recipes/spartanshields/silver_basic_shield": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 18:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-09-03 18:19:46 +0000"
     },
     "done": true
   },
@@ -1686,6 +1698,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-09-01 01:38:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-03 18:17:18 +0000"
     },
     "done": true
   },
@@ -2736,6 +2754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-03 18:17:18 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/justhammers.justhammers_tab/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-09-02 00:06:53 +0000"
@@ -3048,6 +3072,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-03 18:17:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_warhammer": {
     "criteria": {
       "has_diamond": "2025-08-31 19:36:27 +0000"
@@ -3220,6 +3250,12 @@
     "criteria": {
       "has_fishing_rod": "2025-08-31 18:11:47 +0000",
       "has_fillet_knife": "2025-08-31 18:11:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-03 18:17:18 +0000"
     },
     "done": true
   },
@@ -3759,6 +3795,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-09-03 18:19:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/steel_spear": {
     "criteria": {
       "has_steel_ingot": "2025-09-02 01:36:41 +0000"
@@ -3951,6 +3993,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-09-03 18:19:46 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
     "criteria": {
       "has_chest": "2025-09-01 04:48:28 +0000"
@@ -4135,6 +4183,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_lance": {
     "criteria": {
       "has_copper_ingot": "2025-09-01 23:21:41 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-09-03 18:19:46 +0000"
     },
     "done": true
   },
@@ -5096,7 +5150,8 @@
       "sugar_cane": "2025-09-02 01:41:54 +0000",
       "potato": "2025-09-02 00:28:26 +0000",
       "nether_wart": "2025-09-03 02:43:02 +0000",
-      "wheat": "2025-09-03 01:25:17 +0000"
+      "wheat": "2025-09-03 01:25:17 +0000",
+      "carrot": "2025-09-03 18:17:25 +0000"
     },
     "done": false
   },
