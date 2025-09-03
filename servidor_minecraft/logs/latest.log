@@ -54,3 +54,31 @@
 [03Sep2025 01:37:42.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ was turned into KFC by Fire Dragon
 [03Sep2025 01:38:34.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX was slain by Fire Dragon
 [03Sep2025 01:38:34.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX moved wrongly!
+[03Sep2025 01:40:05.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ suffocated in a wall whilst fighting Fire Dragon
+[03Sep2025 01:40:15.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX was turned into KFC by Fire Dragon
+[03Sep2025 01:41:44.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14015, l='ServerLevel[world]', x=1148.64, y=77.00, z=204.19] died, message: 'Farmer was turned into KFC by Fire Dragon'
+[03Sep2025 01:41:44.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14016, l='ServerLevel[world]', x=1142.85, y=77.00, z=201.87] died, message: 'Farmer was turned into KFC by Fire Dragon'
+[03Sep2025 01:41:44.278] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14023, l='ServerLevel[world]', x=1148.60, y=77.00, z=201.32] died, message: 'Villager was turned into KFC by Fire Dragon'
+[03Sep2025 01:41:44.739] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14017, l='ServerLevel[world]', x=1141.75, y=77.66, z=204.70] died, message: 'Villager was turned into KFC by Fire Dragon'
+[03Sep2025 01:41:44.741] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14018, l='ServerLevel[world]', x=1148.94, y=76.95, z=204.28] died, message: 'Villager was incinerated by Fire Dragon'
+[03Sep2025 01:41:44.744] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14020, l='ServerLevel[world]', x=1146.92, y=76.95, z=204.41] died, message: 'Villager was incinerated by Fire Dragon'
+[03Sep2025 01:41:44.745] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14021, l='ServerLevel[world]', x=1145.78, y=77.52, z=206.24] died, message: 'Villager was incinerated by Fire Dragon'
+[03Sep2025 01:41:44.746] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14024, l='ServerLevel[world]', x=1140.22, y=77.66, z=204.70] died, message: 'Villager was incinerated by Fire Dragon'
+[03Sep2025 01:41:44.807] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17508, l='ServerLevel[world]', x=1143.30, y=77.66, z=205.54] died, message: 'Villager was incinerated by Fire Dragon'
+[03Sep2025 01:41:47.335] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14019, l='ServerLevel[world]', x=1139.49, y=77.00, z=201.47] died, message: 'Villager was turned into KFC by Fire Dragon'
+[03Sep2025 01:41:50.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX was shot by Skeleton
+[03Sep2025 01:42:12.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ was shot by Skeleton
+[03Sep2025 01:43:28.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Ol' Betsy]
+[03Sep2025 01:43:36.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX was shot by Skeleton
+[03Sep2025 01:43:36.325] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Sep2025 01:43:36.325] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[03Sep2025 01:43:36.325] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[03Sep2025 01:43:36.326] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Sep2025 01:43:36.326] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 8
+[03Sep2025 01:43:43.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ was shot by Skeleton
+[03Sep2025 01:44:28.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX was slain by Zombie
+[03Sep2025 01:44:50.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Swashbuckler]
+[03Sep2025 01:45:27.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX was slain by Zombie
+[03Sep2025 01:46:34.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ was incinerated by Fire Dragon
+[03Sep2025 01:47:50.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX was shot by Skeleton
+[03Sep2025 01:48:34.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ was shot by Skeleton

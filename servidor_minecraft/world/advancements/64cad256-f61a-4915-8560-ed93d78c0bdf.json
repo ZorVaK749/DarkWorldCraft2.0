@@ -2674,6 +2674,12 @@
     },
     "done": true
   },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "has_saber": "2025-09-03 01:44:50 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/gold_hook": {
     "criteria": {
       "has_items": "2025-08-31 16:02:54 +0000"
@@ -5847,6 +5853,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/steel_dagger": {
     "criteria": {
       "has_steel_ingot": "2025-09-01 01:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-09-03 01:43:28 +0000"
     },
     "done": true
   },
