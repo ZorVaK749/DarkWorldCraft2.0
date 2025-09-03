@@ -1,4 +1,10 @@
 {
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_saber": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-08-31 16:28:50 +0000"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-09-03 21:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 17:36:50 +0000"
@@ -338,6 +350,12 @@
   "undergarden:recipes/undergarden_group/boomgourd": {
     "criteria": {
       "has_gloomgourd": "2025-09-02 01:46:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-09-03 20:34:10 +0000"
     },
     "done": true
   },
@@ -395,9 +413,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-09-03 20:35:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-08-31 16:28:00 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-09-03 21:11:57 +0000"
     },
     "done": true
   },
@@ -437,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-03 20:05:33 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_quarterstaff": {
     "criteria": {
       "has_diamond": "2025-08-31 16:31:45 +0000"
@@ -473,6 +509,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_battleaxe": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-09-03 18:15:18 +0000"
@@ -488,6 +530,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-31 19:37:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_lance": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
     },
     "done": true
   },
@@ -542,6 +590,12 @@
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-08-31 16:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-09-03 21:11:57 +0000"
     },
     "done": true
   },
@@ -626,6 +680,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-09-01 04:18:16 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_boomerang": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
     },
     "done": true
   },
@@ -875,6 +935,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-31 17:19:48 +0000"
@@ -911,9 +977,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-09-03 20:48:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-31 16:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-09-03 21:16:52 +0000"
     },
     "done": true
   },
@@ -944,6 +1022,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_heavy_crossbow": {
     "criteria": {
       "has_copper_ingot": "2025-09-01 02:02:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_rapier": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
     },
     "done": true
   },
@@ -1007,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-03 20:04:53 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/steel_lance": {
     "criteria": {
       "has_steel_ingot": "2025-09-01 01:58:27 +0000"
@@ -1064,6 +1154,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-09-02 00:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-09-03 21:16:34 +0000"
     },
     "done": true
   },
@@ -1136,6 +1232,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/silver_battle_hammer": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 16:48:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-03 20:55:46 +0000"
     },
     "done": true
   },
@@ -1361,6 +1463,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_tomahawk": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-31 19:51:22 +0000"
@@ -1379,6 +1487,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_dagger": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/steel_saber": {
     "criteria": {
       "has_steel_ingot": "2025-09-01 01:58:27 +0000"
@@ -1389,6 +1503,12 @@
     "criteria": {
       "has_fishing_rod": "2025-08-31 16:02:54 +0000",
       "has_fillet_knife": "2025-08-31 16:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-09-03 20:22:37 +0000"
     },
     "done": true
   },
@@ -1422,6 +1542,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_javelin": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-08-31 16:28:03 +0000"
@@ -1443,6 +1569,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-09-02 00:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-03 21:11:57 +0000"
     },
     "done": true
   },
@@ -1525,6 +1657,12 @@
   "spartanshields:recipes/spartanshields/silver_basic_shield": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 16:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-09-03 20:59:13 +0000"
     },
     "done": true
   },
@@ -1786,6 +1924,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_heavy_crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 17:36:50 +0000"
@@ -1813,6 +1957,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-08-31 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_halberd": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
     },
     "done": true
   },
@@ -2130,6 +2280,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_pike": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-31 16:28:50 +0000"
@@ -2316,6 +2472,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-09-03 20:32:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/rope": {
     "criteria": {
       "has_straw": "2025-09-02 00:33:38 +0000"
@@ -2484,6 +2646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-09-03 21:16:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_flanged_mace": {
     "criteria": {
       "has_copper_ingot": "2025-09-01 02:02:17 +0000"
@@ -2558,6 +2726,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-01 04:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-09-03 21:16:52 +0000"
     },
     "done": true
   },
@@ -2903,6 +3077,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-09-03 20:32:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_battleaxe": {
     "criteria": {
       "has_cobblestone": "2025-08-31 16:28:50 +0000"
@@ -3006,6 +3186,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_longsword": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2025-08-31 16:02:54 +0000"
@@ -3102,6 +3288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-09-03 20:35:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-08-31 16:30:12 +0000"
@@ -3150,6 +3342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-03 21:16:52 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/steel_basic_shield": {
     "criteria": {
       "has_steel_ingot": "2025-09-01 01:58:27 +0000"
@@ -3189,6 +3387,12 @@
   "farmersdelight:recipes/farmersdelight/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2025-09-02 00:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-09-03 20:50:00 +0000"
     },
     "done": true
   },
@@ -3276,6 +3480,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_warhammer": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/spartanfire/flamed_dragon_bone_halberd": {
     "criteria": {
       "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
@@ -3357,6 +3567,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_katana": {
     "criteria": {
       "has_copper_ingot": "2025-09-01 02:02:17 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-09-03 20:35:42 +0000"
     },
     "done": true
   },
@@ -3570,6 +3786,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/shard_torch": {
     "criteria": {
       "has_stick": "2025-08-31 16:07:38 +0000"
@@ -3667,6 +3889,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-09-03 20:31:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-08-31 16:30:12 +0000"
@@ -3691,9 +3919,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-03 20:05:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-09-02 01:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-09-03 20:04:53 +0000"
     },
     "done": true
   },
@@ -3718,6 +3958,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-01 04:54:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-03 20:59:12 +0000"
     },
     "done": true
   },
@@ -3919,6 +4165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-09-03 21:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-08-31 16:27:36 +0000"
@@ -4018,6 +4270,7 @@
       "minecraft:magma_cube": "2025-09-02 23:43:38 +0000",
       "minecraft:spider": "2025-08-31 18:11:18 +0000",
       "minecraft:creeper": "2025-09-01 03:54:31 +0000",
+      "minecraft:witch": "2025-09-03 20:50:18 +0000",
       "minecraft:wither_skeleton": "2025-09-02 23:47:27 +0000",
       "minecraft:enderman": "2025-09-03 02:19:59 +0000",
       "minecraft:zombie": "2025-08-31 17:34:33 +0000",
@@ -4052,6 +4305,18 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-09-03 01:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-09-03 21:16:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_spear": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
     },
     "done": true
   },
@@ -4343,9 +4608,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-09-03 20:35:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/silver_quarterstaff": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 16:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-09-03 20:05:13 +0000"
     },
     "done": true
   },
@@ -4355,9 +4632,21 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_longbow": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/spartanfire/flamed_dragon_bone_boomerang": {
     "criteria": {
       "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-09-03 20:52:54 +0000"
     },
     "done": true
   },
@@ -4382,6 +4671,18 @@
   "spartanfire:recipes/spartanfire/dragon_bone_scythe": {
     "criteria": {
       "has_dragon_bone": "2025-08-31 16:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-03 20:05:33 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
     },
     "done": true
   },
@@ -4463,6 +4764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-09-03 20:59:17 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
     "criteria": {
       "has_chest": "2025-08-31 16:30:53 +0000"
@@ -4535,6 +4842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-03 21:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-09-01 04:54:44 +0000"
@@ -4574,6 +4887,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-31 17:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-09-03 20:59:13 +0000"
     },
     "done": true
   },
@@ -4670,21 +4989,30 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-09-03 21:19:16 +0000",
+      "minecraft:deep_ocean": "2025-09-03 20:54:07 +0000",
       "minecraft:eroded_badlands": "2025-09-01 15:38:06 +0000",
       "minecraft:wooded_badlands": "2025-09-01 02:58:28 +0000",
       "minecraft:bamboo_jungle": "2025-09-01 03:38:50 +0000",
       "minecraft:badlands": "2025-08-31 16:01:39 +0000",
       "minecraft:savanna_plateau": "2025-09-01 02:22:20 +0000",
+      "minecraft:beach": "2025-09-03 20:52:23 +0000",
       "minecraft:dark_forest": "2025-09-01 03:16:42 +0000",
       "minecraft:mangrove_swamp": "2025-08-31 18:06:00 +0000",
       "minecraft:sparse_jungle": "2025-08-31 18:06:41 +0000",
       "minecraft:river": "2025-08-31 16:02:13 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-03 20:52:24 +0000",
       "minecraft:stony_shore": "2025-08-31 19:27:56 +0000",
+      "minecraft:snowy_plains": "2025-09-03 21:20:16 +0000",
       "minecraft:dripstone_caves": "2025-08-31 17:24:34 +0000",
+      "minecraft:cold_ocean": "2025-09-03 21:19:38 +0000",
       "minecraft:forest": "2025-08-31 16:02:30 +0000",
+      "minecraft:frozen_ocean": "2025-09-03 21:19:58 +0000",
       "minecraft:desert": "2025-08-31 16:00:15 +0000",
       "minecraft:jungle": "2025-08-31 16:04:09 +0000",
       "minecraft:ocean": "2025-09-01 02:34:21 +0000",
+      "minecraft:windswept_savanna": "2025-09-03 20:52:15 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-09-03 20:57:33 +0000",
       "minecraft:meadow": "2025-09-01 02:54:32 +0000",
       "minecraft:savanna": "2025-08-31 16:02:46 +0000",
       "minecraft:plains": "2025-08-31 16:02:23 +0000"
@@ -4841,6 +5169,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-09-03 20:32:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_tomahawk": {
     "criteria": {
       "has_wood": "2025-08-31 16:03:14 +0000"
@@ -4892,6 +5226,12 @@
   "spartanfire:recipes/spartanfire/desert_myrmex_stinger_greatsword": {
     "criteria": {
       "has_myrmex_stinger": "2025-08-31 18:09:20 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_katana": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
     },
     "done": true
   },
@@ -5003,6 +5343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-03 20:04:53 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_halberd": {
     "criteria": {
       "has_diamond": "2025-08-31 16:31:45 +0000"
@@ -5030,6 +5376,18 @@
   "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_javelin": {
     "criteria": {
       "has_myrmex_stinger": "2025-08-31 18:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-09-03 20:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-03 21:16:52 +0000"
     },
     "done": true
   },
@@ -5114,6 +5472,12 @@
   "undergarden:recipes/misc/smelt_catalyst": {
     "criteria": {
       "has_undergarden:catalyst": "2025-09-01 04:58:10 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
     },
     "done": true
   },
@@ -5210,6 +5574,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-09-02 00:17:41 +0000",
+      "chicken": "2025-09-03 20:32:51 +0000",
       "cooked_mutton": "2025-09-01 03:34:56 +0000",
       "cooked_beef": "2025-08-31 16:29:53 +0000",
       "potato": "2025-09-01 02:28:43 +0000",
@@ -5224,6 +5589,12 @@
   "spartanfire:recipes/spartanfire/flamed_dragon_bone_battleaxe": {
     "criteria": {
       "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-09-03 21:18:14 +0000"
     },
     "done": true
   },
@@ -5275,6 +5646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-09-03 21:16:52 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/spartanfire/dragon_bone_spear": {
     "criteria": {
       "has_dragon_bone": "2025-08-31 16:35:30 +0000"
@@ -5305,9 +5682,21 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-09-03 21:09:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/steel_pike": {
     "criteria": {
       "has_steel_ingot": "2025-09-01 01:58:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_greatsword": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
     },
     "done": true
   },
@@ -5606,6 +5995,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/small_bolt_quiver": {
+    "criteria": {
+      "has_bolt": "2025-09-03 20:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-08-31 19:51:22 +0000"
@@ -5669,6 +6064,12 @@
   "spartanfire:recipes/spartanfire/flamed_dragon_bone_rapier": {
     "criteria": {
       "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-09-03 20:35:42 +0000"
     },
     "done": true
   },
@@ -5858,6 +6259,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-09-03 20:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-09-03 00:19:20 +0000"
@@ -6044,6 +6451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-09-03 20:05:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_katana": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 16:31:45 +0000"
@@ -6059,6 +6472,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-08-31 16:03:14 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
     },
     "done": true
   },
@@ -6122,6 +6541,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_glaive": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-08-31 19:19:34 +0000"
@@ -6137,6 +6562,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-09-01 03:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-09-03 20:19:20 +0000"
     },
     "done": true
   },
@@ -6200,6 +6631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-03 21:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-08-31 16:07:23 +0000"
@@ -6260,6 +6697,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-09-03 20:35:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 16:31:45 +0000"
@@ -6269,6 +6712,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-08-31 19:39:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/lightning_dragon_bone_scythe": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-03 20:28:56 +0000"
     },
     "done": true
   },
