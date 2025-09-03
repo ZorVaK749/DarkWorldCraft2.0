@@ -364,3 +364,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [03Sep2025 18:20:14.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Creative Mode]
 [03Sep2025 18:22:24.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
 [03Sep2025 18:22:55.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Eternal Closure]
+[03Sep2025 18:26:27.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ fell from a high place
+[03Sep2025 18:28:34.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Creative Mode]
+[03Sep2025 18:28:46.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to -1221.500000, 96.000000, -499.500000]
+[03Sep2025 18:31:29.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Gamerule sendCommandFeedback is now set to: true]
+[03Sep2025 18:32:51.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Gamerule sendCommandFeedback is now set to: false]
+[03Sep2025 18:33:06.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to -1220.500000, 99.000000, -740.500000]
+[03Sep2025 18:33:32.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Those Were the Days]
+[03Sep2025 18:34:07.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to -1988.500000, 99.000000, -740.500000]
+[03Sep2025 18:34:50.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to 0.500000, 90.000000, 0.500000]
+[03Sep2025 18:39:41.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
+[03Sep2025 18:39:44.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Creative Mode]
+[03Sep2025 18:41:40.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to -1988.500000, 99.000000, -740.500000]
+[03Sep2025 18:42:23.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to -1220.500000, 99.000000, -740.500000]
+[03Sep2025 18:42:55.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Spectator Mode]
+[03Sep2025 18:43:31.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Creative Mode]
+[03Sep2025 18:45:17.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Gamerule sendCommandFeedback is now set to: true]
+[03Sep2025 18:45:28.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX has made the advancement [What Happens in Las Vegas...]
+[03Sep2025 18:45:37.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to -1919.500000, 63.174556, -943.500000]
+[03Sep2025 18:45:48.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Spectator Mode]
+[03Sep2025 18:45:57.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Creative Mode]
+[03Sep2025 18:45:59.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX has made the advancement [Cover Me with Diamonds]
+[03Sep2025 18:46:35.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to -1220.500000, 99.000000, -740.500000]
+[03Sep2025 18:46:59.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ lost connection: Disconnected
+[03Sep2025 18:46:59.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ left the game
+[03Sep2025 18:48:30.913] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _ZorVaK_ is 64cad256-f61a-4915-8560-ed93d78c0bdf
+[03Sep2025 18:48:34.407] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@94c6452
+[03Sep2025 18:48:34.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _ZorVaK_[/127.40.116.41:42301] logged in with entity id 49892 at (-1220.5, 32.0, -740.5)
+[03Sep2025 18:48:34.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ joined the game
+[03Sep2025 18:48:34.448] [Server thread/INFO] [Jade/]: Syncing config to _ZorVaK_ (64cad256-f61a-4915-8560-ed93d78c0bdf)
+[03Sep2025 18:48:51.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> as
+[03Sep2025 18:49:14.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ fell out of the world
+[03Sep2025 18:49:14.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Killed _ZorVaK_]
+[03Sep2025 18:49:47.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> ASS
+[03Sep2025 18:52:26.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Spectator Mode]
