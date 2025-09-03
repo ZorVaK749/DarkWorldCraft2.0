@@ -5316,3 +5316,216 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [03Sep2025 01:25:17.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX has made the advancement [A Seedy Place]
 [03Sep2025 01:27:34.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Sep2025 01:27:34.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 01:30:20.838] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:30:20.839] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 22.0 Armor value: 0.0 Damage ignoring armor (25.0% damage): 5.5 Damage not ignoring armor: 16.5 Reduced Damage: 16.5 Result Damage: 22.0
+[03Sep2025 01:30:20.842] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:30:20.842] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 0.0 Damage ignoring armor (25.0% damage): 6.0 Damage not ignoring armor: 18.0 Reduced Damage: 18.0 Result Damage: 24.0
+[03Sep2025 01:30:29.840] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:30:29.840] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 2.0 Damage ignoring armor (25.0% damage): 4.75 Damage not ignoring armor: 14.25 Reduced Damage: 14.022 Result Damage: 18.772
+[03Sep2025 01:30:36.239] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:30:36.239] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 22.0 Armor value: 2.0 Damage ignoring armor (25.0% damage): 5.5 Damage not ignoring armor: 16.5 Reduced Damage: 16.236 Result Damage: 21.736
+[03Sep2025 01:30:43.438] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:30:43.438] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 22.0 Armor value: 0.0 Damage ignoring armor (25.0% damage): 5.5 Damage not ignoring armor: 16.5 Reduced Damage: 16.5 Result Damage: 22.0
+[03Sep2025 01:30:48.292] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:30:48.292] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 20.0 Armor value: 0.0 Damage ignoring armor (25.0% damage): 5.0 Damage not ignoring armor: 15.0 Reduced Damage: 15.0 Result Damage: 20.0
+[03Sep2025 01:30:52.939] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:30:52.939] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 28.0 Armor value: 0.0 Damage ignoring armor (25.0% damage): 7.0 Damage not ignoring armor: 21.0 Reduced Damage: 21.0 Result Damage: 28.0
+[03Sep2025 01:30:59.090] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:30:59.090] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 22.0 Armor value: 0.0 Damage ignoring armor (25.0% damage): 5.5 Damage not ignoring armor: 16.5 Reduced Damage: 16.5 Result Damage: 22.0
+[03Sep2025 01:31:12.843] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:31:12.843] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 20.0 Armor value: 0.0 Damage ignoring armor (25.0% damage): 5.0 Damage not ignoring armor: 15.0 Reduced Damage: 15.0 Result Damage: 20.0
+[03Sep2025 01:31:18.092] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:31:18.092] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 21.0 Armor value: 0.0 Damage ignoring armor (25.0% damage): 5.25 Damage not ignoring armor: 15.75 Reduced Damage: 15.75 Result Damage: 21.0
+[03Sep2025 01:31:45.142] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:31:45.142] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 27.0 Armor value: 19.0 Damage ignoring armor (25.0% damage): 6.75 Damage not ignoring armor: 20.25 Reduced Damage: 13.06125 Result Damage: 19.811249
+[03Sep2025 01:31:48.943] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:31:48.943] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 11.5 Armor value: 19.0 Damage ignoring armor (25.0% damage): 2.875 Damage not ignoring armor: 8.625 Reduced Damage: 3.5578127 Result Damage: 6.4328127
+[03Sep2025 01:31:52.494] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:31:52.494] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 13.5 Armor value: 19.0 Damage ignoring armor (25.0% damage): 3.375 Damage not ignoring armor: 10.125 Reduced Damage: 4.4803123 Result Damage: 7.8553123
+[03Sep2025 01:31:52.545] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:31:52.545] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 11.5 Armor value: 19.0 Damage ignoring armor (25.0% damage): 2.875 Damage not ignoring armor: 8.625 Reduced Damage: 3.5578127 Result Damage: 6.4328127
+[03Sep2025 01:31:53.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:31:53.250] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:31:53.900] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:31:53.900] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:31:54.555] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:31:54.555] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:31:55.744] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:31:55.744] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 8.0 Armor value: 19.0 Damage ignoring armor (25.0% damage): 2.0 Damage not ignoring armor: 6.0 Reduced Damage: 2.16 Result Damage: 4.16
+[03Sep2025 01:31:55.791] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:31:55.791] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 16.0 Armor value: 19.0 Damage ignoring armor (25.0% damage): 4.0 Damage not ignoring armor: 12.0 Reduced Damage: 5.76 Result Damage: 9.76
+[03Sep2025 01:31:59.726] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:31:59.726] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:00.826] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:00.826] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:02.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:02.324] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:03.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:03.176] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:04.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:04.447] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:04.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:04.975] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:05.127] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:05.127] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:05.804] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:05.805] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:05.823] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:05.823] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:06.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:06.924] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:07.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:07.745] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:08.877] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:08.877] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:09.746] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:09.746] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:09.800] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:09.800] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:10.449] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:10.450] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:10.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:10.621] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:11.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:11.571] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:12.442] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:12.442] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:13.394] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:13.394] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:15.122] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:15.122] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:16.744] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:16.744] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:16.872] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:16.872] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:17.395] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:17.395] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:18.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ walked into fire whilst fighting Fire Dragon
+[03Sep2025 01:32:19.529] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:19.529] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:20.372] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:20.372] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:21.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:21.323] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:22.179] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:22.179] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:23.045] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:23.045] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:23.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:32:23.874] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:32:25.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX was incinerated by Fire Dragon
+[03Sep2025 01:32:34.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 01:32:34.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 01:34:01.425] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:34:01.425] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:34:05.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX was slain by Fire Dragon
+[03Sep2025 01:34:06.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ was slain by Fire Dragon
+[03Sep2025 01:35:19.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ walked into fire whilst fighting Fire Dragon
+[03Sep2025 01:35:27.945] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:27.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.045] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.096] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.147] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.195] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.243] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.294] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.342] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.394] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.444] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.492] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.545] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.597] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.645] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.698] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.746] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.795] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.846] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.894] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:28.996] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:29.050] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:29.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:29.143] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:29.194] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:29.246] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:29.294] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:29.345] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:29.394] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:35:29.394] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 19.0 Damage ignoring armor (25.0% damage): 4.75 Damage not ignoring armor: 14.25 Reduced Damage: 7.48125 Result Damage: 12.23125
+[03Sep2025 01:35:29.394] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.293] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.344] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.394] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.444] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:35:33.444] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 19.0 Damage ignoring armor (25.0% damage): 6.0 Damage not ignoring armor: 18.0 Reduced Damage: 10.8 Result Damage: 16.8
+[03Sep2025 01:35:33.444] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.493] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.545] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.594] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.646] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.646] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.698] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.698] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.746] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.746] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.793] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.841] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.900] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.943] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:33.996] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:34.045] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:34.093] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:34.150] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:34.198] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:34.246] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:34.292] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:34.343] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:34.393] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:34.443] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 01:35:43.395] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:35:43.395] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 16.0 Armor value: 19.0 Damage ignoring armor (25.0% damage): 4.0 Damage not ignoring armor: 12.0 Reduced Damage: 5.76 Result Damage: 9.76
+[03Sep2025 01:35:47.900] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:35:47.900] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 17.0 Armor value: 19.0 Damage ignoring armor (25.0% damage): 4.25 Damage not ignoring armor: 12.75 Reduced Damage: 6.31125 Result Damage: 10.561251
+[03Sep2025 01:35:47.997] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:35:47.997] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 5.0 Armor value: 19.0 Damage ignoring armor (25.0% damage): 1.25 Damage not ignoring armor: 3.75 Reduced Damage: 1.18125 Result Damage: 2.43125
+[03Sep2025 01:35:51.094] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[03Sep2025 01:35:51.094] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 19.0 Damage ignoring armor (25.0% damage): 6.0 Damage not ignoring armor: 18.0 Reduced Damage: 10.8 Result Damage: 16.8
+[03Sep2025 01:35:53.305] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:35:53.305] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:35:54.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:35:54.178] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:35:55.075] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:35:55.075] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:35:55.929] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:35:55.929] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:35:56.825] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:35:56.825] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:35:57.694] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:35:57.694] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:36:00.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:36:00.272] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:36:00.273] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:36:00.273] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:36:00.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX was slain by Fire Dragon
+[03Sep2025 01:36:28.550] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:36:28.550] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:36:28.792] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:36:28.792] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:36:29.003] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:36:29.003] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:36:29.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:36:29.198] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:36:58.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Creative Mode]
+[03Sep2025 01:37:01.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX was burnt to a crisp whilst fighting Fire Dragon
+[03Sep2025 01:37:29.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
+[03Sep2025 01:37:34.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 01:37:34.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 01:37:42.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ was turned into KFC by Fire Dragon
+[03Sep2025 01:38:34.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX was slain by Fire Dragon
+[03Sep2025 01:38:34.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX moved wrongly!
+[03Sep2025 01:38:47.794] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:38:47.794] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:38:49.391] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:38:49.391] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 01:38:50.891] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 01:38:50.891] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
