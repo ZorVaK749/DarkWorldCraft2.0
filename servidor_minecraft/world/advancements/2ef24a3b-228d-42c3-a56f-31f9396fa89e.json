@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-09-03 02:48:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-08-31 19:06:29 +0000"
@@ -500,6 +506,12 @@
   "justhammers:recipes/justhammers.justhammers_tab/stone_impact_hammer": {
     "criteria": {
       "has_material": "2025-09-02 01:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-09-03 02:48:13 +0000"
     },
     "done": true
   },
@@ -1058,6 +1070,12 @@
   "spartanweaponry:halberd": {
     "criteria": {
       "has_halberd": "2025-09-01 02:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-03 02:42:25 +0000"
     },
     "done": true
   },
@@ -2073,6 +2091,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/steel_heavy_crossbow": {
     "criteria": {
       "has_steel_ingot": "2025-09-02 01:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-09-03 02:42:37 +0000"
     },
     "done": true
   },
@@ -3126,6 +3150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-09-03 02:39:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-08-31 18:55:20 +0000"
@@ -3484,6 +3514,7 @@
       "minecraft:piglin": "2025-09-01 23:53:03 +0000",
       "minecraft:enderman": "2025-09-01 22:22:25 +0000",
       "minecraft:zombie": "2025-08-31 19:02:03 +0000",
+      "minecraft:drowned": "2025-09-03 02:33:15 +0000",
       "minecraft:zombie_villager": "2025-09-02 23:00:09 +0000"
     },
     "done": false
@@ -3497,6 +3528,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-09-02 00:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-03 02:42:25 +0000"
     },
     "done": true
   },
@@ -4340,6 +4377,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-03 02:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-09-03 02:41:30 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/stone_tower_shield": {
     "criteria": {
       "has_cobblestone": "2025-08-31 18:55:20 +0000"
@@ -4729,6 +4778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-09-03 02:39:43 +0000"
+    },
+    "done": true
+  },
   "evilcraft:closure": {
     "criteria": {
       "criteria_0": "2025-09-02 01:19:28 +0000"
@@ -4871,6 +4926,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-09-01 23:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-09-03 02:42:37 +0000"
     },
     "done": true
   },
@@ -5022,6 +5083,7 @@
     "criteria": {
       "sugar_cane": "2025-09-02 01:41:54 +0000",
       "potato": "2025-09-02 00:28:26 +0000",
+      "nether_wart": "2025-09-03 02:43:02 +0000",
       "wheat": "2025-09-03 01:25:17 +0000"
     },
     "done": false
@@ -5254,6 +5316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-09-03 02:48:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_parrying_dagger": {
     "criteria": {
       "has_cobblestone": "2025-08-31 18:55:20 +0000"
@@ -5323,6 +5391,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-09-01 01:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-09-03 02:48:13 +0000"
     },
     "done": true
   },
