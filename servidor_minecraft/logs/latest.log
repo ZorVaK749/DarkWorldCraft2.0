@@ -16,3 +16,7 @@
 [03Sep2025 00:09:17.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved wrongly! 2.521290122665505
 [03Sep2025 00:09:18.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved wrongly! 1.8486307840840936
 [03Sep2025 00:09:35.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ burned to death
+[03Sep2025 00:18:38.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to 260.500000, 71.000000, -559.500000]
+[03Sep2025 00:18:53.936] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[03Sep2025 00:18:53.936] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[03Sep2025 00:21:45.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved wrongly! 0.4613285998536867

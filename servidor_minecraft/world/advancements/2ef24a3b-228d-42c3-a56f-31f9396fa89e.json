@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-03 00:26:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-08-31 18:06:59 +0000"
@@ -1654,6 +1660,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-09-03 00:24:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/silver_halberd": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 18:52:18 +0000"
@@ -1693,6 +1705,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 19:01:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-09-03 00:26:31 +0000"
     },
     "done": true
   },
@@ -1819,6 +1837,12 @@
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-08-31 18:11:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2025-09-03 00:26:31 +0000"
     },
     "done": true
   },
@@ -1987,6 +2011,12 @@
   "storagedrawers:recipes/storagedrawers/concealment_key": {
     "criteria": {
       "has_template": "2025-08-31 18:11:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-09-03 00:26:31 +0000"
     },
     "done": true
   },
@@ -2644,6 +2674,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-09-03 00:26:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-01 01:39:31 +0000"
@@ -3011,6 +3047,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas": {
+    "criteria": {
+      "has_straw": "2025-09-03 00:26:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-09-02 00:46:41 +0000"
@@ -3080,6 +3122,12 @@
   "undergarden:undergarden/catalyst": {
     "criteria": {
       "has_catalyst": "2025-09-01 16:00:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-09-03 00:26:31 +0000"
     },
     "done": true
   },
@@ -3546,6 +3594,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/beef_patty": {
+    "criteria": {
+      "has_the_recipe": "2025-09-03 00:24:55 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
     "criteria": {
       "has_template": "2025-08-31 18:11:47 +0000"
@@ -3597,6 +3651,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-09-02 00:15:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-09-03 00:26:31 +0000"
     },
     "done": true
   },
@@ -4271,6 +4331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-03 00:26:20 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/light_hook": {
     "criteria": {
       "has_items": "2025-08-31 18:11:47 +0000"
@@ -4557,6 +4623,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-31 19:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-03 00:26:20 +0000"
     },
     "done": true
   },
