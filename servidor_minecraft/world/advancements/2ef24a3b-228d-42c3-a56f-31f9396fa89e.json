@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/witherbone_handle_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-09-03 00:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-09-01 01:39:32 +0000"
@@ -1098,6 +1104,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/witherbone_pole_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-09-03 00:29:43 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
       "has_items": "2025-08-31 18:11:47 +0000"
@@ -1149,6 +1161,12 @@
   "spartanshields:recipes/spartanshields/steel_tower_shield": {
     "criteria": {
       "has_steel_ingot": "2025-09-02 01:36:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-03 00:32:59 +0000"
     },
     "done": true
   },
@@ -1353,6 +1371,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-09-03 00:34:51 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/jungle_drawers": {
     "criteria": {
       "has_chest": "2025-09-01 04:48:28 +0000"
@@ -1479,6 +1503,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/netherite_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-03 00:32:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
     "criteria": {
       "has_stick": "2025-08-31 18:16:09 +0000"
@@ -1572,6 +1602,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-31 19:41:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:small_quiver": {
+    "criteria": {
+      "has_quiver": "2025-09-03 00:36:41 +0000"
     },
     "done": true
   },
@@ -1777,6 +1813,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-09-01 01:38:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/copper_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-03 00:32:59 +0000"
     },
     "done": true
   },
@@ -2247,6 +2289,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-03 00:32:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-01 02:16:51 +0000"
@@ -2262,6 +2310,12 @@
   "minecraft:recipes/redstone/mangrove_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-31 18:49:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/iron_arrow": {
+    "criteria": {
+      "has_feather": "2025-09-03 00:34:51 +0000"
     },
     "done": true
   },
@@ -2638,6 +2692,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/witherbone_handle_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-09-03 00:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-08-31 19:02:51 +0000"
@@ -2905,6 +2965,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-08-31 18:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-09-03 00:32:20 +0000"
     },
     "done": true
   },
@@ -3369,6 +3435,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2025-09-01 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/witherbone_pole_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-09-03 00:29:43 +0000"
     },
     "done": true
   },
@@ -3882,6 +3954,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2025-09-03 00:34:51 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/grongle_boat": {
     "criteria": {
       "in_water": "2025-08-31 18:10:23 +0000"
@@ -3897,6 +3975,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 19:01:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2025-09-03 00:34:51 +0000"
     },
     "done": true
   },
@@ -4212,6 +4296,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/diamond_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-03 00:32:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-09-01 22:47:40 +0000"
@@ -4469,6 +4559,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/witherbone_pole_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-09-03 00:29:43 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2025-08-31 18:11:47 +0000",
@@ -4539,6 +4635,12 @@
   "spartanweaponry:warhammer": {
     "criteria": {
       "has_warhammer": "2025-09-02 23:00:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/small_bolt_quiver": {
+    "criteria": {
+      "has_bolt": "2025-09-03 00:35:28 +0000"
     },
     "done": true
   },
@@ -4912,6 +5014,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-09-02 01:17:52 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/witherbone_handle_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-09-03 00:29:43 +0000"
     },
     "done": true
   },
