@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_longbow": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_katana": {
     "criteria": {
       "has_wood": "2025-08-31 16:03:14 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-08-31 16:27:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
     },
     "done": true
   },
@@ -965,6 +977,18 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_tomahawk": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_warhammer": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/steel_lance": {
     "criteria": {
       "has_steel_ingot": "2025-09-01 01:58:27 +0000"
@@ -1067,6 +1091,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_scythe": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/steel_throwing_knife": {
     "criteria": {
       "has_steel_ingot": "2025-09-01 01:58:27 +0000"
@@ -1121,6 +1151,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_saber": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/silver_throwing_knife": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 16:48:11 +0000"
@@ -1166,6 +1202,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_heavy_crossbow": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_longsword": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
     },
     "done": true
   },
@@ -1822,6 +1864,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_lance": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-31 16:07:23 +0000"
@@ -2294,6 +2342,12 @@
   "evilcraft:cannibal": {
     "criteria": {
       "criteria_0": "2025-08-31 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_katana": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
     },
     "done": true
   },
@@ -2963,6 +3017,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_pike": {
     "criteria": {
       "has_myrmex_stinger": "2025-08-31 18:09:20 +0000"
@@ -3191,6 +3251,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_halberd": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/steel_katana": {
     "criteria": {
       "has_steel_ingot": "2025-09-01 01:58:27 +0000"
@@ -3395,6 +3461,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/spartanfire/dragon_bone_tomahawk": {
     "criteria": {
       "has_dragon_bone": "2025-08-31 16:35:30 +0000"
@@ -3494,6 +3566,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-08-31 16:28:50 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
     },
     "done": true
   },
@@ -3651,6 +3729,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-09-01 04:02:15 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
     },
     "done": true
   },
@@ -4245,6 +4329,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_boomerang": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-08-31 16:00:14 +0000"
@@ -4404,6 +4494,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-31 17:43:28 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_pike": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
     },
     "done": true
   },
@@ -4575,6 +4671,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_greatsword": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/diamond_arrow": {
     "criteria": {
       "has_feather": "2025-08-31 16:31:45 +0000"
@@ -4590,6 +4692,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-08-31 16:03:14 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
     },
     "done": true
   },
@@ -4977,6 +5085,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_javelin": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/justhammers.justhammers_tab/iron_hammer": {
     "criteria": {
       "has_material": "2025-08-31 17:36:50 +0000"
@@ -4998,6 +5112,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-09-02 00:15:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-09-03 01:55:32 +0000"
     },
     "done": true
   },
@@ -5057,6 +5177,12 @@
     },
     "done": false
   },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_battleaxe": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
       "has_items": "2025-08-31 16:02:54 +0000"
@@ -5084,6 +5210,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_tomahawk": {
     "criteria": {
       "has_copper_ingot": "2025-09-01 02:02:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-03 01:53:15 +0000"
     },
     "done": true
   },
@@ -5216,6 +5348,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_glaive": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 17:36:50 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_spear": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
     },
     "done": true
   },
@@ -5472,6 +5610,18 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_rapier": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_glaive": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_heavy_crossbow": {
     "criteria": {
       "has_diamond": "2025-08-31 16:31:45 +0000"
@@ -5535,6 +5685,12 @@
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
       "has_items": "2025-08-31 16:02:54 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/flamed_dragon_bone_dagger": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
     },
     "done": true
   },
