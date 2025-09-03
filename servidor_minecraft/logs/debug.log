@@ -5146,3 +5146,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [03Sep2025 00:37:34.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Sep2025 00:37:38.241] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [03Sep2025 00:37:44.540] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[03Sep2025 00:42:34.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 00:42:34.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 00:45:15.598] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Sep2025 00:45:15.598] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Sep2025 00:45:24.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> PELEAMOS CON EL DRAGON?
+[03Sep2025 00:45:27.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_ZorVaK_> entrare a vc
+[03Sep2025 00:45:35.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <vrayiRAX> ya
+[03Sep2025 00:47:34.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 00:47:34.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1521,6 +1521,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-09-03 00:42:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_parrying_dagger": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 19:01:42 +0000"
@@ -2923,6 +2929,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/silver_warhammer": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 18:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-03 00:42:00 +0000"
     },
     "done": true
   },

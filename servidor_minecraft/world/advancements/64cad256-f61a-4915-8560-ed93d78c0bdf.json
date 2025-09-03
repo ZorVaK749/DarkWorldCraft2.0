@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-09-03 00:37:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-08-31 16:00:14 +0000"
@@ -1166,6 +1172,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-03 00:41:06 +0000"
     },
     "done": true
   },
@@ -2999,6 +3011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-09-03 00:38:37 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/justhammers.justhammers_tab/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-08-31 18:05:19 +0000"
@@ -3467,6 +3485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-09-03 00:39:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/silver_katana": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 16:48:11 +0000"
@@ -3882,6 +3906,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-09-02 00:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-03 00:41:06 +0000"
     },
     "done": true
   },
@@ -4740,6 +4770,12 @@
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2025-08-31 16:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-03 00:41:06 +0000"
     },
     "done": true
   },
