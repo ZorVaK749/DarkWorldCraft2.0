@@ -369,3 +369,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [04Sep2025 01:19:34.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to 1000.500000, 65.000000, 100.500000]
 [04Sep2025 01:37:24.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ was doomed to fall by Zombie
 [04Sep2025 01:40:04.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Hammer Time!]
+[04Sep2025 01:49:43.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ lost connection: Disconnected
+[04Sep2025 01:49:43.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ left the game
