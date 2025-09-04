@@ -4228,3 +4228,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [04Sep2025 00:56:34.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai left the game
 [04Sep2025 01:00:20.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Sep2025 01:00:20.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 01:05:20.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 01:05:20.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 01:10:20.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 01:10:20.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
