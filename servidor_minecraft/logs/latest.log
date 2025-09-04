@@ -1128,3 +1128,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [04Sep2025 05:17:22.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved wrongly! 0.41350141081443326
 [04Sep2025 05:17:23.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved wrongly! 2.5799246730487084
 [04Sep2025 05:17:23.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved wrongly! 1.0747556215471832
+[04Sep2025 05:37:57.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArukuSenpai lost connection: Disconnected
+[04Sep2025 05:37:57.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai left the game
