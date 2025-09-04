@@ -5743,3 +5743,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [04Sep2025 04:41:49.356] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
 [04Sep2025 04:41:50.056] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [04Sep2025 04:41:50.056] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:42:37.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [Book of Monsters]
+[04Sep2025 04:43:18.229] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/130161, l='ServerLevel[world]', x=15.67, y=27.00, z=1818.22] died, message: 'Farmer was slain by Zombie'
+[04Sep2025 04:46:14.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 04:46:14.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 04:51:14.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 04:51:14.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 04:51:38.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved wrongly! 1.0876287057938043
+[04Sep2025 04:52:15.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [The Parrots and the Bats]

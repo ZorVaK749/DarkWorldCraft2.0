@@ -1031,3 +1031,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [04Sep2025 04:33:35.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [When in Rome]
 [04Sep2025 04:33:35.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/130172, l='ServerLevel[world]', x=34.39, y=34.88, z=1816.47] died, message: 'Cleric was slain by Zombie'
 [04Sep2025 04:36:19.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai was burnt to a crisp whilst fighting Zombie
+[04Sep2025 04:42:37.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [Book of Monsters]
+[04Sep2025 04:43:18.229] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/130161, l='ServerLevel[world]', x=15.67, y=27.00, z=1818.22] died, message: 'Farmer was slain by Zombie'
+[04Sep2025 04:51:38.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved wrongly! 1.0876287057938043
+[04Sep2025 04:52:15.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [The Parrots and the Bats]

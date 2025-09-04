@@ -2003,6 +2003,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-09-04 04:42:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-09-01 01:54:34 +0000"
@@ -3065,6 +3071,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-09-01 03:28:46 +0000",
+      "potato": "2025-09-04 04:44:10 +0000",
       "wheat": "2025-09-04 04:28:48 +0000",
       "carrot": "2025-09-04 04:26:10 +0000"
     },
