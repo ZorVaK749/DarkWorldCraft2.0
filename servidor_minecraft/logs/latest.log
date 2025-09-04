@@ -526,3 +526,87 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [04Sep2025 03:55:19.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -7.245190976528306,-1.8758683865220434,8.798590776360271
 [04Sep2025 03:58:53.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [Smash And Bash!]
 [04Sep2025 03:59:01.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [Take Aim, Chaps!]
+[04Sep2025 04:01:44.008] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _ZorVaK_ is 64cad256-f61a-4915-8560-ed93d78c0bdf
+[04Sep2025 04:01:46.707] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4d33950d
+[04Sep2025 04:01:46.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _ZorVaK_[/127.40.116.41:46513] logged in with entity id 8897 at (1158.7553693470006, 87.0, 108.12573771951557)
+[04Sep2025 04:01:46.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ joined the game
+[04Sep2025 04:01:46.841] [Server thread/INFO] [Jade/]: Syncing config to _ZorVaK_ (64cad256-f61a-4915-8560-ed93d78c0bdf)
+[04Sep2025 04:02:16.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [Take Aim]
+[04Sep2025 04:04:34.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai was turned to stone by ArukuSenpai
+[04Sep2025 04:04:56.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Gave 1 experience levels to ArukuSenpai]
+[04Sep2025 04:05:11.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Gave 1 experience levels to ArukuSenpai]
+[04Sep2025 04:05:12.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Gave 1 experience levels to ArukuSenpai]
+[04Sep2025 04:08:45.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2323ms or 46 ticks behind
+[04Sep2025 04:08:45.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ZorVaK_ moved too quickly! -853.0000488162041,1.0,-126.0
+[04Sep2025 04:09:53.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ArukuSenpai> -458, 66, 1543
+[04Sep2025 04:11:03.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved wrongly! 0.41155448311227616
+[04Sep2025 04:13:37.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [Isn't It Iron Pick]
+[04Sep2025 04:13:57.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [First Age]
+[04Sep2025 04:14:10.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved wrongly! 0.4050962670230547
+[04Sep2025 04:14:10.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved wrongly! 0.9621115907452804
+[04Sep2025 04:14:10.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved wrongly! 0.4804681228100094
+[04Sep2025 04:14:10.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved wrongly! 1.0330185249113129
+[04Sep2025 04:14:10.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved wrongly! 0.5352474593077545
+[04Sep2025 04:16:41.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Creative Mode]
+[04Sep2025 04:16:57.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
+[04Sep2025 04:17:17.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Birth Control]
+[04Sep2025 04:24:19.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Creative Mode]
+[04Sep2025 04:24:32.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to 100.500000, 90.000000, 89.500000]
+[04Sep2025 04:24:41.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
+[04Sep2025 04:24:43.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Spectator Mode]
+[04Sep2025 04:25:49.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set own game mode to Survival Mode]
+[04Sep2025 04:27:18.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved wrongly! 1.0515038078265206
+[04Sep2025 04:27:19.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved wrongly! 3.7415381478291465
+[04Sep2025 04:27:19.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved wrongly! 2.8320829581682574
+[04Sep2025 04:27:39.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -10.50156758575173,0.09305485571259453,0.09933551089625325
+[04Sep2025 04:27:39.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -12.026416274129929,0.1037513867637756,-0.02878425658809647
+[04Sep2025 04:27:39.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -13.55452406205967,0.11588760514420926,-0.18145690495020972
+[04Sep2025 04:27:39.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -15.085615756498896,0.1318160780470521,-0.35638545446431635
+[04Sep2025 04:27:39.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -16.619498662807644,0.15077931300918124,-0.5514914439647782
+[04Sep2025 04:27:39.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -18.1560425557617,0.17423119855428126,-0.7648945732507855
+[04Sep2025 04:27:39.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -19.695164177094796,0.20044359184925042,-0.9948947617278918
+[04Sep2025 04:27:39.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -21.236815081183806,0.23121998594162108,-1.2399548163928102
+[04Sep2025 04:27:39.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -12.325936258901038,0.14491003505308697,-1.8787798615717293
+[04Sep2025 04:27:39.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -10.889170317347975,0.11045376174936905,-2.3527830584005187
+[04Sep2025 04:27:39.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 22.71486030906601,-0.38127524521286205,2.668054684376557
+[04Sep2025 04:27:39.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 22.71486030906601,-0.38127524521286205,2.668054684376557
+[04Sep2025 04:27:39.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 22.71486030906601,-0.38127524521286205,2.668054684376557
+[04Sep2025 04:27:39.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 22.71486030906601,-0.38127524521286205,2.668054684376557
+[04Sep2025 04:27:39.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 22.71486030906601,-0.38127524521286205,2.668054684376557
+[04Sep2025 04:27:39.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 22.71486030906601,-0.38127524521286205,2.668054684376557
+[04Sep2025 04:27:39.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 22.71486030906601,-0.38127524521286205,2.668054684376557
+[04Sep2025 04:27:39.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 22.71486030906601,-0.38127524521286205,2.668054684376557
+[04Sep2025 04:27:39.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 21.224645614059625,-0.34006107793480567,2.48171931085335
+[04Sep2025 04:27:39.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 22.61132728195713,-0.36566578438272757,2.926005187758392
+[04Sep2025 04:27:39.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 19.62688920606149,-0.29404396318595616,3.1346956584056898
+[04Sep2025 04:27:39.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 19.502318691135827,-0.27229932290958914,3.025904612491786
+[04Sep2025 04:27:39.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 20.667796082512496,-0.2733186115232087,2.9911694242373414
+[04Sep2025 04:27:39.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.15361527753805,-0.30640124430551907,3.156868906541149
+[04Sep2025 04:27:39.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 26.186228158320773,-0.31863898533249824,3.24684454462772
+[04Sep2025 04:27:39.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 26.98007131762779,-0.3164445719284288,3.2711783694062433
+[04Sep2025 04:27:39.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.84094356858577,-0.25057332001881605,1.2495802477135385
+[04Sep2025 04:27:39.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.84094356858577,-0.25057332001881605,1.2495802477135385
+[04Sep2025 04:27:39.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.84094356858577,-0.25057332001881605,1.2495802477135385
+[04Sep2025 04:27:39.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.84094356858577,-0.25057332001881605,1.2495802477135385
+[04Sep2025 04:27:39.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.84094356858577,-0.25057332001881605,1.2495802477135385
+[04Sep2025 04:27:39.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.84094356858577,-0.25057332001881605,1.2495802477135385
+[04Sep2025 04:27:39.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.84094356858577,-0.25057332001881605,1.2495802477135385
+[04Sep2025 04:27:39.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.84094356858577,-0.25057332001881605,1.2495802477135385
+[04Sep2025 04:27:39.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.84094356858577,-0.25057332001881605,1.2495802477135385
+[04Sep2025 04:27:39.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.469682344211094,-0.22755320296799653,1.172104032027164
+[04Sep2025 04:27:39.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.469682344211094,-0.22755320296799653,1.172104032027164
+[04Sep2025 04:27:39.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 14.126445782314761,-0.2056611204671981,1.0906758752514634
+[04Sep2025 04:27:39.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 12.548426330358609,-0.17844930090022615,1.009444438545188
+[04Sep2025 04:27:39.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 11.215665667939163,-0.31399772468842,0.8486490218983818
+[04Sep2025 04:27:39.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 10.918976049577225,-0.3124336885892518,0.7754007507694496
+[04Sep2025 04:27:39.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 10.628211792390061,-0.29049987464060223,0.7070957395028472
+[04Sep2025 04:27:39.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 10.34296941824067,-0.2675887991918984,0.6439642201942206
+[04Sep2025 04:27:39.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 11.552326495724856,-0.15715440287722515,0.99772650918203
+[04Sep2025 04:27:43.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-379, y=65, z=1694} BlockPos{x=-379, y=63, z=1693}
+[04Sep2025 04:27:43.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-377, y=64, z=1697} BlockPos{x=-375, y=62, z=1693}
+[04Sep2025 04:27:47.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-370, y=65, z=1696} BlockPos{x=-370, y=63, z=1697}
+[04Sep2025 04:27:47.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-370, y=65, z=1696} BlockPos{x=-370, y=63, z=1697}
+[04Sep2025 04:28:21.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -10.618318610400365,-0.9549814683569622,-5.706154763819086
+[04Sep2025 04:28:21.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -9.291673790505058,-0.8278365793450178,-4.98944434344844
+[04Sep2025 04:28:48.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [A Seedy Place]
+[04Sep2025 04:29:13.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Herc was on a Roll!]
