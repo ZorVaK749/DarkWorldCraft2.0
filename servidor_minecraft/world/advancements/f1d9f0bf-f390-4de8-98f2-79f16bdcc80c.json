@@ -684,6 +684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-09-04 05:04:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_leather": {
     "criteria": {
       "has_stick": "2025-09-01 01:54:34 +0000"
@@ -1114,6 +1120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-09-04 05:04:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_battle_hammer": {
     "criteria": {
       "has_cobblestone": "2025-09-01 01:55:01 +0000"
@@ -1339,6 +1351,12 @@
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-09-01 02:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-04 05:04:20 +0000"
     },
     "done": true
   },
@@ -2009,6 +2027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-04 05:04:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-09-01 01:54:34 +0000"
@@ -2320,6 +2344,12 @@
   "spartanweaponry:flanged_mace": {
     "criteria": {
       "has_flanged_mace": "2025-09-04 03:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-09-04 05:04:20 +0000"
     },
     "done": true
   },
@@ -2903,6 +2933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-09-04 05:04:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-01 02:11:22 +0000"
@@ -3013,6 +3049,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-01 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-09-04 05:04:20 +0000"
     },
     "done": true
   },
@@ -3596,6 +3638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-04 05:05:19 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2025-09-01 01:54:33 +0000"
@@ -3680,6 +3728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-04 05:04:20 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
       "has_items": "2025-09-01 01:53:54 +0000"
@@ -3743,6 +3797,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-09-04 04:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-04 05:04:20 +0000"
     },
     "done": true
   },
