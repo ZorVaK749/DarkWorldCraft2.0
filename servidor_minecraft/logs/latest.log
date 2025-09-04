@@ -358,3 +358,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [04Sep2025 00:42:06.757] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-549, y=67, z=1547}
 [04Sep2025 00:56:34.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArukuSenpai lost connection: Disconnected
 [04Sep2025 00:56:34.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai left the game
+[04Sep2025 01:15:28.438] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _ZorVaK_ is 64cad256-f61a-4915-8560-ed93d78c0bdf
+[04Sep2025 01:15:32.200] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@37d98e23
+[04Sep2025 01:15:32.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _ZorVaK_[/127.40.116.41:60695] logged in with entity id 15066 at (3777.0936470368683, 105.20855719971762, 582.7646401102552)
+[04Sep2025 01:15:32.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ joined the game
+[04Sep2025 01:15:33.498] [Server thread/INFO] [Jade/]: Syncing config to _ZorVaK_ (64cad256-f61a-4915-8560-ed93d78c0bdf)
+[04Sep2025 01:16:22.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved wrongly! 0.28955154346567724
+[04Sep2025 01:18:14.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set [ TOP Manquitos] for ArukuSenpai to 14]
+[04Sep2025 01:18:22.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Set [ TOP Manquitos] for ArukuSenpai to 15]
+[04Sep2025 01:19:34.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_ZorVaK_: Teleported _ZorVaK_ to 1000.500000, 65.000000, 100.500000]
