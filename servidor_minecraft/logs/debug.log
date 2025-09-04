@@ -4994,3 +4994,752 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [04Sep2025 04:29:13.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ZorVaK_ has made the advancement [Herc was on a Roll!]
 [04Sep2025 04:31:14.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Sep2025 04:31:14.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 04:31:34.050] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:31:34.050] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:31:34.951] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:31:34.951] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:31:35.741] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:31:35.741] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:31:52.707] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=965, y=77, z=1531} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[04Sep2025 04:31:52.707] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=965, y=77, z=1531}
+[04Sep2025 04:31:57.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -9.889566128433444,0.7586027721532957,-2.4269001140819455
+[04Sep2025 04:31:57.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -11.537925855965796,0.8862406259225963,-2.825364641375245
+[04Sep2025 04:31:57.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -13.186865105607126,1.0095447421577717,-3.2220487145696097
+[04Sep2025 04:31:57.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -14.837066500300125,1.129293522503957,-3.6139489630115804
+[04Sep2025 04:31:57.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -16.49063171787884,1.2442025333721176,-3.9931083618355387
+[04Sep2025 04:31:57.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -18.150523444936425,1.3555117409351851,-4.349977409714484
+[04Sep2025 04:31:57.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -19.820131107782117,1.4626366639060677,-4.673325483354802
+[04Sep2025 04:31:57.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -21.50049776860942,1.5617633726388362,-4.95758155579324
+[04Sep2025 04:31:57.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -23.190556532935375,1.6592433633460075,-5.202325403367013
+[04Sep2025 04:31:57.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -24.888575026117792,1.7539659571465336,-5.410840616205405
+[04Sep2025 04:31:57.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -26.593056906851643,1.843586436607353,-5.586507449582314
+[04Sep2025 04:31:57.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -28.30277676276171,1.9348267461961939,-5.732455737341979
+[04Sep2025 04:31:57.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -30.01673823884221,2.026489794878785,-5.851543205486905
+[04Sep2025 04:31:57.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -31.734132540100745,2.116096780614754,-5.9463710609491045
+[04Sep2025 04:31:57.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -33.45430343734279,2.2098680585800707,-6.019301449283148
+[04Sep2025 04:31:57.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -21.98252510430268,1.3334763340397444,-3.0887228622341354
+[04Sep2025 04:31:57.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -18.674432998518,1.104122485755056,-2.5333461817153875
+[04Sep2025 04:31:57.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -15.33133641296422,0.8871780464001517,-2.260106908511716
+[04Sep2025 04:31:57.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.740108954352877,-1.0973915111204917,1.839685609285425
+[04Sep2025 04:31:57.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.740108954352877,-1.0973915111204917,1.839685609285425
+[04Sep2025 04:31:57.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.740108954352877,-1.0973915111204917,1.839685609285425
+[04Sep2025 04:31:57.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.740108954352877,-1.0973915111204917,1.839685609285425
+[04Sep2025 04:31:57.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.740108954352877,-1.0973915111204917,1.839685609285425
+[04Sep2025 04:31:57.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.740108954352877,-1.0973915111204917,1.839685609285425
+[04Sep2025 04:31:57.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.740108954352877,-1.0973915111204917,1.839685609285425
+[04Sep2025 04:31:57.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.740108954352877,-1.0973915111204917,1.839685609285425
+[04Sep2025 04:31:57.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.740108954352877,-1.0973915111204917,1.839685609285425
+[04Sep2025 04:31:57.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.740108954352877,-1.0973915111204917,1.839685609285425
+[04Sep2025 04:31:57.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.740108954352877,-1.0973915111204917,1.839685609285425
+[04Sep2025 04:31:57.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.740108954352877,-1.0973915111204917,1.839685609285425
+[04Sep2025 04:31:57.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.740108954352877,-1.0973915111204917,1.839685609285425
+[04Sep2025 04:31:57.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.43207322643218,-1.2027784915906068,1.847674509247554
+[04Sep2025 04:31:57.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.43207322643218,-1.2027784915906068,1.847674509247554
+[04Sep2025 04:31:57.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.401202364735468,-1.2015757373360714,1.8571721928792613
+[04Sep2025 04:31:57.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 21.759670857158312,-1.4047278418319706,1.6900567174789103
+[04Sep2025 04:31:57.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 23.615421489861205,-1.4891527819146688,0.5041948668113037
+[04Sep2025 04:31:57.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.584617703212302,-1.1609804043042402,-0.075953106890438
+[04Sep2025 04:31:57.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.5531110543526,-1.1536973865532332,-0.15120061296238418
+[04Sep2025 04:31:57.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 21.880421426966336,-1.3532168337636392,-0.5149749302920554
+[04Sep2025 04:31:57.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 21.927767212853837,-1.3660029192016623,-1.0975630658217597
+[04Sep2025 04:31:57.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 20.236117134467577,-1.26034766958756,-1.1309114644620877
+[04Sep2025 04:31:57.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 20.236117134467577,-1.26034766958756,-1.1309114644620877
+[04Sep2025 04:31:57.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 20.236117134467577,-1.26034766958756,-1.1309114644620877
+[04Sep2025 04:31:57.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 20.236117134467577,-1.26034766958756,-1.1309114644620877
+[04Sep2025 04:31:57.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 20.236117134467577,-1.26034766958756,-1.1309114644620877
+[04Sep2025 04:31:57.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 20.236117134467577,-1.26034766958756,-1.1309114644620877
+[04Sep2025 04:31:57.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 21.913820962411478,-1.365458187421666,-1.3122099515749142
+[04Sep2025 04:31:57.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 21.913820962411478,-1.365458187421666,-1.3122099515749142
+[04Sep2025 04:31:57.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 21.913820962411478,-1.365458187421666,-1.3122099515749142
+[04Sep2025 04:31:57.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 21.913820962411478,-1.365458187421666,-1.3122099515749142
+[04Sep2025 04:31:57.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 21.913820962411478,-1.365458187421666,-1.3122099515749142
+[04Sep2025 04:31:57.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 21.913820962411478,-1.365458187421666,-1.3122099515749142
+[04Sep2025 04:31:57.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 23.589605789350117,-1.4705575249043648,-1.5015876303207278
+[04Sep2025 04:31:57.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 21.897641517270813,-1.3651705444342497,-1.5095765302828568
+[04Sep2025 04:31:57.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 21.897641517270813,-1.3651705444342497,-1.5095765302828568
+[04Sep2025 04:31:57.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 20.206419126239666,-1.2600657227120848,-1.4947263115730038
+[04Sep2025 04:31:57.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.4920286689121,-1.1719590991299071,-1.3968747752144282
+[04Sep2025 04:31:57.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 20.128251954913026,-1.2833588595363494,-1.6782642359985402
+[04Sep2025 04:31:57.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 20.159321015481737,-1.2605554620710677,-1.9326353721808118
+[04Sep2025 04:31:57.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 20.12044655711634,-1.2641329626344202,-2.013879632580938
+[04Sep2025 04:31:57.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.457613579140457,-1.155909849350195,-1.9430701329522435
+[04Sep2025 04:31:57.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.457613579140457,-1.155909849350195,-1.9430701329522435
+[04Sep2025 04:31:57.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.773117316397247,-1.0510491678525113,-1.8184751340147614
+[04Sep2025 04:31:57.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.071160296597213,-0.9467078071874937,-1.810390802084612
+[04Sep2025 04:31:57.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.031475130922558,-0.9464338817911937,-1.885546281188681
+[04Sep2025 04:31:58.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.658772986785152,-1.048576823936969,-2.188766180853463
+[04Sep2025 04:31:58.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.40036061146793,-1.1575209947880012,-2.331177298270404
+[04Sep2025 04:31:58.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.40036061146793,-1.1575209947880012,-2.331177298270404
+[04Sep2025 04:31:58.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.40036061146793,-1.1575209947880012,-2.331177298270404
+[04Sep2025 04:31:58.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.40036061146793,-1.1575209947880012,-2.331177298270404
+[04Sep2025 04:31:58.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.40036061146793,-1.1575209947880012,-2.331177298270404
+[04Sep2025 04:31:58.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.40036061146793,-1.1575209947880012,-2.331177298270404
+[04Sep2025 04:31:58.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.40036061146793,-1.1575209947880012,-2.331177298270404
+[04Sep2025 04:31:58.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.72265678352403,-1.0524104769538951,-2.1498788111575777
+[04Sep2025 04:31:58.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.72265678352403,-1.0524104769538951,-2.1498788111575777
+[04Sep2025 04:31:58.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.72265678352403,-1.0524104769538951,-2.1498788111575777
+[04Sep2025 04:31:58.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.72265678352403,-1.0524104769538951,-2.1498788111575777
+[04Sep2025 04:31:58.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.72265678352403,-1.0524104769538951,-2.1498788111575777
+[04Sep2025 04:31:58.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.72265678352403,-1.0524104769538951,-2.1498788111575777
+[04Sep2025 04:31:58.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.046871956585392,-0.9473111394711964,-1.960501132411764
+[04Sep2025 04:31:58.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.046871956585392,-0.9473111394711964,-1.960501132411764
+[04Sep2025 04:31:58.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.046871956585392,-0.9473111394711964,-1.960501132411764
+[04Sep2025 04:31:58.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.046871956585392,-0.9473111394711964,-1.960501132411764
+[04Sep2025 04:31:58.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.046871956585392,-0.9473111394711964,-1.960501132411764
+[04Sep2025 04:31:58.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 11.69775891444624,-0.736973875817398,-1.5603830322334034
+[04Sep2025 04:31:58.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved wrongly! 0.8240000180285563
+[04Sep2025 04:32:17.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -10.615726705563333,-1.3087902451403295,0.912112199003559
+[04Sep2025 04:32:17.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -12.38371240916885,-1.5308709261275055,1.0564624482174167
+[04Sep2025 04:32:17.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.7033734122504,-0.5621839735608347,-11.03950974796976
+[04Sep2025 04:32:17.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -14.151648208265186,-1.7569513580070009,1.199251878158293
+[04Sep2025 04:32:17.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -15.919492072257725,-1.985265354993544,1.3406346755011782
+[04Sep2025 04:32:17.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.8217668120417017,-0.657991811219091,-12.546272990621901
+[04Sep2025 04:32:17.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -17.687257422698195,-2.2179920295367594,1.4807515870757015
+[04Sep2025 04:32:17.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.916549412296476,-0.7524483027843729,-14.074485525900172
+[04Sep2025 04:32:17.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.9776676466871663,-0.8472970830587201,-15.623357000522901
+[04Sep2025 04:32:17.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -19.454904307479126,-2.456141743981675,1.6197262079338088
+[04Sep2025 04:32:17.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.9938175129870928,-0.9416586811444461,-17.19160761140529
+[04Sep2025 04:32:17.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -21.222448624360112,-2.6986047452909077,1.757673276053083
+[04Sep2025 04:32:17.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.9562747539384446,-1.025692522629413,-18.777137748057157
+[04Sep2025 04:32:17.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -22.989974750394396,-2.946604403914108,1.893863352542894
+[04Sep2025 04:32:17.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.8663253034502247,-1.102076678412189,-20.377559140539006
+[04Sep2025 04:32:17.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -24.757595011609197,-3.1999528552103698,2.027140009262439
+[04Sep2025 04:32:17.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.7267858816508834,-1.170389913969359,-21.99076663630558
+[04Sep2025 04:32:17.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -26.525408854112214,-3.4577365829109965,2.156413403847864
+[04Sep2025 04:32:17.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.5405370058874723,-1.2311483610444611,-23.614968891119588
+[04Sep2025 04:32:17.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -28.293550944896737,-3.720365034473758,2.2781884472760794
+[04Sep2025 04:32:17.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.3103642127793762,-1.2851532517251911,-25.24865266121924
+[04Sep2025 04:32:17.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -30.06190865268215,-3.9923937170689214,2.386128084993288
+[04Sep2025 04:32:17.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -31.830231974429466,-4.2716020126083265,2.478397285522533
+[04Sep2025 04:32:17.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.0389326920541038,-1.3314035608752732,-26.89054459690874
+[04Sep2025 04:32:17.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -0.7287818019159573,-1.3737735972522813,-28.53957724306406
+[04Sep2025 04:32:17.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -33.59820625438215,-4.560285508073719,2.55415473222115
+[04Sep2025 04:32:17.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -0.3823208942669254,-1.410335793400705,-30.194858718467913
+[04Sep2025 04:32:17.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -35.3655593969456,-4.856566330056722,2.614816759923542
+[04Sep2025 04:32:17.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -0.0018309325458147896,-1.4453184670230144,-31.855646755127736
+[04Sep2025 04:32:17.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -37.13213527732026,-5.162296950521409,2.661879721323203
+[04Sep2025 04:32:17.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 0.4105346035371582,-1.4776887681371562,-33.52132573731569
+[04Sep2025 04:32:17.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -38.89786889350208,-5.473052479530793,2.6979616536177673
+[04Sep2025 04:32:17.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -40.66274907623401,-5.786698414855977,2.7255426062013157
+[04Sep2025 04:32:17.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 0.8527467208492681,-1.5075257191784033,-35.19138691706485
+[04Sep2025 04:32:17.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -42.42680408604096,-6.10499304419335,2.7464491073108093
+[04Sep2025 04:32:17.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 1.3228959408468768,-1.5381522440762865,-36.86541164828259
+[04Sep2025 04:32:17.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -44.19000796511128,-6.427266681419411,2.7618660228174576
+[04Sep2025 04:32:17.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 1.7984197669881468,-1.566234277723126,-38.47324126353283
+[04Sep2025 04:32:17.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 4.085149219535836,-1.0863858319693946,-29.18356726175466
+[04Sep2025 04:32:17.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -35.350017622731485,-5.440182958515862,1.8627438243283905
+[04Sep2025 04:32:17.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 4.850704799713,-1.0514307610674791,-28.23373007036048
+[04Sep2025 04:32:17.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -30.106224359332913,-4.742567024324785,1.4508126128525873
+[04Sep2025 04:32:17.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 5.402934394352428,-1.0281112936782932,-27.396026297661365
+[04Sep2025 04:32:17.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -30.11999584335112,-4.787277196474264,1.382076339085188
+[04Sep2025 04:32:17.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 5.795783994377302,-1.0151318033682628,-26.67418099479937
+[04Sep2025 04:32:17.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! -28.390000803077072,-4.5184867664064825,1.2650817524070135
+[04Sep2025 04:32:17.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.738230548947826,2.4437370300191787,-0.8049062258633057
+[04Sep2025 04:32:17.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 5.949741861585238,-0.9974962046300817,-25.17838354161563
+[04Sep2025 04:32:17.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 17.47934608812264,2.7648724662487894,-0.8470494312946357
+[04Sep2025 04:32:17.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.721567032336566,2.44017481861556,-0.8294038878600531
+[04Sep2025 04:32:17.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 17.464776430758405,2.873394605122513,-0.7402543031389541
+[04Sep2025 04:32:17.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 6.1122563320145815,-1.0001883989640135,-24.750910676639023
+[04Sep2025 04:32:17.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 17.446486752582956,2.865950769182291,-0.7685471607708223
+[04Sep2025 04:32:17.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 6.220006052499443,-1.0050712600201592,-24.41611324101109
+[04Sep2025 04:32:17.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 19.16324706615501,3.213784437110604,-0.8234512129306495
+[04Sep2025 04:32:17.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 6.2985363754766155,-1.016251492712641,-24.16231766124406
+[04Sep2025 04:32:17.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 20.874752300827424,3.5936701538109332,-0.8641287115094656
+[04Sep2025 04:32:17.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 6.528740159372205,-1.029091859321511,-24.60048014519748
+[04Sep2025 04:32:17.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 22.57972961726327,3.990158217009082,-0.9117865302910104
+[04Sep2025 04:32:17.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.055188875654295,0.2940195631611857,16.68585841265599
+[04Sep2025 04:32:17.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.055188875654295,0.2940195631611857,16.68585841265599
+[04Sep2025 04:32:17.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.055188875654295,0.2940195631611857,16.68585841265599
+[04Sep2025 04:32:17.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.055188875654295,0.2940195631611857,16.68585841265599
+[04Sep2025 04:32:17.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.055188875654295,0.2940195631611857,16.68585841265599
+[04Sep2025 04:32:17.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.055188875654295,0.2940195631611857,16.68585841265599
+[04Sep2025 04:32:17.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.055188875654295,0.2940195631611857,16.68585841265599
+[04Sep2025 04:32:17.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.055188875654295,0.2940195631611857,16.68585841265599
+[04Sep2025 04:32:17.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.055188875654295,0.2940195631611857,16.68585841265599
+[04Sep2025 04:32:17.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.252176309767279,0.2916111680576705,17.426105551776345
+[04Sep2025 04:32:17.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.252176309767279,0.2916111680576705,17.426105551776345
+[04Sep2025 04:32:17.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.252176309767279,0.2916111680576705,17.426105551776345
+[04Sep2025 04:32:17.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.252176309767279,0.2916111680576705,17.426105551776345
+[04Sep2025 04:32:17.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.252176309767279,0.2916111680576705,17.426105551776345
+[04Sep2025 04:32:17.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.252176309767279,0.2916111680576705,17.426105551776345
+[04Sep2025 04:32:17.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.252176309767279,0.2916111680576705,17.426105551776345
+[04Sep2025 04:32:17.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.252176309767279,0.2916111680576705,17.426105551776345
+[04Sep2025 04:32:17.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.252176309767279,0.2916111680576705,17.426105551776345
+[04Sep2025 04:32:17.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.496556587194803,0.2544668601925366,16.1537411405925
+[04Sep2025 04:32:17.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.7876422655075856,0.19118313057448688,13.733720460309314
+[04Sep2025 04:32:17.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -1.8691412452782572,0.14025102875477558,11.490270057372527
+[04Sep2025 04:32:17.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.277859096546422,4.413453010073283,-0.9637011785468985
+[04Sep2025 04:32:17.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 25.969110308477838,4.857740178617462,-1.0229414567411368
+[04Sep2025 04:32:17.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 31.182187958556455,6.508659068461611,-0.7435747378390261
+[04Sep2025 04:32:17.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 29.435652770221935,6.223359184292491,-0.6701891672012152
+[04Sep2025 04:32:17.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 25.94633106912167,5.623205659019845,-0.5505471516394209
+[04Sep2025 04:32:17.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 24.20359125098102,5.30984796412082,-0.5020375263084134
+[04Sep2025 04:32:17.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 22.462475711806206,4.9887125278912094,-0.4598943208770834
+[04Sep2025 04:32:17.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 22.462475711806206,4.9887125278912094,-0.4598943208770834
+[04Sep2025 04:32:17.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 20.722488028764104,4.6596556979856985,-0.42263934615789367
+[04Sep2025 04:32:17.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.98189435922569,4.241002799950536,-0.38957462253483754
+[04Sep2025 04:32:17.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.98414209045373,4.323501225715262,-0.38970686823813594
+[04Sep2025 04:32:17.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.512648510881036,3.6238715887279795,-0.32895182207994367
+[04Sep2025 04:32:17.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 12.04912707598345,2.886833335420448,-0.2696947721817651
+[04Sep2025 04:32:17.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 13.732871332443466,3.3624620842994943,-0.3377280915560732
+[04Sep2025 04:32:17.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 13.722579445848112,3.486823449958365,-0.3683662442831519
+[04Sep2025 04:32:17.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 11.98883686906899,2.9283186706357753,-0.32618222344240166
+[04Sep2025 04:32:17.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 11.982600652140434,3.1459451928030546,-0.3555740226636317
+[04Sep2025 04:32:18.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 13.654167327969986,3.6521246694508136,-0.4354210185681495
+[04Sep2025 04:32:18.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.318196075893695,4.171060570709216,-0.5219096038531461
+[04Sep2025 04:32:18.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 17.035796942547677,4.768924211724226,-0.6120339633391723
+[04Sep2025 04:32:18.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.321728819504813,4.327972058555844,-0.5640120378554911
+[04Sep2025 04:32:18.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.288270057206432,4.358962038722538,-0.5831174662755529
+[04Sep2025 04:32:18.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.9689896066146,4.9792915591786056,-0.6968822146286584
+[04Sep2025 04:32:18.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.261842291084065,4.512490542854962,-0.6400719528132868
+[04Sep2025 04:32:18.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.261842291084065,4.512490542854962,-0.6400719528132868
+[04Sep2025 04:32:18.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 13.540173117017275,4.024654697208987,-0.5772453701504219
+[04Sep2025 04:32:18.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.243119036173539,4.567260767630998,-0.6639291926860551
+[04Sep2025 04:32:18.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.209035697289835,4.604174246882579,-0.6817640411456978
+[04Sep2025 04:32:18.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.209305683224102,4.6674745549450165,-0.710058543590776
+[04Sep2025 04:32:18.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.175294120458773,4.705690739168162,-0.7278245994821191
+[04Sep2025 04:32:18.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.86043125484659,5.299348903866004,-0.8455831233973186
+[04Sep2025 04:32:18.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.167061562666106,4.790522018992803,-0.771062172612119
+[04Sep2025 04:32:18.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 13.453067316341958,4.285224757292099,-0.6947216741687043
+[04Sep2025 04:32:18.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 13.47596698665734,4.275708705972363,-0.6939887033702234
+[04Sep2025 04:32:18.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.122233738402997,4.8621678329769935,-0.8057002232897048
+[04Sep2025 04:32:18.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.812295557768806,5.434900971255644,-0.9212365306593711
+[04Sep2025 04:32:18.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.812295557768806,5.434900971255644,-0.9212365306593711
+[04Sep2025 04:32:18.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.812295557768806,5.434900971255644,-0.9212365306593711
+[04Sep2025 04:32:18.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.812295557768806,5.434900971255644,-0.9212365306593711
+[04Sep2025 04:32:18.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.125908971475553,4.905194733742178,-0.8375252114533396
+[04Sep2025 04:32:18.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 13.44119904906222,4.371605214654551,-0.7517644028828272
+[04Sep2025 04:32:18.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 11.731106122025835,3.882753904841877,-0.6686959650205608
+[04Sep2025 04:32:18.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 16.722766137757617,5.563014882917386,-0.9867363314551767
+[04Sep2025 04:32:18.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.457676446748223,6.062648684034983,-1.0675270095073301
+[04Sep2025 04:32:18.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.42291734725407,6.066053219262784,-1.0819795269817405
+[04Sep2025 04:32:18.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 18.447832992607317,6.081629682156475,-1.0800957241897322
+[04Sep2025 04:32:18.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 15.086122861278056,4.992411668155427,-0.8945239407589725
+[04Sep2025 04:32:18.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 11.727920473175999,3.8938220132438204,-0.702920532450662
+[04Sep2025 04:32:18.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 10.022398329252894,3.3351040804586205,-0.6118905474713756
+[04Sep2025 04:32:18.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 10.045030374763343,3.3480327190706447,-0.6096929763432399
+[04Sep2025 04:32:18.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 10.045030374763343,3.3480327190706447,-0.6096929763432399
+[04Sep2025 04:32:18.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 10.045030374763343,3.3480327190706447,-0.6096929763432399
+[04Sep2025 04:32:18.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 10.045030374763343,3.3480327190706447,-0.6096929763432399
+[04Sep2025 04:32:18.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 10.045030374763343,3.3480327190706447,-0.6096929763432399
+[04Sep2025 04:32:18.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 10.045030374763343,3.3480327190706447,-0.6096929763432399
+[04Sep2025 04:32:18.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 10.045030374763343,3.3480327190706447,-0.6096929763432399
+[04Sep2025 04:32:23.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 4.35185303473482,-0.010858957700150995,9.656232647754678
+[04Sep2025 04:32:24.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 2.8205356006900404,-0.4853732340534407,27.29245659603498
+[04Sep2025 04:32:24.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 2.419694915588196,-0.47295824080330817,25.54213364659404
+[04Sep2025 04:32:24.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 2.1066074112403053,-0.45448800430523306,23.774814075475888
+[04Sep2025 04:32:24.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 1.8731257189363602,-0.43076151369180593,21.996101811639164
+[04Sep2025 04:32:24.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 1.560805241014413,-0.44494667538458543,21.901381536632243
+[04Sep2025 04:32:24.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 1.6854798091134269,-0.5086297958171997,27.633292128415405
+[04Sep2025 04:32:24.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 1.5346975362283155,-0.47741531629228007,25.860832567587522
+[04Sep2025 04:32:24.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 1.4912820128208368,-0.4393388692944171,24.071608481825024
+[04Sep2025 04:32:24.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 1.4652670871008775,-0.3398672914072023,22.29271285944742
+[04Sep2025 04:32:24.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 1.5067845380992066,-0.3012659796478232,20.516447134158398
+[04Sep2025 04:32:24.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 1.6188684106114772,-0.2602526139630612,18.74658169341228
+[04Sep2025 04:32:24.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 1.800682920997576,-0.21715108206853984,16.986451023828067
+[04Sep2025 04:32:24.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 2.049619850344814,-0.171663814710584,15.238890474001664
+[04Sep2025 04:32:24.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 2.365227661829203,-0.12537489946477365,13.506914147013504
+[04Sep2025 04:32:24.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 2.7472790731743943,-0.07496495516784307,11.79366300511765
+[04Sep2025 04:32:24.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 3.1913609088172743,-0.02357358747052274,10.100928500791952
+[04Sep2025 04:32:24.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 3.502037208720166,-0.01377224419482559,10.093125915883547
+[04Sep2025 04:32:24.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -0.4270624018995832,-4.0163563281712555,-24.147657646979724
+[04Sep2025 04:32:24.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 0.30128857631935446,-3.630369600644954,-22.431046621100222
+[04Sep2025 04:32:24.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 0.9604997542463884,-3.248628220494112,-20.679770308167917
+[04Sep2025 04:32:24.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 1.5565118696455436,-2.875580385504378,-18.90128952253758
+[04Sep2025 04:32:24.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 2.0891296032900577,-2.510280004387255,-17.097775026745012
+[04Sep2025 04:32:24.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 2.560166422923494,-2.1527709495330356,-15.272578380709547
+[04Sep2025 04:32:24.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 2.9584249561024265,-1.7993739196962508,-13.420013546626251
+[04Sep2025 04:32:24.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 3.315762618088307,-1.4597710450057377,-11.56061943348277
+[04Sep2025 04:32:24.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 3.603550199051895,-1.206566066056837,-9.677472113162366
+[04Sep2025 04:32:24.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 4.610910828787901,0.43182880687915315,9.581780901027969
+[04Sep2025 04:32:25.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -2.5652150722645075,0.5330729048987592,-38.41494645284479
+[04Sep2025 04:32:25.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -2.5652150722645075,0.5330729048987592,-38.41494645284479
+[04Sep2025 04:32:25.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -2.5652150722645075,0.5330729048987592,-38.41494645284479
+[04Sep2025 04:32:25.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -2.5652150722645075,0.5330729048987592,-38.41494645284479
+[04Sep2025 04:32:25.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -2.5652150722645075,0.5330729048987592,-38.41494645284479
+[04Sep2025 04:32:25.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -2.5652150722645075,0.5330729048987592,-38.41494645284479
+[04Sep2025 04:32:25.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -2.5652150722645075,0.5330729048987592,-38.41494645284479
+[04Sep2025 04:32:25.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -2.5652150722645075,0.5330729048987592,-38.41494645284479
+[04Sep2025 04:32:25.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -2.5652150722645075,0.5330729048987592,-38.41494645284479
+[04Sep2025 04:32:25.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! -2.3937230630067603,0.586386757721229,-39.994076118289286
+[04Sep2025 04:32:25.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 2.587376405723113,1.125130990080848,-35.53339663571637
+[04Sep2025 04:32:25.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 2.4176789530574183,1.0397527079014566,-33.922305776695566
+[04Sep2025 04:32:25.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 2.237406164254544,0.919960061637596,-32.388651656849106
+[04Sep2025 04:32:25.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 2.2248824056329504,0.8549932586329447,-32.37051551159993
+[04Sep2025 04:32:25.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 2.373176048606709,0.8615170656829179,-33.688676785852294
+[04Sep2025 04:32:25.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 2.2030556786299655,0.7517212172640058,-32.336380684726464
+[04Sep2025 04:32:25.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 2.1932560187032557,0.7132134996386839,-32.32036989746916
+[04Sep2025 04:32:25.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 1.3327273182025934,0.41943473380264606,-11.64730094013953
+[04Sep2025 04:32:25.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 1.3327273182025934,0.41943473380264606,-11.64730094013953
+[04Sep2025 04:32:25.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 1.3327273182025934,0.41943473380264606,-11.64730094013953
+[04Sep2025 04:32:25.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 1.3327273182025934,0.41943473380264606,-11.64730094013953
+[04Sep2025 04:32:25.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 1.3327273182025934,0.41943473380264606,-11.64730094013953
+[04Sep2025 04:32:25.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 1.3327273182025934,0.41943473380264606,-11.64730094013953
+[04Sep2025 04:32:25.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 1.3327273182025934,0.41943473380264606,-11.64730094013953
+[04Sep2025 04:32:25.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 1.3327273182025934,0.41943473380264606,-11.64730094013953
+[04Sep2025 04:32:25.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 1.3327273182025934,0.41943473380264606,-11.64730094013953
+[04Sep2025 04:32:25.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 1.1536107350340252,0.2745985013788612,-10.205876830964371
+[04Sep2025 04:32:32.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 1.3382509719065183,2.625264367589935,-22.12334611725555
+[04Sep2025 04:32:32.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 1.2353647420545997,2.5103605359332164,-21.243488344588513
+[04Sep2025 04:32:32.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 1.1348236928034652,2.3999911699679473,-20.34349760641794
+[04Sep2025 04:32:32.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 1.0379032434757107,2.299205048699946,-19.41617219328691
+[04Sep2025 04:32:32.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 0.9375796602593311,2.202271957294215,-18.479533015731022
+[04Sep2025 04:32:32.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 0.8390818502306701,2.1175478846173235,-17.515116404211312
+[04Sep2025 04:32:32.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 0.7395336988418251,2.0335330922611377,-16.53994393383732
+[04Sep2025 04:32:32.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 0.639493003918119,1.9603712480396638,-15.540295348534528
+[04Sep2025 04:32:32.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 0.5395260182597781,1.8854917350068519,-14.531164895803613
+[04Sep2025 04:32:32.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 0.439271769811171,1.8166699423203596,-13.50587454837978
+[04Sep2025 04:32:32.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 0.33869940887009875,1.7505024260742488,-12.464922743775332
+[04Sep2025 04:32:32.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 0.2377535350009481,1.6906197127207463,-11.408783645738822
+[04Sep2025 04:32:32.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of _ZorVaK_) moved too quickly! 0.13342233221705158,1.642985981825177,-10.32992159301375
+[04Sep2025 04:32:32.595] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:32:32.595] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:32:32.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:32:32.675] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:32:59.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved too quickly! 10.767542186513388,1.6329798033322476,-4.416376119406323
+[04Sep2025 04:33:35.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [When in Rome]
+[04Sep2025 04:33:35.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/130172, l='ServerLevel[world]', x=34.39, y=34.88, z=1816.47] died, message: 'Cleric was slain by Zombie'
+[04Sep2025 04:33:41.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:33:41.979] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:33:41.982] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:33:41.982] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:33:47.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:33:47.060] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:33:47.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:33:47.760] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:09.259] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:09.259] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:10.423] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:10.423] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:16.659] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:16.659] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:17.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:17.360] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:23.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:23.718] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:24.569] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:24.569] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:26.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:26.220] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:27.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:27.059] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:28.109] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:28.109] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:28.818] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:28.818] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:41.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:41.873] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:43.673] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:43.673] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:45.860] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:45.860] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:53.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:53.323] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:34:53.519] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:34:53.519] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:35:01.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:35:01.969] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:35:02.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:35:02.624] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:35:15.871] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:35:15.871] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:35:18.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:35:18.228] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:35:23.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:35:23.059] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:35:23.710] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:35:23.710] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:35:24.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:35:24.509] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:35:24.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:35:24.509] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:35:25.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:35:25.423] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:35:25.849] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:35:25.849] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:35:31.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:35:31.158] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:35:31.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:35:31.822] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:04.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:04.609] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:07.189] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:07.190] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:07.973] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:07.973] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:08.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:08.608] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:11.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:11.571] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:14.708] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:14.708] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:14.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 04:36:14.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 04:36:16.108] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:16.108] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:16.908] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:16.908] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:19.471] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:19.471] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:19.471] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:19.471] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:19.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai was burnt to a crisp whilst fighting Zombie
+[04Sep2025 04:36:31.528] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:31.528] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:34.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:34.325] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:36.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:36.029] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:36.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:36.029] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:48.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:48.597] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:48.598] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:48.598] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:48.598] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:48.598] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:52.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:52.126] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:36:52.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:36:52.126] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:37:24.578] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:37:24.578] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:37:25.730] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:37:25.730] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:37:27.736] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:37:27.736] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:02.975] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:02.975] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:04.672] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:04.672] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:30.607] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:30.607] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:30.757] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:30.757] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:32.723] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:32.723] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:35.068] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:35.068] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:37.007] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:37.007] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:37.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:37.158] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:38.402] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:38.402] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:38.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:38.560] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:39.005] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:39.005] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:39.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:39.157] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:39.297] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:39.297] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:39.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:39.371] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:43.206] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:43.206] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:43.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:43.520] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:45.905] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:45.905] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:46.002] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:46.002] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:46.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:46.157] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:46.320] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:46.320] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:47.118] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:47.118] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:52.223] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:52.223] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:52.224] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:52.224] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:53.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:53.221] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:53.357] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:53.357] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:53.507] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:53.507] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:53.671] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:53.671] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:53.801] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:53.801] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:56.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:56.269] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:56.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:56.270] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:57.357] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:57.357] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:57.508] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:57.508] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:57.657] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:57.657] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:38:58.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:38:58.269] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:00.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:00.571] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:01.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:01.608] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:02.118] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:02.118] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:02.260] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:02.260] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:02.320] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:02.320] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:02.410] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:02.410] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:02.557] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:02.557] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:02.737] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:02.737] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:07.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:07.221] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:14.757] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:14.757] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:16.121] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:16.121] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:16.121] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:16.121] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:16.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:16.157] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:17.453] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:17.453] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:17.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:17.520] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:17.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:17.520] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:17.521] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:17.521] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:35.771] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:35.771] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:36.947] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:36.947] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:37.757] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:37.757] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:38.657] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:38.657] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:39.457] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:39.457] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:41.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:41.157] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:41.897] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:41.897] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:42.607] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:42.607] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:42.869] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:42.869] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:44.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:44.597] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:44.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:44.769] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:45.297] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:45.297] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:39:47.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:39:47.222] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:14.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:14.570] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:15.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:15.220] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:15.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:15.957] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:16.521] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:16.521] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:16.703] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:16.703] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:17.507] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:17.507] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:19.104] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:19.104] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:19.105] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:19.105] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:20.207] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:20.207] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:20.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:20.957] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:23.752] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:23.752] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:24.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:24.509] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:25.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:25.384] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:26.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:26.106] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:27.606] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:27.606] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:34.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:34.957] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:35.756] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:35.756] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:36.406] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:36.406] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:37.976] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:37.976] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:39.046] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:39.047] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:39.806] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:39.806] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:54.356] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:54.356] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:40:55.071] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:40:55.071] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:14.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 04:41:14.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 04:41:20.096] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:20.096] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:20.846] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:20.846] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:25.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:25.656] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:26.356] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:26.356] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:26.356] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:26.356] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:27.160] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:27.160] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:28.006] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:28.006] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:28.007] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:28.007] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:28.806] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:28.806] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:29.806] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:29.806] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:43.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:43.176] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:43.847] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:43.847] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:44.899] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:44.899] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:45.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:45.706] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:48.256] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:48.256] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:49.356] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:49.356] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[04Sep2025 04:41:50.056] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Sep2025 04:41:50.056] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource

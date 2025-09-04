@@ -5858,6 +5858,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-09-04 04:33:00 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_javelin": {
     "criteria": {
       "has_myrmex_stinger": "2025-08-31 18:09:20 +0000"
