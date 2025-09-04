@@ -456,6 +456,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-09-04 03:51:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_longbow": {
     "criteria": {
       "has_wood": "2025-09-01 01:54:33 +0000"
@@ -528,6 +534,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-09-04 03:51:42 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
     "criteria": {
       "has_template": "2025-09-01 01:53:54 +0000"
@@ -585,6 +597,12 @@
   "spartanshields:recipes/spartanshields/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2025-09-01 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-09-04 03:51:55 +0000"
     },
     "done": true
   },
@@ -902,6 +920,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-09-04 03:51:42 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/redstone_hook": {
     "criteria": {
       "has_items": "2025-09-01 01:53:54 +0000"
@@ -1046,6 +1070,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-09-04 03:51:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-09-01 03:04:21 +0000"
@@ -1067,6 +1097,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-09-01 02:07:34 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-09-04 03:51:55 +0000"
     },
     "done": true
   },
@@ -1271,6 +1307,7 @@
       "minecraft:badlands": "2025-09-01 01:53:20 +0000",
       "minecraft:savanna_plateau": "2025-09-01 02:58:04 +0000",
       "minecraft:beach": "2025-09-01 01:56:36 +0000",
+      "minecraft:mangrove_swamp": "2025-09-04 03:54:10 +0000",
       "minecraft:sparse_jungle": "2025-09-01 02:05:36 +0000",
       "minecraft:lukewarm_ocean": "2025-09-01 02:26:57 +0000",
       "minecraft:river": "2025-09-01 01:59:17 +0000",
@@ -1741,6 +1778,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-09-04 03:51:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-09-01 02:07:34 +0000"
@@ -1768,6 +1811,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/large_quiver_upgrade_kit": {
     "criteria": {
       "has_diamond": "2025-09-01 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-09-04 03:51:55 +0000"
     },
     "done": true
   },
@@ -1843,6 +1892,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-09-04 03:51:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
     "criteria": {
       "has_stick": "2025-09-01 01:54:34 +0000"
@@ -1893,6 +1948,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-09-04 03:51:44 +0000",
       "cooked_beef": "2025-09-01 02:08:45 +0000",
       "porkchop": "2025-09-01 03:39:36 +0000",
       "mutton": "2025-09-01 03:34:49 +0000",
@@ -2736,6 +2792,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-09-04 03:51:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-09-01 01:55:01 +0000"
@@ -2817,6 +2879,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-09-01 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-09-04 03:51:42 +0000"
     },
     "done": true
   },
@@ -2998,6 +3066,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_longbow": {
     "criteria": {
       "has_gold_ingot": "2025-09-01 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-09-04 03:51:55 +0000"
     },
     "done": true
   },
