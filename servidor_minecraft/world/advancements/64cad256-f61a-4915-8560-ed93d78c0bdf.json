@@ -2889,6 +2889,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "chicken_soup": "2025-09-04 01:20:39 +0000",
       "beef_stew": "2025-09-02 01:42:03 +0000"
     },
     "done": false
