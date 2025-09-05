@@ -1109,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-09-05 00:38:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/silver_lance": {
     "criteria": {
       "has_silver_ingot": "2025-08-31 18:52:18 +0000"
@@ -4234,6 +4240,12 @@
   "spartanfire:recipes/spartanfire/lightning_dragon_bone_spear": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-09-03 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-09-05 00:38:52 +0000"
     },
     "done": true
   },

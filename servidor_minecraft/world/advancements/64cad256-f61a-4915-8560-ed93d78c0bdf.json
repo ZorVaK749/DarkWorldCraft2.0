@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/boomgourd": {
     "criteria": {
       "has_gloomgourd": "2025-09-02 01:46:18 +0000"
@@ -464,6 +470,12 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-09-02 23:43:46 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_lance": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
     },
     "done": true
   },
@@ -881,6 +893,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_warhammer": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
     "criteria": {
       "has_milk_bottle": "2025-09-02 01:47:35 +0000"
@@ -950,6 +968,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_pike": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_saber": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
     },
     "done": true
   },
@@ -1070,6 +1094,18 @@
   "undergarden:recipes/undergarden_group/polished_depthrock_wall_stonecutting": {
     "criteria": {
       "has_undergarden:depthrock": "2025-09-04 04:15:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_javelin": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
     },
     "done": true
   },
@@ -1656,6 +1692,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_battleaxe": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/shiverstone_brick_slab_stonecutting": {
     "criteria": {
       "has_undergarden:shiverstone": "2025-09-04 04:15:56 +0000"
@@ -1840,6 +1882,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-08-31 16:28:50 +0000"
@@ -1891,6 +1939,12 @@
   "undergarden:recipes/undergarden_group/pebbles_to_depthrock": {
     "criteria": {
       "has_depthrock_pebble": "2025-09-04 04:17:16 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_rapier": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
     },
     "done": true
   },
@@ -2005,6 +2059,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/copper_arrow": {
     "criteria": {
       "has_feather": "2025-08-31 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
     },
     "done": true
   },
@@ -2649,6 +2709,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_longsword": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-31 17:43:28 +0000"
@@ -2913,6 +2979,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_dagger": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
     "criteria": {
       "has_template": "2025-08-31 16:02:54 +0000"
@@ -2940,6 +3012,12 @@
   "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
     "criteria": {
       "has_straw": "2025-09-02 00:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-09-05 00:44:24 +0000"
     },
     "done": true
   },
@@ -2975,6 +3053,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-09-03 21:16:52 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_tomahawk": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
     },
     "done": true
   },
@@ -3060,6 +3144,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-08-31 16:27:50 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
     },
     "done": true
   },
@@ -3318,6 +3408,12 @@
   "undergarden:recipes/decorations/undergarden_scaffolding": {
     "criteria": {
       "has_stick": "2025-08-31 16:07:38 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_halberd": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
     },
     "done": true
   },
@@ -3716,6 +3812,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_boomerang": {
     "criteria": {
       "has_copper_ingot": "2025-09-01 02:02:17 +0000"
@@ -3821,6 +3923,12 @@
   "undergarden:recipes/undergarden_group/depthrock_wall_stonecutting": {
     "criteria": {
       "has_undergarden:depthrock": "2025-09-04 04:15:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_pike": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
     },
     "done": true
   },
@@ -4155,6 +4263,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_glaive": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/spartanfire/flamed_dragon_bone_heavy_crossbow": {
     "criteria": {
       "has_fire_dragon_blood": "2025-09-03 01:55:21 +0000"
@@ -4170,6 +4284,12 @@
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
       "forge": "2025-09-03 22:40:59 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_spear": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
     },
     "done": true
   },
@@ -4664,6 +4784,12 @@
   "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
     "criteria": {
       "has_template": "2025-08-31 16:02:54 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_scythe": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
     },
     "done": true
   },
@@ -5774,6 +5900,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_boomerang": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/gloomgourd_seeds": {
     "criteria": {
       "has_gloomgourd": "2025-09-02 01:46:18 +0000"
@@ -5843,6 +5975,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_halberd": {
     "criteria": {
       "has_diamond": "2025-08-31 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_katana": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
     },
     "done": true
   },
@@ -6201,6 +6339,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-31 19:37:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_greatsword": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
     },
     "done": true
   },
@@ -6853,6 +6997,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/iced_dragon_bone_longbow": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-05 00:43:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 16:31:45 +0000"
@@ -7168,6 +7318,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-09-03 20:19:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-09-05 00:44:24 +0000"
     },
     "done": true
   },
