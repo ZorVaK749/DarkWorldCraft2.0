@@ -3095,6 +3095,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-09-04 04:01:00 +0000",
+      "minecraft:blaze": "2025-09-05 05:01:11 +0000",
       "minecraft:skeleton": "2025-09-04 03:58:31 +0000",
       "minecraft:spider": "2025-09-01 03:04:17 +0000",
       "minecraft:creeper": "2025-09-01 03:04:22 +0000",
@@ -4528,6 +4529,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-09-01 02:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-09-05 05:00:31 +0000"
     },
     "done": true
   },

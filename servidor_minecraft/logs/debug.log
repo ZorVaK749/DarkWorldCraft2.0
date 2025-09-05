@@ -4951,3 +4951,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [05Sep2025 05:01:43.435] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [05Sep2025 05:01:43.435] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
 [05Sep2025 05:01:48.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai was burnt to a crisp whilst fighting Blaze
+[05Sep2025 05:03:12.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArukuSenpai lost connection: Disconnected
+[05Sep2025 05:03:12.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai left the game
+[05Sep2025 05:04:40.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 05:04:40.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 05:09:40.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 05:09:40.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
