@@ -4827,6 +4827,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_ceryneian_hind": {
+    "criteria": {
+      "location0": "2025-09-04 23:52:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-09-02 01:45:32 +0000"
