@@ -772,3 +772,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [05Sep2025 04:23:06.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai was struck with lightning by Lightning Dragon
 [05Sep2025 04:27:15.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [Cobweb Entanglement]
 [05Sep2025 04:27:51.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of ArukuSenpai) moved wrongly! 0.7549093747893494
+[05Sep2025 04:42:22.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [We Need to Go Deeper]
+[05Sep2025 04:42:58.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ArukuSenpai> 132, 60, 18
+[05Sep2025 05:00:31.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai has made the advancement [A Terrible Fortress]
+[05Sep2025 05:01:48.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai was burnt to a crisp whilst fighting Blaze

@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-09-05 04:51:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/steel_javelin": {
     "criteria": {
       "has_steel_ingot": "2025-09-05 04:19:28 +0000"
@@ -332,6 +338,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-09-01 02:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-09-05 04:51:51 +0000"
     },
     "done": true
   },
@@ -1074,6 +1086,15 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-09-05 04:52:34 +0000",
+      "minecraft:nether_wastes": "2025-09-05 04:42:22 +0000",
+      "minecraft:soul_sand_valley": "2025-09-05 04:51:21 +0000",
+      "minecraft:basalt_deltas": "2025-09-05 04:48:25 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_pike": {
     "criteria": {
       "has_cobblestone": "2025-09-01 01:55:01 +0000"
@@ -1215,6 +1236,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_lance": {
     "criteria": {
       "has_diamond": "2025-09-01 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-05 04:42:22 +0000"
     },
     "done": true
   },
@@ -1800,6 +1827,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-09-04 04:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-05 04:42:22 +0000"
     },
     "done": true
   },
@@ -3065,6 +3098,7 @@
       "minecraft:skeleton": "2025-09-04 03:58:31 +0000",
       "minecraft:spider": "2025-09-01 03:04:17 +0000",
       "minecraft:creeper": "2025-09-01 03:04:22 +0000",
+      "minecraft:piglin": "2025-09-05 04:47:16 +0000",
       "minecraft:zombie": "2025-09-01 03:04:12 +0000"
     },
     "done": false
@@ -3957,6 +3991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-09-05 04:51:51 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/justhammers.justhammers_tab/iron_hammer": {
     "criteria": {
       "has_material": "2025-09-01 02:07:34 +0000"
@@ -4112,6 +4152,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-09-04 00:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-09-05 04:51:51 +0000"
     },
     "done": true
   },
@@ -4503,6 +4549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-09-05 04:46:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-04 04:17:30 +0000"
@@ -4677,6 +4729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-09-05 04:51:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/steel_halberd": {
     "criteria": {
       "has_steel_ingot": "2025-09-05 04:19:28 +0000"
@@ -4758,6 +4816,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-09-01 01:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-09-05 04:51:51 +0000"
     },
     "done": true
   },
