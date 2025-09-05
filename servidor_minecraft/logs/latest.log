@@ -778,3 +778,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [05Sep2025 05:01:48.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai was burnt to a crisp whilst fighting Blaze
 [05Sep2025 05:03:12.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArukuSenpai lost connection: Disconnected
 [05Sep2025 05:03:12.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArukuSenpai left the game
+[05Sep2025 05:50:53.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] heloo
+[05Sep2025 05:51:05.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mati se la come atravezada jijiji
+[05Sep2025 05:51:36.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Sep2025 05:51:36.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Sep2025 05:51:36.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Sep2025 05:51:36.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Sep2025 05:51:36.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Sep2025 05:51:36.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[05Sep2025 05:51:36.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Sep2025 05:51:36.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Sep2025 05:51:36.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[05Sep2025 05:51:36.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Sep2025 05:51:36.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[05Sep2025 05:51:36.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Sep2025 05:51:36.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Sep2025 05:51:36.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[05Sep2025 05:51:36.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
