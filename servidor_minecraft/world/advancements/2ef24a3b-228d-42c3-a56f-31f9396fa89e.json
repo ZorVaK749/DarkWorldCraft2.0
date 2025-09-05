@@ -11,9 +11,21 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_saber": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-09-03 21:40:59 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_longbow": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -98,6 +110,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-09-02 00:07:53 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_battle_hammer": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_scythe": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -299,6 +323,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_warhammer": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-09-01 01:39:32 +0000"
@@ -308,6 +338,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-09-03 23:03:47 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_rapier": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -461,6 +497,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_quarterstaff": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-09-01 23:58:43 +0000"
@@ -470,6 +512,12 @@
   "minecraft:recipes/redstone/mangrove_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-31 18:49:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_warhammer": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -587,6 +635,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_pike": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-08-31 18:11:47 +0000"
@@ -656,6 +710,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-01 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_dagger": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -926,6 +986,12 @@
   "spartanfire:recipes/spartanfire/lightning_dragon_bone_rapier": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-09-03 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_flanged_mace": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -1253,6 +1319,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_tomahawk": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/nether_salad": {
     "criteria": {
       "has_bowl": "2025-09-02 01:50:45 +0000"
@@ -1283,6 +1355,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_lance": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_halberd": {
     "criteria": {
       "has_cobblestone": "2025-08-31 18:55:20 +0000"
@@ -1304,6 +1382,18 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-08-31 18:55:20 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_javelin": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_dagger": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -1346,6 +1436,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-09-03 23:03:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_rapier": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -1689,6 +1785,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_battleaxe": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/copper_arrow": {
     "criteria": {
       "has_feather": "2025-09-03 00:34:51 +0000"
@@ -1917,6 +2019,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_throwing_knife": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 19:01:42 +0000"
@@ -1944,6 +2052,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-03 20:00:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_tomahawk": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -2058,6 +2172,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-09-03 21:40:59 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_greatsword": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -2443,6 +2563,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_quarterstaff": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-09-02 01:50:45 +0000"
@@ -2617,6 +2743,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_parrying_dagger": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-02 01:45:32 +0000"
@@ -2668,6 +2800,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-09-01 01:38:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_spear": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -2959,6 +3097,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_battleaxe": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2025-08-31 18:11:47 +0000",
@@ -3041,6 +3185,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-09-02 00:06:36 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_pike": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -3164,6 +3314,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_heavy_crossbow": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "undergarden:undergarden/all_undergarden_biomes": {
     "criteria": {
       "undergarden:smogstem_forest": "2025-09-03 17:44:28 +0000"
@@ -3245,6 +3401,12 @@
   "spartanweaponry:battleaxe": {
     "criteria": {
       "has_battleaxe": "2025-09-02 00:24:28 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_halberd": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -3512,6 +3674,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_katana": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/spartanfire/dragon_bone_warhammer": {
     "criteria": {
       "has_dragon_bone": "2025-08-31 18:51:42 +0000"
@@ -3663,6 +3831,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_boomerang": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-09-03 18:17:18 +0000"
@@ -3756,6 +3930,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/carpenter_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-03 20:00:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_halberd": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -3900,6 +4080,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 19:01:42 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_flanged_mace": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -4066,6 +4252,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_katana": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 19:01:42 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_spear": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -4977,6 +5169,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_greatsword": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/spartanfire/lightning_dragon_bone_katana": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-09-03 20:07:17 +0000"
@@ -4986,6 +5184,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-09-03 20:19:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_katana": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -5040,6 +5244,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-08-31 19:01:42 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_heavy_crossbow": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -5100,6 +5310,12 @@
   "dungeons_arise:find_heavenly_rider": {
     "criteria": {
       "location0": "2025-09-03 20:50:13 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_javelin": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -5331,6 +5547,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_battle_hammer": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-08-31 18:55:20 +0000"
@@ -5388,6 +5610,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-09-01 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_glaive": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -5469,9 +5697,27 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_throwing_knife": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_longbow": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-09-03 02:39:43 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_parrying_dagger": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
@@ -5722,6 +5968,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_scythe": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-09-01 22:47:40 +0000"
@@ -5821,6 +6073,12 @@
       "carrot": "2025-09-03 18:17:25 +0000"
     },
     "done": false
+  },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_boomerang": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
   },
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
@@ -6038,6 +6296,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_saber": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-01 01:39:31 +0000"
@@ -6182,6 +6446,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_longsword": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/spartanfire/lightning_dragon_bone_glaive": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-09-03 20:07:17 +0000"
@@ -6200,6 +6470,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/jungle_myrmex_stinger_lance": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-08-31 19:06:29 +0000"
@@ -6212,6 +6488,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_glaive": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-08-31 19:36:01 +0000"
@@ -6221,6 +6503,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2025-09-01 16:04:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/spartanfire/desert_myrmex_stinger_longsword": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-09-05 00:17:58 +0000"
     },
     "done": true
   },
