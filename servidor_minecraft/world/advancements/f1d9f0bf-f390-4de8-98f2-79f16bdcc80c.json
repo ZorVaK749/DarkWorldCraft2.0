@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-05 04:23:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_scythe": {
     "criteria": {
       "has_diamond": "2025-09-01 02:07:33 +0000"
@@ -194,6 +200,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2025-09-01 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-09-05 04:20:54 +0000"
     },
     "done": true
   },
@@ -503,6 +515,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-09-05 04:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-09-05 03:38:39 +0000"
@@ -659,6 +677,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-09-05 04:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-09-01 01:59:55 +0000"
@@ -746,6 +770,12 @@
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-09-01 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-09-05 04:20:54 +0000"
     },
     "done": true
   },
@@ -1904,6 +1934,12 @@
     },
     "done": true
   },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-09-05 04:20:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-01 02:22:25 +0000"
@@ -2669,7 +2705,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-09-04 04:33:35 +0000"
+      "in_better_zombie_dungeon": "2025-09-04 04:33:35 +0000",
+      "in_better_spider_dungeon": "2025-09-05 04:27:15 +0000"
     },
     "done": false
   },
@@ -3314,6 +3351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-09-05 04:23:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/steel_scythe": {
     "criteria": {
       "has_steel_ingot": "2025-09-05 04:19:28 +0000"
@@ -3353,6 +3396,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-09-01 01:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-09-05 04:20:54 +0000"
     },
     "done": true
   },
@@ -3401,6 +3450,12 @@
   "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
     "criteria": {
       "has_chest": "2025-09-04 03:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-09-05 04:20:54 +0000"
     },
     "done": true
   },
@@ -4072,6 +4127,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-09-05 04:23:24 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/light_hook": {
     "criteria": {
       "has_items": "2025-09-01 01:53:54 +0000"
@@ -4310,6 +4371,12 @@
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-09-04 04:03:41 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-09-05 04:27:15 +0000"
     },
     "done": true
   },
@@ -4577,6 +4644,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-09-01 03:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-09-05 04:23:41 +0000"
     },
     "done": true
   },
