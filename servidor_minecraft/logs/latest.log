@@ -682,3 +682,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [06Sep2025 17:08:54.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX has made the advancement [Masquerade]
 [06Sep2025 17:12:04.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
 [06Sep2025 17:35:40.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[06Sep2025 17:40:44.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! 9.150492072522866,1.3182053130004618,-6.108980501579701
+[06Sep2025 17:47:48.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2623ms or 52 ticks behind
+[06Sep2025 17:53:54.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=376, y=123, z=-573} BlockPos{x=374, y=122, z=-573}
+[06Sep2025 17:55:50.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=124, z=-568} BlockPos{x=372, y=124, z=-568}
