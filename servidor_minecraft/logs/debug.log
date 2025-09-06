@@ -4868,3 +4868,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [06Sep2025 17:55:50.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=124, z=-568} BlockPos{x=372, y=124, z=-568}
 [06Sep2025 17:57:10.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Sep2025 17:57:10.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 18:02:10.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 18:02:10.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 18:07:10.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 18:07:10.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
