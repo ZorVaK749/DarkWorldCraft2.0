@@ -4872,3 +4872,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [06Sep2025 18:02:10.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Sep2025 18:07:10.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Sep2025 18:07:10.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 18:12:10.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 18:12:10.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 18:16:17.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! -8.706030654789174,0.9860621142605908,-5.3898263409373754
+[06Sep2025 18:16:17.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! 14.335606555933282,-2.068740483460772,0.008368325973414414
+[06Sep2025 18:16:17.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! 14.336826660456381,-2.2306681214384696,-0.015069279151838089
+[06Sep2025 18:16:17.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! 14.33002831159979,-2.232997260758239,-0.013083904253200274
+[06Sep2025 18:16:17.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! 14.323098773367747,-2.21274862556443,-0.011691785093997709
+[06Sep2025 18:16:17.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of vrayiRAX) moved too quickly! 14.316230879284376,-2.191170091334058,-0.011606576317536366
+[06Sep2025 18:17:10.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 18:17:10.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 18:17:16.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 18:17:16.316] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 18:17:16.317] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 18:17:16.317] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 18:17:19.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 18:17:19.165] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 18:17:19.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 18:17:19.166] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 18:17:21.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 18:17:21.272] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 18:17:23.016] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 18:17:23.016] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 18:19:09.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=982, y=89, z=34} BlockPos{x=985, y=89, z=34}
+[06Sep2025 18:19:32.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=982, y=89, z=34} BlockPos{x=976, y=90, z=25}
+[06Sep2025 18:19:32.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=982, y=89, z=34} BlockPos{x=976, y=90, z=25}
+[06Sep2025 18:19:32.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=982, y=89, z=34} BlockPos{x=976, y=90, z=25}
+[06Sep2025 18:19:32.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=982, y=89, z=34} BlockPos{x=976, y=90, z=25}
+[06Sep2025 18:19:32.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=982, y=89, z=34} BlockPos{x=976, y=90, z=25}
+[06Sep2025 18:22:10.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 18:22:10.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 18:27:10.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 18:27:10.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 18:32:10.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 18:32:10.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 18:34:27.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2636ms or 52 ticks behind
+[06Sep2025 18:37:13.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 18:37:13.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
