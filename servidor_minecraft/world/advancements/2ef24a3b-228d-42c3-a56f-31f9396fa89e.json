@@ -917,6 +917,12 @@
     },
     "done": true
   },
+  "undergarden:undergarden/mine_ore": {
+    "criteria": {
+      "has_regalium_crystal": "2025-09-06 18:57:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-09-01 22:46:43 +0000"
@@ -2887,6 +2893,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/regalium_block": {
+    "criteria": {
+      "has_regalium_crystal": "2025-09-06 18:57:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_club": {
     "criteria": {
       "has_wood_log": "2025-08-31 18:13:47 +0000"
@@ -4210,6 +4222,7 @@
       "minecraft:piglin_brute": "2025-09-02 00:04:59 +0000",
       "minecraft:creeper": "2025-08-31 19:34:21 +0000",
       "minecraft:phantom": "2025-09-03 20:50:22 +0000",
+      "minecraft:zombified_piglin": "2025-09-06 18:48:07 +0000",
       "minecraft:wither_skeleton": "2025-09-03 20:50:26 +0000",
       "minecraft:piglin": "2025-09-01 23:53:03 +0000",
       "minecraft:enderman": "2025-09-01 22:22:25 +0000",
@@ -5832,6 +5845,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_flanged_mace": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 18:52:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-09-06 18:56:41 +0000"
     },
     "done": true
   },

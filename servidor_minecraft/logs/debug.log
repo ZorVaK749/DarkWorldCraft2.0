@@ -4965,3 +4965,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [06Sep2025 18:48:53.550] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
 [06Sep2025 18:49:03.312] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
 [06Sep2025 18:49:03.312] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 29.0 Armor value: 2.0 Damage ignoring armor (25.0% damage): 7.25 Damage not ignoring armor: 21.75 Reduced Damage: 21.402 Result Damage: 28.652
+[06Sep2025 18:49:13.949] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 18:49:13.949] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 18:49:20.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 18:49:20.154] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 18:49:34.299] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 18:49:34.299] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 18:51:09.949] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 18:51:09.949] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 18:51:30.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola hay alguien?
+[06Sep2025 18:51:35.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <vrayiRAX> si
+[06Sep2025 18:51:40.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Sep2025 18:51:40.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: say<--[HERE]
+[06Sep2025 18:51:49.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] vrayirax tai rico
+[06Sep2025 18:51:56.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <vrayiRAX> roar
+[06Sep2025 18:52:13.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 18:52:13.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 18:53:30.862] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[06Sep2025 18:53:30.863] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 20.0 Armor value: 0.0 Damage ignoring armor (25.0% damage): 5.0 Damage not ignoring armor: 15.0 Reduced Damage: 15.0 Result Damage: 20.0
+[06Sep2025 18:54:29.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 18:54:29.354] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 18:54:37.345] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 18:54:37.345] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 18:54:40.451] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 18:54:40.451] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 18:57:07.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX has made the advancement [Deep Extraction]
+[06Sep2025 18:57:13.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 18:57:13.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

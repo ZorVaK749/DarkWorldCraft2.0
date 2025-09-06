@@ -699,3 +699,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [06Sep2025 18:19:32.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=982, y=89, z=34} BlockPos{x=976, y=90, z=25}
 [06Sep2025 18:19:32.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=982, y=89, z=34} BlockPos{x=976, y=90, z=25}
 [06Sep2025 18:34:27.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2636ms or 52 ticks behind
+[06Sep2025 18:51:30.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola hay alguien?
+[06Sep2025 18:51:35.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <vrayiRAX> si
+[06Sep2025 18:51:40.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Sep2025 18:51:40.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: say<--[HERE]
+[06Sep2025 18:51:49.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] vrayirax tai rico
+[06Sep2025 18:51:56.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <vrayiRAX> roar
+[06Sep2025 18:57:07.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX has made the advancement [Deep Extraction]
