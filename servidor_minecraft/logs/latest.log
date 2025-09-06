@@ -643,3 +643,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [06Sep2025 16:08:09.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
 [06Sep2025 16:10:33.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2294ms or 45 ticks behind
 [06Sep2025 16:27:20.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[06Sep2025 16:40:51.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX lost connection: Timed out
+[06Sep2025 16:40:51.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX left the game
+[06Sep2025 16:40:51.861] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Sep2025 16:40:58.031] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vrayiRAX is 2ef24a3b-228d-42c3-a56f-31f9396fa89e
+[06Sep2025 16:41:00.177] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3202f65e
+[06Sep2025 16:41:00.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vrayiRAX[/127.200.192.237:57333] logged in with entity id 9498 at (1137.6993622953207, 51.0, 162.50653894744116)
+[06Sep2025 16:41:00.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX joined the game
+[06Sep2025 16:41:00.242] [Server thread/INFO] [Jade/]: Syncing config to vrayiRAX (2ef24a3b-228d-42c3-a56f-31f9396fa89e)
+[06Sep2025 16:41:45.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vrayiRAX lost connection: Timed out
+[06Sep2025 16:41:45.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX left the game
+[06Sep2025 16:41:49.367] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vrayiRAX is 2ef24a3b-228d-42c3-a56f-31f9396fa89e
+[06Sep2025 16:41:51.971] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ea493c4
+[06Sep2025 16:41:51.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vrayiRAX[/127.200.192.237:59619] logged in with entity id 10279 at (1123.3575770646662, 68.81115959273332, 156.48750001192093)
+[06Sep2025 16:41:51.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX joined the game
+[06Sep2025 16:41:52.016] [Server thread/INFO] [Jade/]: Syncing config to vrayiRAX (2ef24a3b-228d-42c3-a56f-31f9396fa89e)
