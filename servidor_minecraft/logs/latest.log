@@ -679,3 +679,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [06Sep2025 17:02:29.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <vrayiRAX> a
 [06Sep2025 17:02:32.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <vrayiRAX> bien
 [06Sep2025 17:02:35.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] gracias
+[06Sep2025 17:08:54.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX has made the advancement [Masquerade]
+[06Sep2025 17:12:04.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind

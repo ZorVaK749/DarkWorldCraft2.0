@@ -4801,3 +4801,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_templat
 [06Sep2025 17:02:35.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] gracias
 [06Sep2025 17:07:04.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Sep2025 17:07:04.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 17:08:54.217] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[06Sep2025 17:08:54.217] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 21.0 Armor value: 1.0 Damage ignoring armor (25.0% damage): 5.25 Damage not ignoring armor: 15.75 Reduced Damage: 15.624 Result Damage: 20.874
+[06Sep2025 17:08:54.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vrayiRAX has made the advancement [Masquerade]
+[06Sep2025 17:08:58.614] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[06Sep2025 17:08:58.614] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 20.0 Armor value: 1.0 Damage ignoring armor (25.0% damage): 5.0 Damage not ignoring armor: 15.0 Reduced Damage: 14.88 Result Damage: 19.880001
+[06Sep2025 17:09:02.266] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 25.0%
+[06Sep2025 17:09:02.266] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 17.0 Armor value: 1.0 Damage ignoring armor (25.0% damage): 4.25 Damage not ignoring armor: 12.75 Reduced Damage: 12.648 Result Damage: 16.897999
+[06Sep2025 17:09:07.573] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Sep2025 17:09:13.041] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 17:09:13.041] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 17:09:18.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Sep2025 17:09:18.597] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[06Sep2025 17:12:04.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[06Sep2025 17:12:06.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 17:12:06.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 17:17:06.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 17:17:06.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
